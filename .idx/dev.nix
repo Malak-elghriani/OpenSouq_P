@@ -6,7 +6,7 @@
   # Use https://search.nixos.org/packages to find packages
   packages = [
     # pkgs.go
-    pkgs.python314
+    pkgs.python3
     pkgs.uv
     pkgs.chromium
     pkgs.chromedriver
@@ -27,16 +27,10 @@
     previews = {
       enable = true;
       previews = {
-        # web = {
-        #   # Example: run "npm run dev" with PORT set to IDX's defined port for previews,
-        #   # and show it in IDX's web preview panel
-        #   command = ["npm" "run" "dev"];
-        #   manager = "web";
-        #   env = {
-        #     # Environment variables to set for your server
-        #     PORT = "$PORT";
-        #   };
-        # };
+        web = {
+          command = [ "sh" "-c" "python3 -m http.server $PORT" ];
+          manager = "web";
+        };
       };
     };
     # Workspace lifecycle hooks
@@ -51,6 +45,7 @@
       # Runs when the workspace is (re)started
       onStart = {
         # Example: start a background task to watch and re-build backend code
+        generate-report = "/bin/python /home/user/opensouq/generate_report.py";
         # watch-backend = "npm run watch-backend";
       };
     };
