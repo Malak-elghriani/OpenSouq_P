@@ -1,4 +1,5 @@
 <h1>Instructions</h1>
+
 <p>To run your Python code on another computer, follow these standard steps:</p>
 <h2>1. Download the Project</h2>
 <p>On the new computer, open a terminal or command prompt and clone your repository:</p>

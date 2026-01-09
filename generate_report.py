@@ -39,7 +39,7 @@ def generate_html_report(data):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Malak's Beautiful Project</title>
+        <title>Malak's Beautiful Project!</title>
         <style>
             body {{ font-family: sans-serif; margin: 2em; }}
             h1, h2 {{ color: #333; }}

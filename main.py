@@ -26,7 +26,7 @@ def harvest_links():
     print("--- Starting Link Harvest ---")
 
     try:
-        while (page_number <= 25):
+        while (page_number <= 10):
             target_url = f"{base_url}{page_number}{next_part}"
             print(f"Scraping Page {page_number}...")
             

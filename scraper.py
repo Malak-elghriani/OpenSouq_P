@@ -5,11 +5,10 @@ import random
 import os
 from bs4 import BeautifulSoup
 
-# --- CONFIGURATION ---
 INPUT_FILE = "all_listings_links.txt"
 OUTPUT_FILE = "property_data.json"
 START_INDEX = 1   # Start at the first link
-END_INDEX = 6200   # Stop after the 100th link (Change this as needed)
+END_INDEX = 6500   # Stop after the 100th link (Change this as needed)
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
