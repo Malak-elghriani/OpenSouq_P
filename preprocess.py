@@ -95,15 +95,6 @@ def show_unique_values(csv_file, column_name):
         print(f"An error occurred: {e}")
 
 
-<<<<<<< HEAD
-
-if __name__ == "__main__":
-    clean_and_process_data("property_data.json", "unclean_data.csv", "processed_data.csv")
-    # show_unique_values("processed_data.csv", "category")
-
-    # df = pd.read_csv("processed_data.csv")
-    # print(df.info())
-=======
 def remove_rows_without_price(csv_file):
     """
     Reads a CSV file, removes rows without a price, and saves the file.
@@ -128,4 +119,3 @@ if __name__ == "__main__":
     remove_rows_without_price("processed_data.csv")
     df = pd.read_csv("processed_data.csv")
     print(df.info())
->>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b

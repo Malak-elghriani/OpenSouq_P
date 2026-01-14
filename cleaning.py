@@ -9,7 +9,7 @@ def clean_data(input_csv, output_csv):
     df = pd.read_csv(input_csv)
     
     # Drop specified columns
-    df.drop(columns=['category', 'reference_id', 'payment_method', 'main_amenities', 'nearby', 'additional_amenities', 'property_status'], inplace=True, errors='ignore')
+    df.drop(columns=['category', 'reference_id', 'payment_method', 'main_amenities', 'nearby', 'additional_amenities', 'land_area' 'property_status'], inplace=True, errors='ignore')
 
     # Handle missing values
     df['bedrooms'] = df['bedrooms'].fillna(df['bedrooms'].mode()[0])
@@ -70,6 +70,11 @@ def transform_cleaned_data(input_csv, output_csv):
 
     # Remove columns with no non-null values
     df.dropna(axis=1, how='all', inplace=True)
+
+    #remove unrealistically cheap houses
+    df = df[df['price'] >= 150000]
+    df = df[df['surface_area'] <= 260000]
+    df = df[df['surface_area'] >= 60]
 
     df.to_csv(output_csv, index=False)
 
@@ -146,6 +151,12 @@ if __name__ == "__main__":
     # transform_cleaned_data("cleaned_data.csv", "cleaned_data.csv")
     # remove_price_outliers("cleaned_data.csv", "cleaned_data.csv")
     # print("Outlier removal complete. Cleaned data saved to cleaned_data.csv")
+
+    # # Load your dataset
+    df = pd.read_csv('cleaned_data.csv')
+    df = df[df['price'] <= 90000000]
+    df.to_csv('cleaned_data.csv', index=False)  # Replace 'cleaned_file.csv' with your desired output file name
+
     eda("cleaned_data.csv")
     # basic_plotting("cleaned_data.csv")
-    outlier_detection("cleaned_data.csv")
+    # outlier_detection("cleaned_data.csv")
