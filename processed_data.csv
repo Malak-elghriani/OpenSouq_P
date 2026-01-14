@@ -935,7 +935,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 170000.0,"https://www.google.com/maps/search/?api=1&query=32.670254,13.290689&zoom=15",Sirte,Other,2 Bedrooms,2 Bathrooms,Unfurnished,140 meter square,320 meter square,1 Floor,Under Construction,Northern,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 430000.0,"https://www.google.com/maps/search/?api=1&query=32.72773,13.251768&zoom=15",Tripoli,Tajura,2 Bedrooms,One Bathroom,Unfurnished,155 meter square,450 meter square,,0 - 11 months,Eastern,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,,,,,,,,
 150000.0,,Benghazi,Al Hawary,2 Bedrooms,2 Bathrooms,Unfurnished,115 meter square,,,Under Construction,Southeast,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.77079,13.354049&zoom=15",Benghazi,Al-Fuwayhat,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,1200 meter square,850 meter square,3 Floors,0 - 11 months,,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 100000.0,,Tripoli,Tajura,5 Bedrooms,2 Bathrooms,Unfurnished,256 meter square,474 meter square,1 Floor,1 - 5 years,,No,Landlord,,Property For Sale,Homes for Sale,,,,,,,,,
 5000000.0,,Tripoli,Al-Serraj,3 Bedrooms,2 Bathrooms,Unfurnished,120 meter square,,,Under Construction,,No,Landlord,,Property For Sale,Apartments for Sale,Last floor with roof,,,,,,,,
 650000.0,,Tripoli,Bin Ashour,4 Bedrooms,2 Bathrooms,Unfurnished,140 meter square,,,20+ years,Northwest,No,Agent,Cash,Property For Sale,Apartments for Sale,First Floor,,,,,,,,
@@ -1513,7 +1516,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 550000.0,"https://www.google.com/maps/search/?api=1&query=32.123882,20.108961&zoom=15",Tripoli,Al-Baesh,2 Bedrooms,One Bathroom,Furnished,125 meter square,388 meter square,,0 - 11 months,Northern,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,,,Mosque,,,,,
 220000.0,"https://www.google.com/maps/search/?api=1&query=32.798035,21.866381&zoom=15",Benghazi,Keesh,4 Bedrooms,2 Bathrooms,Unfurnished,3333 meter square,,,20+ years,Northwest,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,Balcony,,Garage Parking,,,,
 500000.0,"https://www.google.com/maps/search/?api=1&query=32.76046,13.373535&zoom=15",Tripoli,Tareeq Al-Mashtal,5 Bedrooms,4 Bathrooms,Unfurnished,400 meter square,280 meter square,2 Floors,1 - 5 years,Northeast,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.086926,20.066908&zoom=15",Tripoli,Khallet Alforjan,4 Bedrooms,3 Bathrooms,Unfurnished,160 meter square,184 meter square,1 Floor,0 - 11 months,Northwest,No,Landlord,Cash,Property For Sale,Villas for Sale,,1,Balcony,,Staircase,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 1250000.0,"https://www.google.com/maps/search/?api=1&query=32.850105,13.303934&zoom=15",Tripoli,Tajura,5 Bedrooms,2 Bathrooms,Furnished,290 meter square,1200 meter square,1 Floor,10 - 19 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,Garage Parking,,,,
 233333333.0,,Tripoli,Abu Saleem,2 Bedrooms,One Bathroom,Unfurnished,50 meter square,,,20+ years,Northern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Third Floor,,,Mosque,Staircase,,,,
 1500000.0,"https://www.google.com/maps/search/?api=1&query=32.861202,13.331961&zoom=15",Tripoli,Al-Zawiyah St,2 Bedrooms,One Bathroom,Furnished,145 meter square,,,10 - 19 years,Southeast,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,Central Air Conditioning,Bank / ATM,Elevator,,,,
@@ -1535,7 +1541,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 250000.0,"https://www.google.com/maps/search/?api=1&query=32.821906,13.076027&zoom=15",Tripoli,Souq Al-Juma'a,More Than 6 Bedrooms,5 Bathrooms,Unfurnished,240 meter square,,,1 - 5 years,Northeast,No,Agent,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,,,,,
 620000.0,"https://www.google.com/maps/search/?api=1&query=32.071669,20.113457&zoom=15",Tripoli,Al-Sabaa,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,500 meter square,310 meter square,3 Floors,1 - 5 years,Northeast,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 8500.0,"https://www.google.com/maps/search/?api=1&query=32.781387,13.188535&zoom=15",Benghazi,Al Hada'iq,More Than 6 Bedrooms,More Than 6 Bathrooms,Furnished,625 meter square,720 meter square,3 Floors,20+ years,Eastern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.784821,13.264301&zoom=15",Tripoli,Al-Serraj,2 Bedrooms,2 Bathrooms,Unfurnished,90 meter square,,,0 - 11 months,Northern,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 10000000.0,"https://www.google.com/maps/search/?api=1&query=32.119424,20.086791&zoom=15",Tripoli,Al-Seyaheyya,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,190 meter square,,,0 - 11 months,Northern,No,Agent,Cash,Property For Sale,Apartments for Sale,Fourth Floor,,,,,,,,
 240000.0,,Tripoli,Airport Road,5 Bedrooms,3 Bathrooms,Unfurnished,200 meter square,1000 meter square,2 Floors,10 - 19 years,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 750000.0,"https://www.google.com/maps/search/?api=1&query=32.845971,13.073231&zoom=15",Tripoli,Tajura,3 Bedrooms,2 Bathrooms,Unfurnished,100 meter square,400 meter square,1 Floor,1 - 5 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
@@ -1663,7 +1672,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 460000.0,"https://www.google.com/maps/search/?api=1&query=32.86705,13.19895&zoom=15",Tripoli,Al-Serraj,2 Bedrooms,2 Bathrooms,Unfurnished,135 meter square,,,0 - 11 months,Southeast,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,Garage Parking,,,,
 999999.0,"https://www.google.com/maps/search/?api=1&query=32.889435,13.270832&zoom=15",Tripoli,Zawiyat Al Dahmani,5 Bedrooms,3 Bathrooms,Unfurnished,235 meter square,,,1 - 5 years,Northern,No,Agent,Cash,Property For Sale,Apartments for Sale,Third Floor,89,,,,,,,
 265000.0,"https://www.google.com/maps/search/?api=1&query=32.656085,13.060035&zoom=15",Tripoli,Al-Sabaa,4 Bedrooms,3 Bathrooms,Unfurnished,180 meter square,,,1 - 5 years,Southwest,No,Agent,Cash,Property For Sale,Apartments for Sale,First Floor,75,Double Glazed Windows,,Elevator,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.890805,13.217173&zoom=15",Benghazi,Al-Rahba,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,500 meter square,500 meter square,2 Floors,1 - 5 years,,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 450000.0,"https://www.google.com/maps/search/?api=1&query=32.856098,13.262019&zoom=15",Tripoli,Al-Sabaa,4 Bedrooms,3 Bathrooms,Unfurnished,185 meter square,,,6 - 9 years,Southwest,No,Agent,Cash,Property For Sale,Apartments for Sale,First Floor,12,Double Glazed Windows,,,,,,
 3250000.0,,Tripoli,Tajura,3 Bedrooms,One Bathroom,Furnished,153 meter square,4000 meter square,,1 - 5 years,Southern,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,,,,,,,,
 14052422.0,"https://www.google.com/maps/search/?api=1&query=32.71106,13.257284&zoom=15",Benghazi,Al-Salam,More Than 6 Bedrooms,More Than 6 Bathrooms,Furnished,500 meter square,450 meter square,2 Floors,20+ years,,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
@@ -2050,7 +2062,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 750000.0,,Tripoli,Khallet Alforjan,3 Bedrooms,2 Bathrooms,Unfurnished,130 meter square,,,1 - 5 years,Northwest,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,Balcony,,,,,,
 2075000.0,"https://www.google.com/maps/search/?api=1&query=32.760636,13.386431&zoom=15",Tripoli,Zanatah,4 Bedrooms,2 Bathrooms,Semi Furnished,2 meter square,3 meter square,2 Floors,1 - 5 years,,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 18588.0,"https://www.google.com/maps/search/?api=1&query=32.640553,13.204992&zoom=15",Misrata,Al-Ramla,,,,160 meter square,400 meter square,3 Floors,1 - 5 years,Western,No,Landlord,Cash,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.842004,13.243618&zoom=15",Tripoli,Wadi Al-Rabi,3 Bedrooms,One Bathroom,Unfurnished,110 meter square,329 meter square,1 Floor,1 - 5 years,Southwest,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,Mosque,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 650000.0,"https://www.google.com/maps/search/?api=1&query=32.390282,15.124754&zoom=15",Benghazi,Al-Sayeda A'esha,5 Bedrooms,4 Bathrooms,Unfurnished,200 meter square,325 meter square,2 Floors,0 - 11 months,Western,No,Agent,Cash,Property For Sale,Villas for Sale,,0016,,,,,,,
 150000.0,"https://www.google.com/maps/search/?api=1&query=32.692711,13.35406&zoom=15",Tripoli,Al-Hashan,,,,600 meter square,697 meter square,3 Floors,20+ years,Northern,No,Agent,Cash,Property For Sale,Whole Building for Sale,,040,,,,Complete,,,
 5000000.0,"https://www.google.com/maps/search/?api=1&query=32.878336,13.238466&zoom=15",Tripoli,Alfornaj,1 Bedroom,2 Bathrooms,Unfurnished,6494 meter square,9595 meter square,,Under Construction,Southeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,927272,Maid Room,Gym,Garage Parking,,,,
@@ -2258,7 +2273,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 5000.0,"https://www.google.com/maps/search/?api=1&query=32.886215,13.197803&zoom=15",Tripoli,Old Soar Road,4 Bedrooms,One Bathroom,Unfurnished,125 meter square,125 meter square,1 Floor,20+ years,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 1700000.0,"https://www.google.com/maps/search/?api=1&query=32.828237,13.179067&zoom=15",Tripoli,Khallet Alforjan,3 Bedrooms,3 Bathrooms,Unfurnished,180 meter square,200 meter square,1 Floor,0 - 11 months,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 900000.0,"https://www.google.com/maps/search/?api=1&query=32.87138,13.190632&zoom=15",Tripoli,Khallet Alforjan,3 Bedrooms,3 Bathrooms,Unfurnished,165 meter square,140 meter square,1 Floor,0 - 11 months,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Khallet Alforjan,3 Bedrooms,3 Bathrooms,Unfurnished,160 meter square,180 meter square,1 Floor,0 - 11 months,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 220000.0,,Tripoli,Ain Zara,3 Bedrooms,3 Bathrooms,Unfurnished,250 meter square,225 meter square,2 Floors,0 - 11 months,,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 265275.0,,Tripoli,Khallet Alforjan,3 Bedrooms,3 Bathrooms,Unfurnished,115 meter square,130 meter square,1 Floor,0 - 11 months,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 390000.0,,Tripoli,Abu Sittah,4 Bedrooms,One Bathroom,Semi Furnished,130 meter square,,,10 - 19 years,Northwest,No,Landlord,Cash,Property For Sale,Apartments for Sale,Third Floor,,,,Garage Parking,,,,
@@ -2871,7 +2889,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 4000000.0,"https://www.google.com/maps/search/?api=1&query=32.869399,13.1301&zoom=15",Tripoli,Zawiyat Al Dahmani,4 Bedrooms,2 Bathrooms,Furnished,170 meter square,,,6 - 9 years,Northern,No,Agent,Cash,Property For Sale,Apartments for Sale,Fifth Floor,0908,,,,,,,
 1400000.0,"https://www.google.com/maps/search/?api=1&query=32.054704,20.119411&zoom=15",Tripoli,Zanatah,4 Bedrooms,3 Bathrooms,Unfurnished,175 meter square,,,1 - 5 years,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Second Floor,5451,Air Conditioning,,,,,,
 2850000.0,,Tripoli,Tajura,3 Bedrooms,2 Bathrooms,Unfurnished,105 meter square,387 meter square,2 Floors,20+ years,,No,Landlord,Cash,Property For Sale,Homes for Sale,,في الاعلان,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.390949,20.384399&zoom=15",Tripoli,Bin Ashour,3 Bedrooms,One Bathroom,Unfurnished,145 meter square,,,10 - 19 years,Eastern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,Garage Parking,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 400000.0,,Tripoli,Al-Ghasi,2 Bedrooms,One Bathroom,Unfurnished,130 meter square,130 meter square,1 Floor,20+ years,Southwest,No,Agent,Cash,Property For Sale,Homes for Sale,,0916910010,Maid Room,School,Garage Parking,,,,
 800000.0,,Tripoli,Edraibi,3 Bedrooms,2 Bathrooms,Unfurnished,162 meter square,,,1 - 5 years,Southwest,No,Agent,Cash,Property For Sale,Apartments for Sale,First Floor,,Installed Kitchen,,,,,,
 850000.0,,Tripoli,Ain Zara,3 Bedrooms,3 Bathrooms,Unfurnished,200 meter square,235 meter square,1 Floor,Under Construction,Northeast,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
@@ -3100,9 +3121,13 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 300000.0,,Benghazi,Daryanah,4 Bedrooms,2 Bathrooms,Unfurnished,200 meter square,1250 meter square,,Under Construction,Eastern,No,Landlord,,Property For Sale,Farms & Chalets for Sale,,,Private Pool,,,,,,
 370000.0,"https://www.google.com/maps/search/?api=1&query=32.805889,13.31773&zoom=15",Tripoli,Wild Life Rd,3 Bedrooms,One Bathroom,Unfurnished,100 meter square,,,10 - 19 years,,Yes,Landlord,Installments,Property For Sale,Apartments for Sale,First Floor,,,,,,,,
 925000.0,"https://www.google.com/maps/search/?api=1&query=32.808348,13.085723&zoom=15",Tripoli,Gorje,More Than 6 Bedrooms,2 Bathrooms,Unfurnished,165 meter square,165 meter square,2 Floors,20+ years,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,Air Conditioning,,Storage,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.768388,13.063258&zoom=15",Tripoli,Gorje,4 Bedrooms,2 Bathrooms,Unfurnished,120 meter square,120 meter square,2 Floors,20+ years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 700000.0,"https://www.google.com/maps/search/?api=1&query=32.859515,13.204318&zoom=15",Tripoli,Al-Sareem,,,,300 meter square,463 meter square,3 Floors,20+ years,Northwest,No,Landlord,,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
 ,"https://www.google.com/maps/search/?api=1&query=32.362043,20.34649&zoom=15",Tripoli,Al-Qaio,2 Bedrooms,2 Bathrooms,Unfurnished,105 meter square,328 meter square,1 Floor,Under Construction,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+700000.0,"https://www.google.com/maps/search/?api=1&query=32.859515,13.204318&zoom=15",Tripoli,Al-Sareem,,,,300 meter square,463 meter square,3 Floors,20+ years,Northwest,No,Landlord,,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 1111000.0,"https://www.google.com/maps/search/?api=1&query=32.679726,13.158247&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Unfurnished,180 meter square,,,1 - 5 years,Eastern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,,,,,
 1650000.0,"https://www.google.com/maps/search/?api=1&query=32.802029,13.298019&zoom=15",Tripoli,Al-Shok Rd,4 Bedrooms,3 Bathrooms,Unfurnished,220 meter square,,,1 - 5 years,Northern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Third Floor,,,,,,,,
 630000.0,"https://www.google.com/maps/search/?api=1&query=32.843227,13.123366&zoom=15",Tripoli,Ain Zara,5 Bedrooms,4 Bathrooms,Semi Furnished,300 meter square,292 meter square,2 Floors,6 - 9 years,Eastern,No,Landlord,Cash,Property For Sale,Villas for Sale,,٦٤٣٣٦٧,,,,,,,
@@ -3111,7 +3136,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 460000.0,"https://www.google.com/maps/search/?api=1&query=32.549583,13.058186&zoom=15",Misrata,Tripoli St,,,,1400 meter square,1400 meter square,2 Floors,20+ years,Northern,No,Landlord,Cash,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
 950000.0,"https://www.google.com/maps/search/?api=1&query=32.825432,13.294466&zoom=15",Tripoli,Ain Zara,4 Bedrooms,3 Bathrooms,Unfurnished,140 meter square,190 meter square,1 Floor,Under Construction,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 700000.0,"https://www.google.com/maps/search/?api=1&query=32.807354,13.31405&zoom=15",Tripoli,Eastern Hadba Rd,,,,146 meter square,146 meter square,2 Floors,0 - 11 months,Eastern,No,Landlord,Cash,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.895512,13.204318&zoom=15",Tripoli,Tajura,3 Bedrooms,3 Bathrooms,Unfurnished,120 meter square,,,Under Construction,Eastern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Fifth Floor,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 100000.0,"https://www.google.com/maps/search/?api=1&query=32.363493,15.074227&zoom=15",Benghazi,Venice,4 Bedrooms,3 Bathrooms,Unfurnished,221 meter square,,,1 - 5 years,,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,Mall / Shopping Center,Emergency Backup Electricity System,,,,
 225000.0,"https://www.google.com/maps/search/?api=1&query=32.816667,13.266667&zoom=15",Tripoli,Janzour,4 Bedrooms,2 Bathrooms,Semi Furnished,220 meter square,,,20+ years,Eastern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,,,,,
 24242.0,"https://www.google.com/maps/search/?api=1&query=32.841602,13.216549&zoom=15",Tripoli,Hay Demsheq,4 Bedrooms,4 Bathrooms,Unfurnished,300 meter square,,,1 - 5 years,Northern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Third Floor,,Balcony,,,,,,
@@ -3162,7 +3190,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 360000.0,"https://www.google.com/maps/search/?api=1&query=32.807709,13.337058&zoom=15",Tripoli,Al-Serraj,,,,600 meter square,600 meter square,3 Floors,20+ years,Northwest,No,Landlord,Cash,Property For Sale,Whole Building for Sale,,,,Supermarket,,Complete,,,
 175000000.0,"https://www.google.com/maps/search/?api=1&query=32.739677,13.170375&zoom=15",Misrata,Al-Skeirat,2 Bedrooms,One Bathroom,Unfurnished,120 meter square,408 meter square,1 Floor,6 - 9 years,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 320000.0,"https://www.google.com/maps/search/?api=1&query=32.028643,20.0271&zoom=15",Tripoli,Al-Serraj,5 Bedrooms,5 Bathrooms,Unfurnished,460 meter square,230 meter square,3 Floors,0 - 11 months,,No,Agent,Cash,Property For Sale,Villas for Sale,,343,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.741865,13.254349&zoom=15",Tripoli,Edraibi,3 Bedrooms,2 Bathrooms,Unfurnished,160 meter square,,,1 - 5 years,Northeast,No,Landlord,Cash,Property For Sale,Apartments for Sale,Seventh floor,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 330000.0,"https://www.google.com/maps/search/?api=1&query=32.816667,13.266667&zoom=15",Misrata,Tripoli St,,,,1400 meter square,1400 meter square,2 Floors,20+ years,Northern,No,Landlord,,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
 3500000.0,"https://www.google.com/maps/search/?api=1&query=32.837859,13.067932&zoom=15",Tripoli,Khallet Alforjan,3 Bedrooms,3 Bathrooms,Unfurnished,150 meter square,,,1 - 5 years,,No,Agent,Cash,Property For Sale,Apartments for Sale,Third Floor,,,,,,,,
 400000.0,,Tripoli,Airport Road,3 Bedrooms,3 Bathrooms,Unfurnished,360 meter square,250 meter square,2 Floors,6 - 9 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,1,,,,,,,
@@ -3183,7 +3214,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 165000.0,"https://www.google.com/maps/search/?api=1&query=32.055862,20.141684&zoom=15",Tripoli,Sidi Khalifa,3 Bedrooms,One Bathroom,Unfurnished,123 meter square,125 meter square,1 Floor,10 - 19 years,Southwest,No,Landlord,Cash,Property For Sale,Homes for Sale,,094,,,,,,,
 175000.0,"https://www.google.com/maps/search/?api=1&query=32.44076,14.087049&zoom=15",Tripoli,Ain Zara,2 Bedrooms,2 Bathrooms,Semi Furnished,145 meter square,165 meter square,1 Floor,0 - 11 months,Northern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,Double Glazed Windows,,,,,,
 525000.0,"https://www.google.com/maps/search/?api=1&query=32.871883,13.194147&zoom=15",Tripoli,Al-Baesh,3 Bedrooms,3 Bathrooms,Unfurnished,180 meter square,250 meter square,1 Floor,Under Construction,Northern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.084047,20.127611&zoom=15",Tripoli,Al-Serraj,5 Bedrooms,5 Bathrooms,Unfurnished,500 meter square,250 meter square,3 Floors,0 - 11 months,Northern,No,Agent,Cash,Property For Sale,Villas for Sale,,,Maid Room,,Garage Parking,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 250000.0,,Tripoli,Al-Kremiah,2 Bedrooms,2 Bathrooms,Unfurnished,250 meter square,,,6 - 9 years,Northern,No,Landlord,Cash,Property For Sale,Apartments for Sale,First Floor,,,,,,,,
 750000.0,"https://www.google.com/maps/search/?api=1&query=32.924984,13.201256&zoom=15",Tripoli,Fashloum,,,,150 meter square,150 meter square,4 Floors,Under Construction,Northern,No,Agent,Cash,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
 380000.0,"https://www.google.com/maps/search/?api=1&query=32.816667,13.266667&zoom=15",Tripoli,Bin Ashour,4 Bedrooms,3 Bathrooms,Unfurnished,190 meter square,,,1 - 5 years,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Second Floor,28000,Air Conditioning,,,,,,
@@ -3214,7 +3248,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 850000.0,"https://www.google.com/maps/search/?api=1&query=33.064145,13.203898&zoom=15",Al Khums,Other,5 Bedrooms,2 Bathrooms,Unfurnished,450 meter square,450 meter square,2 Floors,20+ years,Southern,No,Landlord,,Property For Sale,Homes for Sale,,,,,,,,,
 800000.0,"https://www.google.com/maps/search/?api=1&query=32.882072,13.181871&zoom=15",Tripoli,Arada,4 Bedrooms,2 Bathrooms,Unfurnished,150 meter square,387 meter square,1 Floor,20+ years,Northwest,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,Garden,,,,
 99999999.0,"https://www.google.com/maps/search/?api=1&query=32.842541,13.076751&zoom=15",Benghazi,Al-Sarti,4 Bedrooms,2 Bathrooms,Unfurnished,190 meter square,300 meter square,1 Floor,20+ years,Southern,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,Storage,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.836016,13.210111&zoom=15",Tripoli,Ain Zara,3 Bedrooms,3 Bathrooms,Furnished,307 meter square,307 meter square,1 Floor,6 - 9 years,,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 1700000.0,"https://www.google.com/maps/search/?api=1&query=31.960756,35.867104&zoom=15",Benghazi,Dakkadosta,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,300 meter square,300 meter square,3 Floors,0 - 11 months,Southern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 2000000.0,"https://www.google.com/maps/search/?api=1&query=32.881454,13.251672&zoom=15",Tripoli,Airport Road,2 Bedrooms,2 Bathrooms,Unfurnished,10000 meter square,,,Under Construction,,No,Landlord,Installments,Property For Sale,Apartments for Sale,Ground Floor,,,Restaurant,,,,,
 255000.0,,Tripoli,Hai Alsslam,3 Bedrooms,2 Bathrooms,Furnished,185 meter square,,,6 - 9 years,,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,,,,,
@@ -3227,7 +3264,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 6000000.0,"https://www.google.com/maps/search/?api=1&query=31.984913,20.148869&zoom=15",Tripoli,Zawiyat Al Dahmani,More Than 6 Bedrooms,3 Bathrooms,Unfurnished,700 meter square,500 meter square,2 Floors,10 - 19 years,Western,No,Agent,Cash,Property For Sale,Homes for Sale,,8500,,,,,,,
 1000000.0,,Tripoli,Ain Zara,,,,350 meter square,350 meter square,1 Floor,1 - 5 years,Western,No,Agent,Cash,Property For Sale,Whole Building for Sale,,,,,,Under Construction,,,
 900000.0,"https://www.google.com/maps/search/?api=1&query=32.849096,13.247503&zoom=15",Tripoli,Ain Zara,4 Bedrooms,2 Bathrooms,Unfurnished,400 meter square,400 meter square,1 Floor,1 - 5 years,Northeast,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Khalatat St,2 Bedrooms,2 Bathrooms,Unfurnished,115 meter square,,,0 - 11 months,Southwest,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 5000000.0,,Tripoli,Ain Zara,More Than 6 Bedrooms,3 Bathrooms,Unfurnished,360 meter square,236 meter square,2 Floors,Under Construction,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,زنظظ,Balcony,,,,,,
 1000000.0,"https://www.google.com/maps/search/?api=1&query=32.77902,13.249993&zoom=15",Tripoli,Wild Life Rd,4 Bedrooms,5 Bathrooms,Unfurnished,200 meter square,600 meter square,2 Floors,6 - 9 years,Northwest,No,Landlord,Cash,Property For Sale,Homes for Sale,,هاا,,,,,,,
 1050000.0,,Tripoli,Al-Serraj,3 Bedrooms,2 Bathrooms,Unfurnished,130 meter square,,,10 - 19 years,Northwest,No,Landlord,Cash,Property For Sale,Apartments for Sale,Second Floor,,,,,,,,
@@ -3307,7 +3347,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 7000000.0,"https://www.google.com/maps/search/?api=1&query=32.859789,13.250562&zoom=15",Tripoli,Ain Zara,5 Bedrooms,4 Bathrooms,Unfurnished,170 meter square,200 meter square,2 Floors,1 - 5 years,Eastern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 780000.0,"https://www.google.com/maps/search/?api=1&query=32.663831,13.219282&zoom=15",Tripoli,Ain Zara,3 Bedrooms,3 Bathrooms,Unfurnished,145 meter square,156 meter square,1 Floor,Under Construction,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 780000.0,"https://www.google.com/maps/search/?api=1&query=32.66383,13.219282&zoom=15",Benghazi,As-Sulmani Al-Sharqi,4 Bedrooms,2 Bathrooms,Semi Furnished,1 meter square,,,10 - 19 years,,No,Landlord,Cash,Property For Sale,Apartments for Sale,Third Floor,,,,Elevator,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.777518,13.002216&zoom=15",Tripoli,Al-Serraj,More Than 6 Bedrooms,4 Bathrooms,Unfurnished,300 meter square,180 meter square,2 Floors,0 - 11 months,Northern,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,Garage Parking,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 335000.0,,Tripoli,Tajura,3 Bedrooms,3 Bathrooms,Unfurnished,290 meter square,2289 meter square,1 Floor,0 - 11 months,Northwest,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 270000.0,"https://www.google.com/maps/search/?api=1&query=32.768838,13.247397&zoom=15",Tripoli,Al-Sabaa,More Than 6 Bedrooms,More Than 6 Bathrooms,Semi Furnished,500 meter square,1977 meter square,4 Floors,10 - 19 years,Eastern,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 195000.0,"https://www.google.com/maps/search/?api=1&query=32.761858,13.257987&zoom=15",Tripoli,Edraibi,4 Bedrooms,One Bathroom,Unfurnished,125 meter square,125 meter square,1 Floor,20+ years,Eastern,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
@@ -3378,7 +3421,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 12000000.0,,Misrata,Other,3 Bedrooms,One Bathroom,Furnished,95 meter square,,,1 - 5 years,Northeast,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
 8000.0,"https://www.google.com/maps/search/?api=1&query=32.838013,13.292166&zoom=15",Tripoli,Ain Zara,More Than 6 Bedrooms,4 Bathrooms,Unfurnished,425 meter square,240 meter square,2 Floors,Under Construction,Western,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 1200000.0,"https://www.google.com/maps/search/?api=1&query=32.841888,13.291818&zoom=15",Tripoli,Tajura,More Than 6 Bedrooms,4 Bathrooms,Unfurnished,180 meter square,440 meter square,3 Floors,20+ years,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.855024,13.080613&zoom=15",Tripoli,Tajura,4 Bedrooms,3 Bathrooms,Unfurnished,280 meter square,415 meter square,,Under Construction,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 180000.0,"https://www.google.com/maps/search/?api=1&query=31.938725,19.954506&zoom=15",Tripoli,Hay Demsheq,More Than 6 Bedrooms,3 Bathrooms,Unfurnished,320 meter square,500 meter square,2 Floors,6 - 9 years,Eastern,No,Agent,Cash,Property For Sale,Villas for Sale,,340658,,,,,,,
 250000.0,"https://www.google.com/maps/search/?api=1&query=32.329296,15.182166&zoom=15",Tripoli,Kashlaf,3 Bedrooms,2 Bathrooms,Unfurnished,144 meter square,144 meter square,1 Floor,20+ years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,Air Conditioning,,Staircase,,,,
 1300000.0,"https://www.google.com/maps/search/?api=1&query=32.871021,13.23137&zoom=15",Benghazi,Sidi Husain,3 Bedrooms,One Bathroom,Unfurnished,200 meter square,,,20+ years,Northeast,No,Agent,Cash,Property For Sale,Apartments for Sale,Fourth Floor,,Balcony,,,,,,
@@ -3437,7 +3483,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 730000.0,"https://www.google.com/maps/search/?api=1&query=32.719165,13.024614&zoom=15",Tripoli,Hai Al-Batata,4 Bedrooms,One Bathroom,Unfurnished,133 meter square,133 meter square,1 Floor,20+ years,Western,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 170000.0,"https://www.google.com/maps/search/?api=1&query=31.886719,19.951721&zoom=15",Tripoli,Gorje,More Than 6 Bedrooms,5 Bathrooms,Unfurnished,110 meter square,110 meter square,3 Floors,20+ years,Northern,No,Landlord,,Property For Sale,Homes for Sale,,,Air Conditioning,,,,,,
 295000.0,"https://www.google.com/maps/search/?api=1&query=32.767007,13.222371&zoom=15",Tripoli,Ain Zara,2 Bedrooms,One Bathroom,Furnished,150 meter square,1000 meter square,1 Floor,10 - 19 years,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,Mosque,Garden,,,,
+<<<<<<< HEAD
 ,,Tripoli,Al-Bivio,,,,900 meter square,340 meter square,4 Floors,Under Construction,Northeast,No,Agent,Cash,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 500000.0,"https://www.google.com/maps/search/?api=1&query=32.830736,13.198095&zoom=15",Tripoli,Wadi Al-Rabi,3 Bedrooms,One Bathroom,Unfurnished,120 meter square,624 meter square,,6 - 9 years,Western,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,,,,,,,,
 1100000.0,"https://www.google.com/maps/search/?api=1&query=32.873352,13.152635&zoom=15",Benghazi,Boatni,4 Bedrooms,3 Bathrooms,Furnished,200 meter square,360 meter square,1 Floor,0 - 11 months,Northwest,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 500000.0,"https://www.google.com/maps/search/?api=1&query=32.801476,13.353051&zoom=15",Tripoli,Al-Sidra,3 Bedrooms,2 Bathrooms,Unfurnished,120 meter square,,,1 - 5 years,,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
@@ -3532,7 +3581,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 550000.0,"https://www.google.com/maps/search/?api=1&query=32.883492,13.179384&zoom=15",Tripoli,Zawiyat Al Dahmani,More Than 6 Bedrooms,2 Bathrooms,Unfurnished,135 meter square,135 meter square,2 Floors,20+ years,Western,No,Landlord,Cash,Property For Sale,Homes for Sale,,00000,Air Conditioning,,Staircase,,,,
 100000.0,"https://www.google.com/maps/search/?api=1&query=32.827495,13.123605&zoom=15",Tripoli,Abu Saleem,4 Bedrooms,2 Bathrooms,Unfurnished,280 meter square,550 meter square,4 Floors,6 - 9 years,,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 300000.0,"https://www.google.com/maps/search/?api=1&query=32.867336,13.207355&zoom=15",Tripoli,Tajura,3 Bedrooms,2 Bathrooms,Unfurnished,135 meter square,250 meter square,1 Floor,Under Construction,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,Balcony,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.764465,13.461715&zoom=15",Tripoli,Al-Bivio,More Than 6 Bedrooms,4 Bathrooms,Unfurnished,700 meter square,1480 meter square,2 Floors,6 - 9 years,,No,Landlord,Cash,Property For Sale,Villas for Sale,,0913158845,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 350000.0,"https://www.google.com/maps/search/?api=1&query=32.857822,13.100203&zoom=15",Tripoli,Tareeq Al-Mashtal,4 Bedrooms,2 Bathrooms,Semi Furnished,300 meter square,610 meter square,1 Floor,10 - 19 years,Northern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 850000.0,"https://www.google.com/maps/search/?api=1&query=32.868557,13.150171&zoom=15",Tripoli,Ain Zara,3 Bedrooms,3 Bathrooms,Unfurnished,150 meter square,,,Under Construction,,No,Landlord,Installments,Property For Sale,Apartments for Sale,First Floor,,Built in Wardrobes,,,,,,
 750000.0,"https://www.google.com/maps/search/?api=1&query=32.835355,13.183065&zoom=15",Tripoli,Khallet Alforjan,4 Bedrooms,3 Bathrooms,Unfurnished,250 meter square,214 meter square,1 Floor,0 - 11 months,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
@@ -3704,7 +3756,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 495000.0,"https://www.google.com/maps/search/?api=1&query=32.575939,13.209419&zoom=15",Tripoli,Janzour,More Than 6 Bedrooms,3 Bathrooms,Furnished,300 meter square,418 meter square,3 Floors,10 - 19 years,,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 425000.0,"https://www.google.com/maps/search/?api=1&query=32.86314,13.223122&zoom=15",Tripoli,Tajura,2 Bedrooms,2 Bathrooms,Unfurnished,110 meter square,,,10 - 19 years,Northern,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
 275000.0,"https://www.google.com/maps/search/?api=1&query=32.759117,13.251098&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Semi Furnished,316 meter square,,,1 - 5 years,Northwest,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Al-Bivio,5 Bedrooms,3 Bathrooms,Unfurnished,320 meter square,560 meter square,1 Floor,10 - 19 years,Northeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 2550000.0,,Tripoli,Al-Serraj,2 Bedrooms,2 Bathrooms,Unfurnished,150 meter square,,,Under Construction,,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
 107864273.0,"https://www.google.com/maps/search/?api=1&query=32.770703,13.139043&zoom=15",Tripoli,Airport Road,2 Bedrooms,2 Bathrooms,Unfurnished,105102108 meter square,,,Under Construction,,No,Landlord,Cash,Property For Sale,Apartments for Sale,Fifth Floor,,Balcony,,,,,,
 4000000.0,"https://www.google.com/maps/search/?api=1&query=32.837635,13.03534&zoom=15",Benghazi,Al Hawary,4 Bedrooms,4 Bathrooms,Unfurnished,130 meter square,500 meter square,1 Floor,0 - 11 months,Northern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,Mosque,,,,,
@@ -3727,7 +3782,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 450000.0,,Tripoli,Salah Al-Din,3 Bedrooms,2 Bathrooms,Unfurnished,140 meter square,,,10 - 19 years,,Yes,Landlord,Cash,Property For Sale,Apartments for Sale,Seventh floor,,,,,,,,
 350000.0,,Tripoli,Gorje,More Than 6 Bedrooms,2 Bathrooms,Semi Furnished,280 meter square,180 meter square,2 Floors,20+ years,Northern,No,Landlord,Cash,Property For Sale,Homes for Sale,,0913662088,,,,,,,
 750000.0,"https://www.google.com/maps/search/?api=1&query=32.778683,13.21008&zoom=15",Tripoli,Abu Saleem,More Than 6 Bedrooms,3 Bathrooms,Unfurnished,132 meter square,132 meter square,3 Floors,20+ years,Southern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Al-Baesh,2 Bedrooms,One Bathroom,Unfurnished,115 meter square,285 meter square,,0 - 11 months,Western,No,Agent,Cash,Property For Sale,Farms & Chalets for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 210000.0,"https://www.google.com/maps/search/?api=1&query=32.781258,13.219161&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Unfurnished,150 meter square,,,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Second Floor,,Balcony,Mosque,,,,,
 1850000.0,,Benghazi,Qaminis,5 Bedrooms,2 Bathrooms,Unfurnished,185 meter square,478 meter square,1 Floor,Under Construction,Northern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,Facilities for the Disabled,,,,
 325000.0,"https://www.google.com/maps/search/?api=1&query=32.838493,13.188287&zoom=15",Sabratha,Other,4 Bedrooms,3 Bathrooms,Unfurnished,250 meter square,2010 meter square,1 Floor,1 - 5 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
@@ -3777,7 +3835,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 175000.0,,Tripoli,Hai Alandalus,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,800 meter square,330 meter square,4 Floors,10 - 19 years,Northern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 1150000.0,"https://www.google.com/maps/search/?api=1&query=32.808941,13.246745&zoom=15",Tripoli,Khallet Alforjan,3 Bedrooms,3 Bathrooms,Unfurnished,165 meter square,190 meter square,1 Floor,0 - 11 months,,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 750000.0,,Tripoli,Al-Serraj,More Than 6 Bedrooms,5 Bathrooms,Unfurnished,650 meter square,318 meter square,3 Floors,6 - 9 years,Eastern,No,Agent,Cash,Property For Sale,Villas for Sale,,001212,Air Conditioning,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Other,3 Bedrooms,2 Bathrooms,Unfurnished,140 meter square,,,10 - 19 years,Western,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,9932,Air Conditioning,,Garage Parking,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 180000.0,,Tripoli,Alfornaj,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,780 meter square,330 meter square,3 Floors,0 - 11 months,Southern,No,Agent,Cash,Property For Sale,Villas for Sale,,12000,Balcony,,,,,,
 215000.0,,Tripoli,Tajura,3 Bedrooms,2 Bathrooms,Semi Furnished,135 meter square,1500 meter square,,0 - 11 months,Eastern,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,,,,,,,,
 175000.0,,Tripoli,Zawiyat Al Dahmani,4 Bedrooms,2 Bathrooms,Unfurnished,175 meter square,,,10 - 19 years,Southern,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,Garage Parking,,,,
@@ -3804,7 +3865,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 2400000.0,"https://www.google.com/maps/search/?api=1&query=32.781731,13.261302&zoom=15",Tripoli,Ain Zara,4 Bedrooms,2 Bathrooms,Unfurnished,100 meter square,277 meter square,2 Floors,10 - 19 years,,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 1225000.0,"https://www.google.com/maps/search/?api=1&query=32.812294,13.294546&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Unfurnished,170 meter square,,,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,First Floor,,Balcony,,,,,,
 950000.0,"https://www.google.com/maps/search/?api=1&query=32.812504,13.29452&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Unfurnished,200 meter square,,,Under Construction,Eastern,No,Agent,Installments,Property For Sale,Apartments for Sale,Second Floor,,Balcony,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Al-Serraj,2 Bedrooms,3 Bathrooms,Unfurnished,175 meter square,,,1 - 5 years,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,Balcony,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 250000.0,,Tripoli,Al-Serraj,3 Bedrooms,2 Bathrooms,Unfurnished,150 meter square,,,Under Construction,Eastern,No,Agent,,Property For Sale,Apartments for Sale,First Floor,,Balcony,,,,,,
 800000.0,,Tripoli,Al-Serraj,5 Bedrooms,5 Bathrooms,Furnished,370 meter square,170 meter square,3 Floors,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 700000.0,,Tripoli,Al-Serraj,2 Bedrooms,2 Bathrooms,Semi Furnished,145 meter square,,,1 - 5 years,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,Air Conditioning,,,,,,
@@ -3823,7 +3887,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 1300000.0,"https://www.google.com/maps/search/?api=1&query=32.826454,13.081622&zoom=15",Tripoli,Wadi Al-Rabi,2 Bedrooms,One Bathroom,Unfurnished,69 meter square,400 meter square,,0 - 11 months,Southern,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,79,,,,,,,
 415000.0,"https://www.google.com/maps/search/?api=1&query=32.826454,13.081622&zoom=15",Tripoli,Al-Serraj,5 Bedrooms,5 Bathrooms,Unfurnished,380 meter square,180 meter square,3 Floors,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Villas for Sale,,,Balcony,,,,,,
 1850000.0,"https://www.google.com/maps/search/?api=1&query=32.831817,13.069372&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,One Bathroom,Unfurnished,150 meter square,,,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,Balcony,,,,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.804141,13.042159&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Unfurnished,156 meter square,150 meter square,2 Floors,Under Construction,Northeast,No,Agent,,Property For Sale,Villas for Sale,,457,Balcony,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 235000.0,"https://www.google.com/maps/search/?api=1&query=32.826469,13.081684&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,2 Bathrooms,Unfurnished,180 meter square,,,Under Construction,Eastern,No,Agent,,Property For Sale,Apartments for Sale,First Floor,,Balcony,,,,,,
 1700000.0,,Tripoli,Al-Serraj,4 Bedrooms,5 Bathrooms,Unfurnished,380 meter square,180 meter square,3 Floors,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Villas for Sale,,,Balcony,,,,,,
 90000.0,"https://www.google.com/maps/search/?api=1&query=32.591828,13.265745&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,2 Bathrooms,Semi Furnished,130 meter square,,,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,First Floor,,Balcony,,,,,,
@@ -3872,7 +3939,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 310000.0,"https://www.google.com/maps/search/?api=1&query=32.805701,13.041319&zoom=15",Tripoli,Ain Zara,More Than 6 Bedrooms,5 Bathrooms,Furnished,350 meter square,220 meter square,2 Floors,0 - 11 months,Northeast,No,Agent,Cash,Property For Sale,Villas for Sale,,,,,,,,,
 230000.0,"https://www.google.com/maps/search/?api=1&query=32.796352,13.082076&zoom=15",Tripoli,Al-Serraj,3 Bedrooms,3 Bathrooms,Unfurnished,200 meter square,,,0 - 11 months,Eastern,No,Agent,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,,,,,
 270000.0,,Tripoli,Al Dahra,5 Bedrooms,2 Bathrooms,Semi Furnished,155 meter square,162 meter square,1 Floor,20+ years,Northwest,No,Agent,Cash,Property For Sale,Homes for Sale,,15,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Al-Seyaheyya,More Than 6 Bedrooms,4 Bathrooms,Unfurnished,550 meter square,280 meter square,3 Floors,1 - 5 years,Southern,No,Agent,Cash,Property For Sale,Villas for Sale,,5,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 265000.0,,Tripoli,Al-Shok Rd,5 Bedrooms,4 Bathrooms,Unfurnished,700 meter square,400 meter square,2 Floors,1 - 5 years,Southwest,No,Agent,Cash,Property For Sale,Villas for Sale,,6,,,,,,,
 950000.0,,Tripoli,Al-Sabaa,5 Bedrooms,4 Bathrooms,Unfurnished,580 meter square,400 meter square,2 Floors,0 - 11 months,Northern,No,Agent,Cash,Property For Sale,Villas for Sale,,6,,,,,,,
 550000.0,"https://www.google.com/maps/search/?api=1&query=32.816761,13.081806&zoom=15",Tripoli,Hai Alandalus,More Than 6 Bedrooms,4 Bathrooms,Furnished,400 meter square,320 meter square,2 Floors,6 - 9 years,Northern,No,Agent,Cash,Property For Sale,Villas for Sale,,7,,,,,,,
@@ -3898,7 +3968,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 1050000.0,,Tripoli,Bin Ashour,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,350 meter square,400 meter square,2 Floors,10 - 19 years,,No,Agent,Cash,Property For Sale,Villas for Sale,,333,,,,,,,
 375000.0,"https://www.google.com/maps/search/?api=1&query=32.7813,13.383098&zoom=15",Tripoli,Bin Ashour,5 Bedrooms,3 Bathrooms,Semi Furnished,300 meter square,400 meter square,3 Floors,20+ years,Northeast,No,Agent,Cash,Property For Sale,Homes for Sale,,,Balcony,,,,,,
 900000.0,,Tripoli,Bin Ashour,,,,1000 meter square,1000 meter square,3 Floors,20+ years,Eastern,No,Agent,Cash,Property For Sale,Whole Building for Sale,,08,,,,Complete,,,
+<<<<<<< HEAD
 ,"https://www.google.com/maps/search/?api=1&query=32.87986,13.193777&zoom=15",Tripoli,Abu Saleem,More Than 6 Bedrooms,One Bathroom,Unfurnished,134 meter square,134 meter square,3 Floors,20+ years,Southern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 360000.0,,Tripoli,Abu Saleem,,,,200 meter square,200 meter square,4 Floors,10 - 19 years,Northeast,No,Landlord,Cash,Property For Sale,Whole Building for Sale,,,,,,Complete,,,
 250000.0,,Tripoli,Ain Zara,,,,,400 meter square,,,,No,Landlord,Cash,Property For Sale,Lands for Sale,,,,,,,,,Residential
 25500.0,"https://www.google.com/maps/search/?api=1&query=27.017273,14.461493&zoom=15",Tripoli,Al Nasr St,,,,,336 meter square,,,Eastern,No,Agent,Cash,Property For Sale,Lands for Sale,,90,,,,,,,Commercial
@@ -3978,7 +4051,10 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 36000.0,,Tripoli,Bin Ashour,,,,58 meter square,,,,,No,Agent,Cash,Property For Sale,Shops for Sale,,,,,,,,,
 62000.0,,Tripoli,Al-Serraj,2 Bedrooms,2 Bathrooms,Unfurnished,120 meter square,,,0 - 11 months,Northwest,No,Agent,Cash,Property For Sale,Apartments for Sale,Second Floor,,Balcony,Mosque,Garage Parking,,,,
 9999.0,"https://www.google.com/maps/search/?api=1&query=32.696365,13.286878&zoom=15",Tripoli,Edraibi,More Than 6 Bedrooms,3 Bathrooms,Semi Furnished,190 meter square,190 meter square,2 Floors,20+ years,Southern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Ain Zara,3 Bedrooms,2 Bathrooms,Unfurnished,165 meter square,270 meter square,1 Floor,6 - 9 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 2400.0,,Tripoli,Tajura,,,,,250 meter square,,,Northern,No,Agent,,Property For Sale,Lands for Sale,,1,,,,,,,Residential
 21.0,,Tripoli,Wadi Al-Rabi,,,,,250 meter square,,,,No,Landlord,Cash,Property For Sale,Lands for Sale,,,,,,,,,Residential
 999999.0,"https://www.google.com/maps/search/?api=1&query=32.871208,13.146643&zoom=15",Benghazi,Sidi Khalifa,2 Bedrooms,2 Bathrooms,Furnished,200 meter square,1000 meter square,1 Floor,1 - 5 years,,No,Landlord,Cash,Property For Sale,Homes for Sale,,0926823493,,,,,,,
@@ -3999,12 +4075,16 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 77799.0,,Tripoli,Al-Shok Rd,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,950 meter square,500 meter square,3 Floors,1 - 5 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,Mall / Shopping Center,,,,,
 790.0,,Tripoli,Khallet Alforjan,,,,,400 meter square,,,Southern,No,Landlord,Cash,Property For Sale,Lands for Sale,,,,,,,,,Residential
 750.0,,Gharyan,Other,,,,,700 meter square,,,Eastern,No,Landlord,Cash,Property For Sale,Lands for Sale,,2083,,,,,,,Mixed Use
+<<<<<<< HEAD
 ,,Tripoli,Airport Road,3 Bedrooms,3 Bathrooms,Unfurnished,167 meter square,250 meter square,2 Floors,10 - 19 years,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,Installed Kitchen,,Staircase,,,,
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
 43000.0,,Tripoli,Souq Al-Juma'a,More Than 6 Bedrooms,More Than 6 Bathrooms,Unfurnished,1660 meter square,1660 meter square,2 Floors,20+ years,Northwest,No,Agent,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 47500.0,"https://www.google.com/maps/search/?api=1&query=32.71283,13.071705&zoom=15",Tripoli,Wadi Al-Rabi,2 Bedrooms,One Bathroom,Unfurnished,120 meter square,363 meter square,1 Floor,1 - 5 years,Northern,No,Landlord,Cash,Property For Sale,Homes for Sale,,0913310311,,,,,,,
 677.0,,Misrata,Other,4 Bedrooms,One Bathroom,Semi Furnished,1 meter square,,,1 - 5 years,,No,Landlord,Cash,Property For Sale,Apartments for Sale,Ground Floor,,,,BBQ Area,,,,
 15959.0,"https://www.google.com/maps/search/?api=1&query=32.763028,12.736496&zoom=15",Tripoli,Souq Al-Juma'a,3 Bedrooms,One Bathroom,Unfurnished,192 meter square,140 meter square,1 Floor,0 - 11 months,Eastern,No,Landlord,Cash,Property For Sale,Homes for Sale,,,,,,,,,
 250.0,,Benghazi,Qar Yunis,More Than 6 Bedrooms,More Than 6 Bathrooms,Furnished,290 meter square,800 meter square,3 Floors,1 - 5 years,Northern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,,,,,
+<<<<<<< HEAD
 ,,Tripoli,Tajura,2 Bedrooms,One Bathroom,Unfurnished,120 meter square,2500 meter square,,6 - 9 years,Northern,No,Landlord,Cash,Property For Sale,Farms & Chalets for Sale,,,,,Garden,,,,
 ,,Tripoli,Abu Saleem,4 Bedrooms,3 Bathrooms,Unfurnished,260 meter square,120 meter square,3 Floors,20+ years,Southeast,No,Landlord,Cash,Property For Sale,Homes for Sale,,,Air Conditioning,,,,,,
 ,,Tripoli,Janzour,5 Bedrooms,5 Bathrooms,Unfurnished,500 meter square,520 meter square,2 Floors,6 - 9 years,Northern,No,Landlord,Cash,Property For Sale,Villas for Sale,,,,,Swimming Pool,,,,
@@ -4014,3 +4094,5 @@ price,location,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,land
 ,,Tripoli,Al-Karuba,4 Bedrooms,3 Bathrooms,Unfurnished,198 meter square,,,1 - 5 years,,No,Landlord,Cash,Property For Sale,Apartments for Sale,Sixth floor,,,,,,,,
 ,,Benghazi,Al Hawary,,,,,500 meter square,,,,No,Agent,Cash,Property For Sale,Lands for Sale,,,,,,,,,Residential
 ,,Tripoli,Ain Zara,,,,,22 meter square,,,Northern,No,Landlord,Cash,Property For Sale,Lands for Sale,,,,,,,,,Residential
+=======
+>>>>>>> 6587619a29010ba7c13d708e605caf9fcc15310b
