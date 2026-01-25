@@ -1719,7 +1719,6 @@ price,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,building_age,
 370000.0,Tripoli,Wild Life Rd,3.0,1.0,False,100.0,10.0,Unknown,True,Landlord,Apartments for Sale,32.805889,13.31773
 925000.0,Tripoli,Gorje,7.0,2.0,False,165.0,20.0,Northeast,False,Landlord,Homes for Sale,32.808348,13.085723
 700000.0,Tripoli,Al-Sareem,3.0,2.0,False,300.0,20.0,Northwest,False,Landlord,Whole Building for Sale,32.859515,13.204318
-700000.0,Tripoli,Al-Sareem,3.0,2.0,False,300.0,20.0,Northwest,False,Landlord,Whole Building for Sale,32.859515,13.204318
 1111000.0,Tripoli,Al-Serraj,3.0,3.0,False,180.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.679726,13.158247
 1650000.0,Tripoli,Al-Shok Rd,4.0,3.0,False,220.0,1.0,Northern,False,Landlord,Apartments for Sale,32.802029,13.298019
 630000.0,Tripoli,Ain Zara,5.0,4.0,False,300.0,6.0,Eastern,False,Landlord,Villas for Sale,32.843227,13.123366

@@ -1,0 +1,1551 @@
+price,city,neighborhood,bedrooms,bathrooms,furnished?,surface_area,building_age,facade,property_mortgaged?,lister_type,subcategory,latitude,longitude
+180000.0,Tripoli,Airport Road,3.0,1.0,False,95.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.733081,13.310333
+255000.0,Tripoli,Al-Serraj,4.0,2.0,False,125.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.849712,13.105349
+600000.0,Tripoli,Airport Road,2.0,2.0,True,165.0,10.0,Northern,False,Landlord,Apartments for Sale,32.83853,13.150776
+475000.0,Tripoli,Alfornaj,4.0,3.0,False,180.0,0.0,Western,False,Landlord,Apartments for Sale,32.85073,13.239476
+475000.0,Tripoli,Al-Shok Rd,4.0,3.0,False,180.0,0.0,Western,False,Landlord,Apartments for Sale,32.826208,13.246933
+215000.0,Tripoli,Alfornaj,2.0,1.0,False,110.0,20.0,Western,False,Landlord,Apartments for Sale,32.844624,13.237267
+240000.0,Gharyan,Other,4.0,2.0,False,160.0,10.0,Northeast,False,Landlord,Apartments for Sale,32.168337,13.028321
+290000.0,Zawiya,Other,3.0,2.0,True,150.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.763028,12.736496
+185000.0,Tripoli,Khalatat St,3.0,2.0,False,120.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.769264,13.181019
+175000.0,Tripoli,Salah Al-Din,2.0,2.0,False,125.0,10.0,Northeast,False,Landlord,Apartments for Sale,32.860039,13.169038
+165000.0,Tripoli,Salah Al-Din,2.0,2.0,False,125.0,10.0,Northeast,False,Landlord,Apartments for Sale,32.850021,13.204186
+325000.0,Misrata,Other,3.0,2.0,True,120.0,10.0,Northwest,False,Landlord,Apartments for Sale,32.397938,15.035662
+450000.0,Benghazi,Al Hada'iq,4.0,2.0,False,150.0,10.0,Western,False,Landlord,Apartments for Sale,32.097365,20.100874
+560000.0,Tripoli,Souq Al-Juma'a,4.0,2.0,False,165.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.871067,13.29159
+575000.0,Tripoli,Al-Mansoura,5.0,1.0,False,170.0,10.0,Northern,False,Agent,Apartments for Sale,32.836273,13.487006
+450000.0,Tripoli,Al-Sidra,5.0,3.0,True,180.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.880876,13.184259
+825000.0,Benghazi,As-Sulmani Al-Sharqi,3.0,1.0,False,120.0,20.0,Southeast,False,Agent,Apartments for Sale,32.871126,13.312342
+550000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,False,160.0,0.0,Northeast,False,Agent,Apartments for Sale,32.778446,13.205771
+150000.0,Misrata,Tamina,1.0,2.0,True,80.0,6.0,Southern,True,Agent,Apartments for Sale,32.240072,20.193121
+795000.0,Tripoli,Al-Jabs,2.0,2.0,False,145.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.02459,20.097458
+252000.0,Tripoli,Al-Hashan,4.0,3.0,False,220.0,0.0,Northern,False,Agent,Apartments for Sale,32.827942,13.381835
+550000.0,Benghazi,Al Hada'iq,4.0,2.0,False,150.0,10.0,Western,False,Landlord,Apartments for Sale,32.852272,13.07647
+300000.0,Tripoli,Al-Jamahirriyah St,1.0,1.0,False,120.0,20.0,Northern,False,Landlord,Apartments for Sale,32.215121,15.088291
+690000.0,Tripoli,Al-Jarabah St,3.0,1.0,False,129.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.891758,13.175072
+725000.0,Tripoli,Tajura,3.0,2.0,False,180.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.787201,13.265077
+720000.0,Benghazi,Qar Yunis,3.0,2.0,False,105.0,0.0,Eastern,False,Agent,Apartments for Sale,32.847191,13.125021
+650000.0,Tripoli,Tajura,3.0,3.0,False,145.0,1.0,Eastern,False,Agent,Apartments for Sale,32.022215,20.033055
+450000.0,Tripoli,Zawiyat Al Dahmani,3.0,1.0,False,170.0,10.0,Eastern,False,Agent,Apartments for Sale,32.803822,13.262916
+500000.0,Benghazi,Bin Yunus,3.0,1.0,False,110.0,6.0,Northwest,False,Agent,Apartments for Sale,32.776279,13.387921
+1000000.0,Tripoli,Janzour,4.0,2.0,False,130.0,20.0,Northwest,False,Landlord,Apartments for Sale,32.152866,20.112332
+750000.0,Tripoli,Al-Serraj,3.0,2.0,True,130.0,6.0,Northwest,False,Landlord,Apartments for Sale,32.083243,20.128089
+160000.0,Tripoli,Al-Serraj,3.0,2.0,False,160.0,0.0,Western,False,Agent,Apartments for Sale,32.124504,20.100513
+300000.0,Tripoli,Al-Sareem,4.0,1.0,False,168.0,20.0,Western,False,Landlord,Apartments for Sale,32.872597,12.030429
+500000.0,Tripoli,Khalatat St,2.0,1.0,False,135.0,1.0,Northern,False,Landlord,Apartments for Sale,32.799776,13.208564
+330000.0,Tripoli,Zawiyat Al Dahmani,5.0,3.0,False,210.0,0.0,Unknown,False,Agent,Apartments for Sale,32.818459,13.064661
+650000.0,Tripoli,Al-Jadada'a,3.0,2.0,True,138.0,1.0,Northern,False,Landlord,Apartments for Sale,32.868942,13.192061
+180000.0,Tripoli,Al Nasr St,3.0,2.0,False,160.0,20.0,Unknown,False,Agent,Apartments for Sale,32.219662,20.187523
+870000.0,Benghazi,Al-Majouri,3.0,1.0,False,150.0,1.0,Northeast,False,Agent,Apartments for Sale,32.886757,13.183507
+650000.0,Tripoli,Al-Serraj,4.0,2.0,False,140.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.768856,13.335288
+295000.0,Benghazi,Al Nahr Road,3.0,3.0,False,200.0,0.0,Northeast,False,Agent,Apartments for Sale,32.788258,13.077653
+175000.0,Benghazi,Bohdema,3.0,1.0,False,135.0,0.0,Unknown,False,Agent,Apartments for Sale,32.675659,13.120444
+350000.0,Tripoli,Al-Serraj,4.0,3.0,False,190.0,0.0,Eastern,False,Agent,Apartments for Sale,31.900473,14.870237
+200000.0,Tripoli,Al-Serraj,3.0,2.0,True,200.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.798492,13.230354
+350000.0,Tripoli,Tajura,2.0,1.0,False,100.0,1.0,Northern,False,Landlord,Apartments for Sale,32.774787,13.282358
+700000.0,Tripoli,Gorje,2.0,2.0,False,150.0,10.0,Eastern,False,Agent,Apartments for Sale,32.86515,13.198338
+250000.0,Tripoli,Old Soar Road,4.0,2.0,False,160.0,0.0,Southern,False,Agent,Apartments for Sale,32.863423,13.097744
+1100000.0,Tripoli,Al-Serraj,3.0,2.0,False,155.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.824888,13.377906
+400000.0,Tripoli,Qasr Bin Ghashir,4.0,2.0,False,200.0,10.0,Southeast,False,Landlord,Apartments for Sale,32.86578,13.126895
+250000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,False,240.0,1.0,Northeast,False,Agent,Apartments for Sale,32.812773,13.354543
+500000.0,Tripoli,Al-Serraj,4.0,3.0,False,160.0,1.0,Western,False,Landlord,Apartments for Sale,32.064637,20.127049
+400000.0,Tripoli,Airport Road,7.0,3.0,False,220.0,10.0,Northern,False,Landlord,Apartments for Sale,32.733391,13.012979
+425000.0,Tripoli,Tajura,4.0,2.0,True,185.0,0.0,Northern,False,Agent,Apartments for Sale,32.804757,13.083527
+780000.0,Tripoli,Al-Shok Rd,3.0,2.0,False,150.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.707444,13.16207
+175000.0,Tripoli,Edraibi,4.0,2.0,False,170.0,1.0,Northwest,False,Agent,Apartments for Sale,32.666443,13.111652
+195000.0,Tripoli,Al-Ghasi,1.0,1.0,True,100.0,0.0,Northern,False,Agent,Apartments for Sale,32.666254,13.26022
+1130000.0,Tripoli,Al-Serraj,3.0,2.0,False,115.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.093371,20.138224
+445000.0,Tripoli,Haiti St,3.0,1.0,False,130.0,20.0,Northeast,False,Agent,Apartments for Sale,32.893192,13.37231
+180000.0,Benghazi,Ruweisat,3.0,2.0,True,150.0,10.0,Western,False,Landlord,Apartments for Sale,32.5084,12.952947
+220000.0,Tripoli,Mizran St,2.0,1.0,True,90.0,10.0,Western,False,Landlord,Apartments for Sale,32.793247,13.212169
+999999.0,Tripoli,Salah Al-Din,3.0,3.0,False,165.0,1.0,Southern,False,Landlord,Apartments for Sale,32.574129,13.271798
+325000.0,Tripoli,Al Dahra,3.0,1.0,False,135.0,10.0,Southeast,False,Agent,Apartments for Sale,32.825473,13.204111
+430000.0,Tripoli,Al-Baesh,3.0,2.0,False,160.0,20.0,Southeast,False,Landlord,Apartments for Sale,32.844385,13.126871
+999999.0,Tripoli,Al-Serraj,3.0,2.0,False,165.0,1.0,Northern,False,Landlord,Apartments for Sale,32.788971,13.353794
+900000.0,Tripoli,Alfornaj,3.0,1.0,False,100.0,10.0,Northern,False,Landlord,Apartments for Sale,32.793624,13.086446
+240000.0,Tripoli,Al-Serraj,4.0,3.0,False,180.0,0.0,Eastern,False,Agent,Apartments for Sale,32.844186,13.237216
+850000.0,Tripoli,Al-Serraj,2.0,1.0,False,90.0,0.0,Northeast,False,Agent,Apartments for Sale,32.85371,13.23876
+265000.0,Tripoli,Abu Saleem,3.0,2.0,False,120.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.797089,13.088934
+355000.0,Benghazi,Al-Zaiton District,3.0,3.0,False,220.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.805105,13.303174
+350000.0,Tripoli,Al-Serraj,3.0,2.0,False,150.0,0.0,Southern,False,Landlord,Apartments for Sale,32.085754,20.086342
+900000.0,Tripoli,Omar Al-Mukhtar Rd,3.0,1.0,False,100.0,6.0,Northern,True,Agent,Apartments for Sale,29.848061,12.974485
+999999.0,Tripoli,Al-Hani,5.0,2.0,False,180.0,10.0,Northwest,False,Landlord,Apartments for Sale,32.834829,13.381749
+1300000.0,Tripoli,Bab Bin Ghashier,3.0,3.0,True,200.0,0.0,Western,False,Agent,Apartments for Sale,32.827942,13.381835
+1150000.0,Tripoli,Al-Jamahirriyah St,4.0,1.0,True,170.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.798798,13.03726
+430000.0,Tripoli,Al-Serraj,4.0,3.0,True,200.0,1.0,Northern,False,Agent,Apartments for Sale,32.710152,13.17502
+300000.0,Tripoli,Khalatat St,3.0,1.0,False,100.0,1.0,Northern,False,Landlord,Apartments for Sale,32.806057,13.272032
+700000.0,Tripoli,Al-Serraj,1.0,1.0,False,70.0,0.0,Northern,False,Landlord,Apartments for Sale,32.734731,13.143703
+270000.0,Tripoli,Al-Serraj,3.0,2.0,False,195.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.821907,13.076027
+677062.0,Tripoli,Al-Jabs,4.0,3.0,False,200.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.513676,13.298787
+210000.0,Tripoli,Al-Sidra,4.0,3.0,False,220.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.845322,13.237057
+1500000.0,Tripoli,Abu Saleem,4.0,2.0,True,185.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.78627,13.317599
+160000.0,Benghazi,Al-Sayeda A'esha,3.0,2.0,False,195.0,6.0,Western,False,Landlord,Apartments for Sale,32.850731,13.239476
+350000.0,Tripoli,Janzour,2.0,2.0,False,185.0,10.0,Western,False,Landlord,Apartments for Sale,32.706184,13.203464
+300000.0,Tripoli,Al-Serraj,3.0,3.0,False,165.0,0.0,Eastern,False,Agent,Apartments for Sale,32.789112,13.021667
+1000000.0,Tripoli,Abu Saleem,3.0,2.0,True,180.0,10.0,Northwest,False,Landlord,Apartments for Sale,32.818981,13.489901
+550000.0,Tripoli,Airport Road,2.0,2.0,False,139.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.816666,13.266667
+999999.0,Tripoli,Salah Al-Din,3.0,2.0,False,140.0,10.0,Northern,False,Landlord,Apartments for Sale,32.850105,13.303934
+355000.0,Tripoli,Al-Serraj,3.0,3.0,False,130.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.710779,13.008624
+550000.0,Tripoli,Abu Saleem,2.0,2.0,False,130.0,1.0,Northern,False,Agent,Apartments for Sale,32.813774,13.321369
+350000.0,Tripoli,Al Dahra,3.0,2.0,False,175.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.776035,13.320095
+380000.0,Tripoli,Khallet Alforjan,4.0,2.0,False,170.0,0.0,Northeast,False,Landlord,Apartments for Sale,32.772789,13.319463
+750000.0,Tripoli,Al-Sidra,4.0,2.0,False,130.0,1.0,Southwest,False,Landlord,Apartments for Sale,32.811197,13.176695
+350000.0,Benghazi,Shabna,3.0,2.0,False,140.0,3.5,Northwest,False,Agent,Apartments for Sale,32.752134,13.284008
+215000.0,Tripoli,Abu Naw'was,4.0,1.0,False,180.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.198179,15.103913
+370000.0,Tripoli,Alfornaj,1.0,1.0,False,100.0,10.0,Eastern,False,Landlord,Apartments for Sale,32.056017,20.122069
+1011111.0,Tripoli,Tajura,4.0,2.0,True,150.0,6.0,Southeast,False,Landlord,Apartments for Sale,32.787292,13.106389
+850000.0,Tripoli,Al-Serraj,3.0,3.0,False,162.0,0.0,Northern,False,Landlord,Apartments for Sale,32.054704,20.119411
+250000.0,Benghazi,Keesh,4.0,2.0,False,150.0,20.0,Northeast,False,Agent,Apartments for Sale,32.807122,13.055716
+850000.0,Benghazi,Shabna,3.0,2.0,False,140.0,3.5,Northeast,False,Agent,Apartments for Sale,32.81411,13.302146
+450000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,130.0,1.0,Northeast,False,Landlord,Apartments for Sale,31.646055,12.812219
+400000.0,Tripoli,Al-Zawiyah St,2.0,1.0,True,70.0,10.0,Western,False,Landlord,Apartments for Sale,32.880157,13.183019
+1250000.0,Tripoli,Al-Serraj,3.0,3.0,False,170.0,0.0,Unknown,False,Agent,Apartments for Sale,32.846348,13.11648
+850000.0,Tripoli,Alfornaj,3.0,2.0,True,140.0,20.0,Southeast,False,Landlord,Apartments for Sale,32.844723,13.185718
+400000.0,Benghazi,Downtown,3.0,2.0,False,150.0,10.0,Northwest,False,Agent,Apartments for Sale,32.761103,13.211379
+1300000.0,Tripoli,Khalatat St,4.0,2.0,False,160.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.827942,13.381835
+150000.0,Zawiya,Western Zawiya,1.0,1.0,False,120.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.109896,20.071985
+360000.0,Benghazi,Al-Sayeda A'esha,3.0,3.0,False,200.0,1.0,Northern,False,Agent,Apartments for Sale,32.859199,13.129345
+370000.0,Tripoli,Other,2.0,2.0,False,200.0,1.0,Western,False,Agent,Apartments for Sale,32.426123,13.223418
+250000.0,Tripoli,Al-Sidra,2.0,2.0,False,140.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.294651,14.855191
+320000.0,Tripoli,Al-Sidra,2.0,1.0,False,130.0,0.0,Northern,False,Agent,Apartments for Sale,32.812263,13.059187
+235000.0,Tripoli,Al Dahra,3.0,1.0,True,165.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.818249,13.115217
+750000.0,Tripoli,Al-Serraj,3.0,2.0,False,130.0,0.0,Northeast,False,Landlord,Apartments for Sale,32.92083,13.382512
+350000.0,Tripoli,Al-Hadba Al-Khadra,2.0,1.0,False,120.0,10.0,Western,False,Agent,Apartments for Sale,32.842899,13.191338
+290000.0,Tripoli,Ghut Shaal,3.0,2.0,False,180.0,10.0,Western,False,Landlord,Apartments for Sale,32.436146,13.718174
+260000.0,Tripoli,Bab Al-Azizia,2.0,2.0,False,120.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.873573,13.38707
+450000.0,Tripoli,Al-Serraj,3.0,2.0,False,150.0,0.0,Western,False,Agent,Apartments for Sale,32.86805,13.173559
+725000.0,Tripoli,Tajura,2.0,2.0,False,135.0,20.0,Northern,False,Landlord,Apartments for Sale,32.861355,13.330465
+350000.0,Tripoli,Hay Al-Islami,3.0,2.0,False,130.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.807171,13.230281
+285000.0,Tripoli,Souq Al-Juma'a,4.0,2.0,False,220.0,0.0,Northern,False,Agent,Apartments for Sale,32.806892,13.474351
+750000.0,Tripoli,Al-Serraj,3.0,2.0,False,120.0,0.0,Western,False,Agent,Apartments for Sale,32.828285,13.243547
+750000.0,Misrata,Other,4.0,2.0,False,150.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.775772,12.992642
+700000.0,Tripoli,Bin Ashour,3.0,2.0,True,165.0,6.0,Unknown,False,Agent,Apartments for Sale,32.9184,13.031747
+975000.0,Benghazi,Venice,3.0,3.0,False,180.0,1.0,Unknown,False,Agent,Apartments for Sale,32.881985,13.19399
+310000.0,Tripoli,Zawiyat Al Dahmani,3.0,1.0,False,100.0,20.0,Northern,False,Agent,Apartments for Sale,32.783329,13.263978
+1050000.0,Tripoli,Al-Sabaa,4.0,3.0,False,210.0,6.0,Eastern,False,Landlord,Apartments for Sale,32.860437,13.329545
+725000.0,Benghazi,Al Hawary,3.0,2.0,False,105.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.778309,13.264442
+1250000.0,Tripoli,Al-Serraj,3.0,2.0,False,135.0,0.0,Northern,False,Landlord,Apartments for Sale,32.820819,13.08826
+950000.0,Benghazi,Al-Sayeda A'esha,3.0,2.0,False,145.0,0.0,Western,False,Agent,Apartments for Sale,32.76852,13.129819
+800000.0,Tripoli,Hay Al-Islami,4.0,2.0,False,125.0,10.0,Northern,False,Landlord,Apartments for Sale,32.881969,13.356048
+270000.0,Tripoli,Al-Kremiah,3.0,2.0,False,120.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.850826,13.124604
+1300000.0,Al Khums,Other,3.0,2.0,False,250.0,6.0,Northern,False,Agent,Apartments for Sale,32.926159,13.097222
+900000.0,Benghazi,Qar Yunis,2.0,2.0,False,110.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.842465,13.189636
+1300000.0,Tripoli,Ain Zara,3.0,2.0,False,125.0,1.0,Southern,False,Landlord,Apartments for Sale,32.894203,13.23655
+650000.0,Tripoli,Bab Bin Ghashier,3.0,2.0,False,130.0,20.0,Northwest,False,Landlord,Apartments for Sale,32.816666,13.266667
+440000.0,Benghazi,Venice,3.0,2.0,False,160.0,1.0,Unknown,False,Agent,Apartments for Sale,32.079136,20.122528
+400000.0,Tripoli,Al-Sidra,4.0,2.0,False,195.0,1.0,Southwest,False,Agent,Apartments for Sale,32.816666,13.266667
+180000.0,Benghazi,Keesh,3.0,2.0,True,180.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.271866,14.869221
+1111110.0,Tripoli,Zawiyat Al Dahmani,3.0,1.0,False,130.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.866493,13.367401
+450000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,True,120.0,1.0,Southern,False,Agent,Apartments for Sale,32.876376,13.205731
+850000.0,Tripoli,Tareeq Al-Mashtal,3.0,1.0,False,200.0,0.0,Northeast,False,Agent,Apartments for Sale,32.8936,13.204016
+500000.0,Tripoli,Al-Serraj,2.0,2.0,False,90.0,0.0,Western,False,Agent,Apartments for Sale,31.974344,20.170803
+225000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,False,200.0,1.0,Unknown,False,Agent,Apartments for Sale,32.807936,13.063811
+1150000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,False,200.0,10.0,Unknown,False,Agent,Apartments for Sale,32.895504,13.211366
+290000.0,Benghazi,Venice,4.0,2.0,False,155.0,20.0,Eastern,False,Agent,Apartments for Sale,32.763538,13.181585
+500000.0,Tripoli,Hay Al-Islami,4.0,2.0,False,170.0,10.0,Northwest,False,Landlord,Apartments for Sale,32.07647,20.063517
+280000.0,Tripoli,Khalatat St,3.0,2.0,False,130.0,0.0,Unknown,True,Landlord,Apartments for Sale,32.702995,13.026418
+695000.0,Tripoli,Ain Zara,4.0,3.0,False,180.0,0.0,Northern,False,Agent,Apartments for Sale,32.482415,13.377253
+999999.0,Tripoli,Al-Serraj,4.0,3.0,False,161.0,0.0,Eastern,False,Agent,Apartments for Sale,32.881477,13.231646
+350000.0,Tripoli,Al-Serraj,3.0,2.0,False,150.0,0.0,Western,False,Landlord,Apartments for Sale,32.117531,20.066382
+300000.0,Tripoli,Other,2.0,2.0,False,120.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.779228,13.074129
+700000.0,Tripoli,That Al-Emad,3.0,1.0,True,140.0,20.0,Northern,False,Landlord,Apartments for Sale,32.783245,13.367493
+200000.0,Tripoli,Khalatat St,2.0,1.0,False,128.0,1.0,Western,False,Agent,Apartments for Sale,32.222126,20.18819
+320000.0,Tripoli,Khalatat St,4.0,2.0,True,150.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.847054,13.214539
+400000.0,Tripoli,Bin Ashour,3.0,1.0,False,150.0,6.0,Northwest,False,Agent,Apartments for Sale,32.201127,20.170041
+700000.0,Benghazi,Sidi Husain,3.0,1.0,True,90.0,20.0,Western,False,Agent,Apartments for Sale,32.882227,13.264333
+500000.0,Benghazi,Al-Salam,2.0,1.0,True,95.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.590432,13.232707
+1150000.0,Tripoli,Salah Al-Din,3.0,3.0,False,165.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.796684,13.082238
+360000.0,Tripoli,Bab Bin Ghashier,3.0,3.0,True,190.0,0.0,Northern,False,Agent,Apartments for Sale,32.849102,13.148837
+1425000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,True,140.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.871056,13.193501
+500000.0,Tripoli,Al-Serraj,3.0,2.0,False,110.0,0.0,Western,False,Landlord,Apartments for Sale,32.89266,13.190845
+1250000.0,Ajdabiya,Other,3.0,2.0,False,220.0,6.0,Unknown,False,Agent,Apartments for Sale,32.86521,13.186232
+150000.0,Tripoli,Hay Al-Islami,3.0,1.0,True,170.0,20.0,Northern,False,Landlord,Apartments for Sale,32.001688,20.111762
+510000.0,Tripoli,Zawiyat Al Dahmani,4.0,2.0,False,145.0,20.0,Northern,False,Landlord,Apartments for Sale,32.785168,13.288426
+770000.0,Tripoli,Khalatat St,3.0,2.0,False,130.0,1.0,Northern,False,Landlord,Apartments for Sale,32.009987,20.038364
+230000.0,Benghazi,Al-Sayeda A'esha,4.0,2.0,False,160.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.78106,13.07882
+1000000.0,Tripoli,Airport Road,2.0,2.0,False,135.0,1.0,Northwest,False,Agent,Apartments for Sale,32.151569,13.013551
+850000.0,Tripoli,Souq Al-Juma'a,4.0,3.0,True,175.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.716644,14.066805
+270000.0,Tripoli,Zawiyat Al Dahmani,4.0,2.0,False,155.0,10.0,Northern,False,Agent,Apartments for Sale,32.841558,13.078059
+900000.0,Tripoli,Ain Zara,4.0,3.0,False,195.0,10.0,Western,False,Agent,Apartments for Sale,32.795757,13.09823
+1000000.0,Benghazi,Al-Berka,2.0,2.0,False,150.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.799486,13.229246
+424444.0,Tripoli,Souq Al-Juma'a,4.0,2.0,False,175.0,0.0,Eastern,False,Agent,Apartments for Sale,32.385475,14.986122
+919555.0,Tripoli,Salah Al-Din,4.0,3.0,False,165.0,1.0,Northern,False,Landlord,Apartments for Sale,32.83297,13.23951
+550000.0,Tripoli,Bin Ashour,4.0,2.0,False,190.0,20.0,Northern,False,Agent,Apartments for Sale,32.874184,13.181682
+325000.0,Tripoli,Al-Serraj,3.0,3.0,False,150.0,0.0,Northern,False,Agent,Apartments for Sale,32.052788,20.057133
+230000.0,Benghazi,Al Hawary,2.0,2.0,False,105.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.812926,13.093776
+550000.0,Tripoli,Shawqy St,4.0,2.0,True,175.0,20.0,Northern,False,Agent,Apartments for Sale,32.782207,13.264551
+165000.0,Tripoli,Janzour,2.0,2.0,False,120.0,0.0,Western,False,Landlord,Apartments for Sale,32.795265,13.31903
+300000.0,Misrata,Other,3.0,2.0,True,240.0,20.0,Southeast,False,Landlord,Apartments for Sale,32.196037,15.09568
+200000.0,Tripoli,Abu Saleem,3.0,2.0,False,120.0,1.0,Western,True,Landlord,Apartments for Sale,32.372772,15.069069
+970000.0,Tripoli,Al-Serraj,3.0,2.0,False,183.0,0.0,Southeast,False,Landlord,Apartments for Sale,32.75057,13.139768
+450000.0,Benghazi,Qar Yunis,2.0,1.0,False,120.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.829285,13.102837
+1200000.0,Tripoli,Gorje,4.0,3.0,False,140.0,1.0,Northwest,False,Landlord,Apartments for Sale,32.849228,13.179183
+750000.0,Tripoli,Bin Ashour,3.0,2.0,True,165.0,6.0,Unknown,False,Agent,Apartments for Sale,32.816239,13.179727
+750000.0,Tripoli,Gorje,4.0,1.0,False,190.0,20.0,Western,False,Landlord,Apartments for Sale,32.862869,13.327659
+500000.0,Tripoli,Tajura,2.0,2.0,True,150.0,6.0,Northeast,True,Landlord,Apartments for Sale,32.871208,13.146643
+150000.0,Tripoli,Ain Zara,5.0,2.0,False,220.0,1.0,Unknown,False,Agent,Apartments for Sale,32.752491,13.206447
+240000.0,Tripoli,Other,2.0,2.0,False,200.0,6.0,Unknown,True,Landlord,Apartments for Sale,32.80809,13.061817
+350000.0,Tripoli,Other,2.0,2.0,False,220.0,6.0,Unknown,True,Landlord,Apartments for Sale,32.812683,13.101152
+600000.0,Tripoli,Khalatat St,3.0,2.0,True,133.0,1.0,Southwest,False,Agent,Apartments for Sale,32.717393,13.366133
+1150000.0,Tripoli,Ain Zara,3.0,3.0,False,183.0,0.0,Unknown,False,Agent,Apartments for Sale,32.673702,13.245773
+800000.0,Tripoli,Al-Shok Rd,3.0,2.0,False,102.0,1.0,Southeast,False,Landlord,Apartments for Sale,32.811576,13.090441
+660000.0,Tripoli,Ain Zara,3.0,2.0,False,140.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.73774,12.982059
+370000.0,Benghazi,Qar Yunis,3.0,2.0,False,160.0,10.0,Unknown,True,Agent,Apartments for Sale,32.711002,13.353189
+1500000.0,Tripoli,Al-Zawiyah St,2.0,1.0,True,145.0,10.0,Southeast,False,Landlord,Apartments for Sale,32.861202,13.331961
+550000.0,Tripoli,Hay Al-Islami,3.0,2.0,False,120.0,10.0,Unknown,False,Agent,Apartments for Sale,32.865334,13.204986
+250000.0,Tripoli,Souq Al-Juma'a,7.0,5.0,False,240.0,1.0,Northeast,False,Agent,Apartments for Sale,32.821906,13.076027
+950000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,False,180.0,0.0,Southern,False,Landlord,Apartments for Sale,32.089973,20.083809
+165000.0,Tripoli,Shawqy St,3.0,1.0,False,110.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.260799,13.035595
+350000.0,Tripoli,Al-Serraj,3.0,2.0,False,130.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.889606,13.382922
+230000.0,Tripoli,Al-Bivio,3.0,2.0,True,160.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.847797,13.115838
+190000.0,Tripoli,Al-Serraj,3.0,2.0,False,140.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.759675,13.090383
+320000.0,Tripoli,Al-Sidra,3.0,2.0,False,135.0,1.0,Northern,False,Landlord,Apartments for Sale,32.837677,13.290431
+800000.0,Tripoli,Ain Zara,3.0,2.0,False,135.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.715256,13.200773
+500000.0,Tripoli,Al-Sareem,3.0,1.0,False,135.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.76046,13.373535
+700000.0,Sabratha,Other,3.0,2.0,False,165.0,6.0,Northeast,False,Landlord,Apartments for Sale,32.012854,20.062216
+990000.0,Tripoli,Al-Zawiyah St,1.0,1.0,True,250.0,10.0,Unknown,False,Agent,Apartments for Sale,32.897636,13.299378
+475000.0,Tripoli,Al-Serraj,3.0,3.0,False,145.0,0.0,Western,False,Landlord,Apartments for Sale,32.845465,13.08475
+460000.0,Tripoli,Al-Serraj,2.0,2.0,False,135.0,0.0,Southeast,False,Landlord,Apartments for Sale,32.86705,13.19895
+999999.0,Tripoli,Zawiyat Al Dahmani,5.0,3.0,False,235.0,1.0,Northern,False,Agent,Apartments for Sale,32.889435,13.270832
+265000.0,Tripoli,Al-Sabaa,4.0,3.0,False,180.0,1.0,Southwest,False,Agent,Apartments for Sale,32.656085,13.060035
+450000.0,Tripoli,Al-Sabaa,4.0,3.0,False,185.0,6.0,Southwest,False,Agent,Apartments for Sale,32.856098,13.262019
+1000000.0,Tripoli,Gorje,4.0,1.0,False,190.0,20.0,Western,False,Landlord,Apartments for Sale,32.027866,20.16795
+175000.0,Tripoli,University of Tripoli,3.0,2.0,False,165.0,1.0,Unknown,False,Agent,Apartments for Sale,32.795086,13.0771
+270000.0,Tripoli,Qasr Bin Ghashir,2.0,2.0,False,150.0,6.0,Northern,False,Landlord,Apartments for Sale,32.705284,12.982896
+400000.0,Tripoli,Al-Serraj,4.0,2.0,False,130.0,0.0,Southern,True,Agent,Apartments for Sale,32.701813,13.056347
+1250000.0,Tripoli,Al-Serraj,4.0,2.0,False,140.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.821906,13.076027
+285000.0,Tripoli,Ain Zara,3.0,1.0,False,90.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.701237,12.396827
+610000.0,Tripoli,Al-Nofliyen,5.0,3.0,False,230.0,0.0,Northern,False,Landlord,Apartments for Sale,32.785936,13.01605
+200000.0,Benghazi,Al-Fatih,4.0,2.0,False,170.0,20.0,Southern,False,Landlord,Apartments for Sale,32.783966,13.248413
+1250000.0,Tripoli,Hai Alsslam,4.0,3.0,False,200.0,6.0,Unknown,False,Landlord,Apartments for Sale,31.94705,20.1413
+325000.0,Benghazi,Al-Sayeda A'esha,4.0,2.0,False,180.0,0.0,Unknown,False,Agent,Apartments for Sale,32.049137,20.131525
+700000.0,Tripoli,Al-Serraj,3.0,2.0,False,200.0,1.0,Unknown,False,Agent,Apartments for Sale,32.874873,13.254805
+500000.0,Tripoli,Khalatat St,3.0,2.0,True,160.0,6.0,Eastern,False,Landlord,Apartments for Sale,32.871208,13.146643
+180000.0,Al Khums,Other,4.0,2.0,False,175.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.77352,13.183477
+1500000.0,Tripoli,Zawiyat Al Dahmani,2.0,2.0,False,120.0,20.0,Western,False,Agent,Apartments for Sale,32.755493,13.596101
+700000.0,Tripoli,Al-Sabaa,4.0,2.0,False,175.0,0.0,Eastern,False,Agent,Apartments for Sale,32.827274,13.197671
+900000.0,Tripoli,Al-Serraj,3.0,2.0,False,160.0,0.0,Western,False,Agent,Apartments for Sale,32.73309,13.05211
+195000.0,Tripoli,Al-Shok Rd,3.0,3.0,False,205.0,1.0,Western,False,Landlord,Apartments for Sale,32.727272,13.33865
+250000.0,Tripoli,Al-Serraj,4.0,3.0,False,190.0,1.0,Southeast,False,Agent,Apartments for Sale,32.743876,13.22597
+175000.0,Tripoli,Khalatat St,1.0,1.0,False,222.0,0.0,Western,False,Landlord,Apartments for Sale,32.79775,13.097514
+240000.0,Zawiya,Other,2.0,1.0,False,70.0,1.0,Northwest,False,Landlord,Apartments for Sale,32.828555,13.382393
+820000.0,Benghazi,Qar Yunis,3.0,2.0,False,120.0,10.0,Northern,False,Landlord,Apartments for Sale,32.78396,13.309824
+910000.0,Benghazi,Al-Majouri,2.0,2.0,False,95.0,20.0,Eastern,False,Agent,Apartments for Sale,32.12207,20.105009
+1500000.0,Gharyan,Other,4.0,2.0,False,150.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.768601,13.34577
+280000.0,Tripoli,Al-Serraj,3.0,2.0,False,170.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.663433,13.302037
+225000.0,Benghazi,Al Hada'iq,4.0,3.0,True,220.0,0.0,Northeast,False,Landlord,Apartments for Sale,32.569035,13.128031
+500000.0,Tripoli,That Al-Emad,5.0,2.0,False,200.0,0.0,Northeast,False,Agent,Apartments for Sale,32.816667,13.266667
+750000.0,Tripoli,Al Nasr St,3.0,2.0,True,180.0,10.0,Northern,False,Agent,Apartments for Sale,32.131332,20.126528
+1150000.0,Tripoli,Al-Jamahirriyah St,3.0,1.0,False,160.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.816666,13.266667
+1350000.0,Tripoli,Janzour,5.0,1.0,True,140.0,10.0,Eastern,False,Landlord,Apartments for Sale,32.802771,13.241592
+860000.0,Tripoli,Hay Al-Islami,2.0,2.0,False,130.0,20.0,Western,False,Landlord,Apartments for Sale,32.896024,13.20412
+250000.0,Tripoli,Airport Road,3.0,2.0,True,140.0,6.0,Northern,False,Agent,Apartments for Sale,32.836929,13.107994
+157000.0,Benghazi,As-Sulmani Al-Sharqi,3.0,1.0,False,140.0,6.0,Western,False,Agent,Apartments for Sale,32.747908,13.141957
+630000.0,Tripoli,Al-Serraj,4.0,3.0,True,190.0,1.0,Eastern,False,Agent,Apartments for Sale,32.853289,13.102014
+850000.0,Tripoli,Khalatat St,3.0,2.0,False,130.0,1.0,Northeast,False,Agent,Apartments for Sale,32.874873,13.254805
+420000.0,Tripoli,Tareeq Al-Mashtal,3.0,3.0,True,180.0,6.0,Eastern,False,Landlord,Apartments for Sale,32.100197,20.130072
+375000.0,Tripoli,Airport Road,4.0,2.0,False,145.0,10.0,Southeast,False,Landlord,Apartments for Sale,32.090149,20.090199
+350000.0,Tripoli,Al-Sidra,3.0,3.0,False,175.0,0.0,Southern,False,Landlord,Apartments for Sale,32.749405,13.152256
+290000.0,Tripoli,Al-Jabs,2.0,2.0,False,125.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.816666,13.266667
+625000.0,Tripoli,Al-Serraj,2.0,1.0,False,95.0,0.0,Southeast,False,Landlord,Apartments for Sale,32.81369,13.174575
+220000.0,Tripoli,Al-Hani,3.0,2.0,False,180.0,6.0,Unknown,False,Agent,Apartments for Sale,31.917013,19.98098
+600000.0,Benghazi,Al-Salam,3.0,2.0,False,145.0,1.0,Northern,False,Landlord,Apartments for Sale,32.072927,20.086179
+255000.0,Benghazi,Al Nahr Road,3.0,3.0,True,240.0,0.0,Northwest,False,Agent,Apartments for Sale,32.824344,13.111371
+490000.0,Tripoli,Al-Kremiah,2.0,2.0,False,120.0,6.0,Southwest,False,Landlord,Apartments for Sale,32.800495,13.12064
+245000.0,Tripoli,Tajura,4.0,2.0,False,150.0,20.0,Northern,False,Landlord,Apartments for Sale,32.749302,13.281001
+1300000.0,Tripoli,Zawiyat Al Dahmani,3.0,2.0,False,159.0,10.0,Northeast,False,Agent,Apartments for Sale,32.827942,13.381835
+450000.0,Tripoli,Bin Ashour,3.0,2.0,False,160.0,10.0,Northeast,False,Agent,Apartments for Sale,32.880986,13.184869
+1200000.0,Benghazi,Qar Yunis,2.0,2.0,False,105.0,6.0,Northern,False,Landlord,Apartments for Sale,32.876901,13.257945
+680000.0,Zawiya,Other,2.0,1.0,False,137.0,6.0,Northwest,True,Agent,Apartments for Sale,32.874873,13.254805
+900000.0,Tripoli,Al-Seyaheyya,3.0,3.0,False,240.0,10.0,Southern,False,Agent,Apartments for Sale,32.875575,13.27555
+1100000.0,Tripoli,Zawiyat Al Dahmani,3.0,2.0,False,150.0,10.0,Eastern,False,Agent,Apartments for Sale,32.849701,13.122361
+975000.0,Tripoli,Qasr Bin Ghashir,4.0,2.0,False,150.0,6.0,Unknown,False,Agent,Apartments for Sale,32.855549,13.128197
+210000.0,Tripoli,Abu Saleem,3.0,1.0,False,95.0,10.0,Northern,False,Landlord,Apartments for Sale,32.099801,20.086462
+300000.0,Tripoli,Edraibi,3.0,2.0,False,150.0,10.0,Northern,False,Landlord,Apartments for Sale,32.744488,13.215256
+400000.0,Tripoli,Al-Serraj,3.0,2.0,False,120.0,0.0,Western,False,Landlord,Apartments for Sale,32.860156,13.202024
+1000000.0,Zawiya,Western Zawiya,3.0,2.0,False,130.0,1.0,Northwest,False,Landlord,Apartments for Sale,32.807686,13.281716
+200000.0,Benghazi,Qar Yunis,3.0,2.0,False,122.0,10.0,Southern,False,Agent,Apartments for Sale,32.804907,13.481702
+650000.0,Tripoli,Tajura,3.0,2.0,False,200.0,10.0,Northern,False,Landlord,Apartments for Sale,32.611145,12.617845
+300000.0,Tripoli,Salah Al-Din,2.0,2.0,True,150.0,10.0,Unknown,False,Agent,Apartments for Sale,32.829826,13.211234
+375000.0,Tripoli,Al-Karuba,4.0,2.0,False,185.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.264404,13.044426
+1500000.0,Tripoli,Al-Sabaa,4.0,3.0,False,195.0,0.0,Southwest,False,Agent,Apartments for Sale,32.842966,13.260387
+1200000.0,Tripoli,Bin Ashour,5.0,3.0,False,230.0,1.0,Unknown,False,Agent,Apartments for Sale,32.778972,13.318131
+300000.0,Benghazi,Venice,3.0,2.0,False,135.0,0.0,Unknown,False,Agent,Apartments for Sale,31.967278,19.987686
+263000.0,Tripoli,Al-Najila,1.0,1.0,True,110.0,20.0,Northwest,False,Landlord,Apartments for Sale,32.821907,13.076027
+153000.0,Tripoli,Al-Jabs,2.0,1.0,False,120.0,0.0,Western,False,Agent,Apartments for Sale,32.778679,13.018893
+215000.0,Tripoli,Al-Serraj,2.0,2.0,False,125.0,0.0,Northern,False,Landlord,Apartments for Sale,32.816395,13.122108
+175000.0,Tripoli,Ain Zara,2.0,1.0,False,100.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.793349,13.050447
+330000.0,Benghazi,Venice,2.0,2.0,False,125.0,0.0,Unknown,False,Agent,Apartments for Sale,32.318371,15.173064
+450000.0,Tripoli,Al-Serraj,3.0,2.0,True,220.0,0.0,Southeast,False,Agent,Apartments for Sale,32.753298,13.143588
+550000.0,Marj,Other,3.0,2.0,False,215.0,6.0,Northern,False,Landlord,Apartments for Sale,32.516372,13.009701
+265000.0,Benghazi,Keesh,2.0,1.0,False,150.0,10.0,Unknown,False,Agent,Apartments for Sale,32.498225,20.819529
+330000.0,Tripoli,Airport Road,3.0,1.0,False,110.0,10.0,Eastern,False,Landlord,Apartments for Sale,32.069254,20.06723
+1300000.0,Misrata,Other,3.0,2.0,False,200.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.856098,13.262019
+200000.0,Tripoli,Al-Maqrif,3.0,1.0,False,150.0,20.0,Northern,False,Agent,Apartments for Sale,32.807269,13.096606
+250000.0,Tripoli,Abu Saleem,3.0,1.0,False,120.0,1.0,Eastern,False,Agent,Apartments for Sale,32.603149,13.245832
+1200000.0,Tripoli,Al-Mansoura,3.0,1.0,False,140.0,20.0,Unknown,False,Agent,Apartments for Sale,32.802544,13.244577
+285000.0,Tripoli,Tajura,3.0,3.0,False,150.0,1.0,Southeast,False,Agent,Apartments for Sale,32.011336,20.021449
+250000.0,Tripoli,Al-Serraj,3.0,2.0,False,142.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.826134,13.381911
+950000.0,Tripoli,Bin Ashour,3.0,2.0,False,145.0,0.0,Unknown,False,Agent,Apartments for Sale,32.827942,13.381835
+780000.0,Benghazi,Keesh,1.0,1.0,False,90.0,6.0,Northwest,False,Landlord,Apartments for Sale,32.827023,13.24649
+450000.0,Tripoli,Ghut Shaal,1.0,1.0,True,80.0,20.0,Northern,False,Landlord,Apartments for Sale,32.725006,13.137152
+460000.0,Tripoli,Khalatat St,4.0,2.0,False,180.0,1.0,Northeast,False,Agent,Apartments for Sale,32.703148,13.147227
+275000.0,Tripoli,Al-Sabaa,5.0,3.0,False,185.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.773006,13.188315
+475000.0,Tripoli,Al-Sabaa,4.0,3.0,False,185.0,1.0,Northeast,False,Agent,Apartments for Sale,32.871126,13.312342
+1000000.0,Benghazi,Al Hawary,3.0,2.0,False,110.0,0.0,Western,False,Agent,Apartments for Sale,32.832123,13.033574
+150000.0,Tripoli,Al-Sidra,3.0,2.0,False,125.0,1.0,Northern,False,Landlord,Apartments for Sale,32.770927,13.436521
+320000.0,Benghazi,Masr St,1.0,1.0,True,90.0,6.0,Northern,False,Landlord,Apartments for Sale,32.613051,13.292517
+250000.0,Benghazi,Al Hada'iq,2.0,2.0,False,120.0,20.0,Unknown,False,Agent,Apartments for Sale,32.771863,13.237471
+650000.0,Benghazi,Venice,3.0,3.0,True,187.0,1.0,Unknown,False,Agent,Apartments for Sale,32.08905,20.090397
+770000.0,Tripoli,Edraibi,3.0,1.0,False,130.0,20.0,Northern,False,Landlord,Apartments for Sale,32.100819,20.129892
+600000.0,Tripoli,Khalatat St,2.0,2.0,False,125.0,1.0,Eastern,True,Landlord,Apartments for Sale,32.316204,15.096934
+185000.0,Benghazi,Qar Yunis,1.0,2.0,True,100.0,6.0,Western,True,Landlord,Apartments for Sale,32.09552,20.090469
+690000.0,Tripoli,Al-Sabaa,4.0,4.0,False,200.0,20.0,Southern,False,Landlord,Apartments for Sale,32.869499,13.225781
+330000.0,Tripoli,Al Dahra,4.0,1.0,False,200.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.888224,13.226661
+165000.0,Tripoli,Al-Serraj,4.0,2.0,False,180.0,1.0,Northeast,False,Agent,Apartments for Sale,32.212963,15.103509
+650000.0,Tripoli,Zawiyat Al Dahmani,4.0,2.0,False,130.0,6.0,Northern,False,Landlord,Apartments for Sale,32.854457,13.154242
+420000.0,Tripoli,Edraibi,3.0,2.0,False,162.0,1.0,Northwest,False,Agent,Apartments for Sale,32.812111,13.260337
+360000.0,Tripoli,Al-Masira Al-Kubra St,3.0,1.0,True,100.0,10.0,Northwest,False,Landlord,Apartments for Sale,32.769115,13.360326
+450000.0,Tripoli,Shawqy St,3.0,1.0,False,120.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.850079,13.127531
+160000.0,Tripoli,Airport Road,3.0,2.0,False,150.0,10.0,Southeast,False,Landlord,Apartments for Sale,32.743961,13.181727
+650000.0,Tripoli,Al-Hadaba'tool Rd,4.0,2.0,False,120.0,10.0,Northeast,False,Agent,Apartments for Sale,32.84544,13.255397
+250000.0,Tripoli,Tajura,3.0,2.0,False,160.0,20.0,Northeast,False,Agent,Apartments for Sale,32.827942,13.381835
+900000.0,Benghazi,Military Hospital,1.0,1.0,False,70.0,20.0,Eastern,False,Agent,Apartments for Sale,32.112736,20.087478
+1000000.0,Misrata,Other,1.0,1.0,False,100.0,6.0,Western,False,Agent,Apartments for Sale,32.89669,13.243952
+600000.0,Misrata,Tamina,3.0,2.0,False,200.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.119423,20.08679
+630000.0,Tripoli,Tareeq Al-Mashtal,5.0,3.0,False,225.0,0.0,Unknown,False,Agent,Apartments for Sale,32.775272,13.202802
+235000.0,Tripoli,Al-Seyaheyya,2.0,3.0,False,220.0,0.0,Eastern,False,Agent,Apartments for Sale,31.991516,20.132471
+660000.0,Tripoli,Al-Serraj,2.0,2.0,False,200.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.892269,13.235443
+650000.0,Tripoli,Bin Ashour,3.0,1.0,False,145.0,20.0,Northern,False,Agent,Apartments for Sale,32.826041,13.078516
+175000.0,Tripoli,Alfornaj,4.0,3.0,False,172.0,1.0,Southern,False,Landlord,Apartments for Sale,32.827942,13.381835
+155000.0,Tripoli,Al-Serraj,3.0,2.0,False,113.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.863281,13.308369
+480000.0,Tripoli,Al-Serraj,2.0,2.0,False,113.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.796581,13.331454
+210000.0,Tripoli,Al-Najila,3.0,2.0,False,170.0,10.0,Unknown,False,Agent,Apartments for Sale,32.831912,13.103039
+345000.0,Tripoli,Zawiyat Al Dahmani,4.0,3.0,False,240.0,0.0,Northern,False,Agent,Apartments for Sale,32.858232,13.202894
+285000.0,Sabratha,Talil,2.0,2.0,False,125.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.80848,13.095013
+300000.0,Tripoli,Al-Sidra,3.0,3.0,False,175.0,1.0,Southeast,False,Landlord,Apartments for Sale,32.795121,13.215781
+330000.0,Tripoli,Edraibi,2.0,2.0,False,130.0,20.0,Eastern,False,Agent,Apartments for Sale,32.799486,13.229246
+550000.0,Tripoli,Al-Serraj,4.0,3.0,False,164.0,0.0,Eastern,False,Agent,Apartments for Sale,32.856996,13.210352
+300000.0,Benghazi,Venice,3.0,2.0,False,155.0,1.0,Northern,False,Agent,Apartments for Sale,32.821906,13.076027
+1400000.0,Tripoli,Zanatah,4.0,3.0,False,175.0,1.0,Eastern,False,Agent,Apartments for Sale,32.054704,20.119411
+550000.0,Tripoli,Al-Serraj,3.0,3.0,False,150.0,0.0,Northwest,False,Agent,Apartments for Sale,32.882415,13.203901
+180000.0,Tripoli,Al-Baesh,3.0,2.0,False,128.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.862607,13.160074
+850000.0,Tripoli,Khalatat St,3.0,2.0,False,125.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.793281,13.291401
+175000.0,Tripoli,Gorje,3.0,2.0,False,175.0,10.0,Eastern,False,Agent,Apartments for Sale,32.840776,13.072935
+700000.0,Tripoli,Al-Serraj,4.0,3.0,False,165.0,0.0,Eastern,False,Agent,Apartments for Sale,32.727618,13.111697
+1150000.0,Tripoli,Alfornaj,3.0,2.0,False,170.0,0.0,Eastern,False,Agent,Apartments for Sale,32.883335,13.203993
+230000.0,Tripoli,Edraibi,2.0,2.0,True,170.0,0.0,Eastern,False,Agent,Apartments for Sale,32.826013,13.195286
+540000.0,Tripoli,Wild Life Rd,2.0,2.0,False,166.0,6.0,Southwest,False,Landlord,Apartments for Sale,32.84176,13.173244
+550000.0,Benghazi,Keesh,2.0,2.0,False,150.0,20.0,Western,False,Landlord,Apartments for Sale,32.778717,13.361871
+520000.0,Tripoli,Zawiyat Al Dahmani,4.0,2.0,False,130.0,6.0,Unknown,False,Agent,Apartments for Sale,32.791148,13.334395
+1250000.0,Tripoli,Bab Bin Ghashier,3.0,1.0,False,150.0,10.0,Unknown,False,Landlord,Apartments for Sale,32.849392,13.135032
+1300000.0,Benghazi,Qar Yunis,2.0,2.0,False,150.0,20.0,Unknown,False,Agent,Apartments for Sale,32.825462,13.253901
+225000.0,Tripoli,Hay Demsheq,3.0,3.0,False,225.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.847977,13.325716
+1000000.0,Misrata,Tripoli St,4.0,2.0,False,150.0,20.0,Northern,False,Agent,Apartments for Sale,32.774321,13.376466
+295000.0,Tripoli,Al-Serraj,2.0,2.0,False,160.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.796291,13.575484
+185000.0,Benghazi,Keesh,3.0,2.0,False,180.0,10.0,Northwest,False,Agent,Apartments for Sale,32.827942,13.381835
+530000.0,Tripoli,Abu Saleem,3.0,2.0,False,120.0,6.0,Northeast,False,Landlord,Apartments for Sale,32.651428,13.049058
+175000.0,Tripoli,Al-Najila,3.0,2.0,False,160.0,10.0,Unknown,False,Agent,Apartments for Sale,32.808086,13.155282
+1250000.0,Tripoli,Al-Sidra,4.0,2.0,False,180.0,1.0,Northern,False,Agent,Apartments for Sale,32.88138,13.219862
+370000.0,Tripoli,Wild Life Rd,3.0,1.0,False,100.0,10.0,Unknown,True,Landlord,Apartments for Sale,32.805889,13.31773
+1111000.0,Tripoli,Al-Serraj,3.0,3.0,False,180.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.679726,13.158247
+225000.0,Tripoli,Janzour,4.0,2.0,False,220.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.816667,13.266667
+245000.0,Tripoli,Al-Serraj,1.0,2.0,False,90.0,0.0,Eastern,False,Landlord,Apartments for Sale,32.838756,13.350834
+980000.0,Misrata,Other,2.0,1.0,True,250.0,6.0,Northern,False,Landlord,Apartments for Sale,32.854706,13.187854
+550000.0,Tripoli,Ain Zara,3.0,2.0,False,150.0,0.0,Unknown,False,Agent,Apartments for Sale,32.847462,13.239476
+570000.0,Benghazi,Dakkadosta,3.0,2.0,True,150.0,0.0,Eastern,False,Agent,Apartments for Sale,32.851206,13.222921
+155000.0,Tripoli,Al-Jabs,3.0,2.0,False,205.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.295379,15.069931
+520000.0,Benghazi,As-Sulmani Al-Sharqi,2.0,1.0,False,140.0,6.0,Western,False,Landlord,Apartments for Sale,32.817954,13.437241
+650000.0,Benghazi,Masr St,2.0,1.0,False,120.0,1.0,Eastern,False,Agent,Apartments for Sale,32.816936,13.163482
+250000.0,Murqub,Other,2.0,2.0,False,96.0,1.0,Northern,False,Landlord,Apartments for Sale,32.820766,13.441282
+380000.0,Tripoli,Bin Ashour,4.0,3.0,False,190.0,1.0,Eastern,False,Agent,Apartments for Sale,32.816667,13.266667
+750000.0,Tripoli,Al-Serraj,4.0,2.0,False,180.0,0.0,Northern,False,Agent,Apartments for Sale,32.778717,13.361871
+1000000.0,Tripoli,Al-Serraj,4.0,3.0,False,150.0,0.0,Eastern,False,Agent,Apartments for Sale,32.811981,13.013561
+1100000.0,Tripoli,Abu Meshmasha,2.0,2.0,False,120.0,6.0,Northern,False,Landlord,Apartments for Sale,32.088467,20.147427
+400000.0,Tripoli,Zawiyat Al Dahmani,3.0,2.0,False,156.0,10.0,Northeast,False,Agent,Apartments for Sale,32.936085,13.055413
+480000.0,Tripoli,Al-Hadaba'tool Rd,3.0,2.0,True,120.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.816667,13.266667
+210000.0,Tripoli,Al-Serraj,5.0,3.0,False,240.0,0.0,Unknown,False,Landlord,Apartments for Sale,32.720509,13.148266
+270000.0,Tripoli,Other,3.0,3.0,False,154.0,0.0,Southwest,False,Agent,Apartments for Sale,32.093371,20.138224
+230000.0,Benghazi,Al Nahr Road,2.0,2.0,False,135.0,1.0,Western,False,Agent,Apartments for Sale,32.858737,13.078945
+400000.0,Tripoli,Gorje,3.0,1.0,False,130.0,20.0,Northwest,False,Landlord,Apartments for Sale,32.816666,13.266667
+480000.0,Tripoli,Al-Serraj,4.0,2.0,True,135.0,0.0,Eastern,False,Landlord,Apartments for Sale,31.94704,19.974515
+1150000.0,Tripoli,Khalatat St,2.0,2.0,False,100.0,1.0,Western,False,Landlord,Apartments for Sale,32.810148,13.082207
+200000.0,Benghazi,Al Hada'iq,3.0,3.0,False,180.0,1.0,Unknown,False,Agent,Apartments for Sale,32.827942,13.381835
+500000.0,Tripoli,Al-Shok Rd,3.0,3.0,False,180.0,1.0,Southwest,False,Landlord,Apartments for Sale,32.092388,20.111109
+685000.0,Tripoli,Tajura,4.0,3.0,False,150.0,1.0,Northeast,False,Landlord,Apartments for Sale,32.782093,13.331066
+1500000.0,Benghazi,Al-Sayeda A'esha,3.0,2.0,False,175.0,0.0,Northern,False,Landlord,Apartments for Sale,32.079927,20.049383
+180000.0,Tripoli,Al-Najila,3.0,2.0,False,160.0,10.0,Northern,False,Agent,Apartments for Sale,32.109722,20.108446
+190000.0,Benghazi,Keesh,2.0,2.0,False,160.0,1.0,Northern,False,Landlord,Apartments for Sale,32.863796,13.200478
+480000.0,Tripoli,Khalatat St,3.0,1.0,False,140.0,6.0,Eastern,False,Landlord,Apartments for Sale,32.772644,13.060912
+1100000.0,Tripoli,Al-Jamahirriyah St,2.0,1.0,False,135.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.840441,13.217496
+1300000.0,Benghazi,Sidi Husain,3.0,1.0,False,200.0,20.0,Northeast,False,Agent,Apartments for Sale,32.871021,13.23137
+550000.0,Tripoli,Al-Sidra,2.0,2.0,False,230.0,0.0,Unknown,True,Landlord,Apartments for Sale,32.788292,13.110903
+180000.0,Benghazi,Al-Salam,1.0,7.0,False,90.0,0.0,Unknown,False,Landlord,Apartments for Sale,29.309547,21.662133
+450000.0,Benghazi,Qar Yunis,2.0,2.0,False,100.0,0.0,Eastern,False,Agent,Apartments for Sale,32.781687,13.173064
+180000.0,Tripoli,Al-Sidra,3.0,2.0,False,120.0,1.0,Southern,False,Landlord,Apartments for Sale,32.783379,13.209083
+650000.0,Tripoli,Ain Zara,4.0,3.0,False,150.0,0.0,Western,False,Landlord,Apartments for Sale,32.012711,20.030416
+800000.0,Benghazi,Al Hada'iq,3.0,3.0,False,180.0,1.0,Unknown,False,Landlord,Apartments for Sale,31.997106,20.021675
+310000.0,Benghazi,As-Sulmani,3.0,2.0,False,150.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.81694,13.266037
+700000.0,Tripoli,Zawiyat Al Dahmani,3.0,2.0,False,150.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.861717,13.383128
+500000.0,Tripoli,Al-Sidra,3.0,2.0,False,120.0,1.0,Unknown,False,Agent,Apartments for Sale,32.801476,13.353051
+300000.0,Benghazi,Keesh,3.0,2.0,False,140.0,20.0,Southeast,False,Landlord,Apartments for Sale,32.696795,13.310458
+650000.0,Tripoli,Al-Serraj,2.0,3.0,False,215.0,1.0,Unknown,True,Agent,Apartments for Sale,32.071877,20.195347
+1000000.0,Tripoli,Al-Serraj,3.0,3.0,True,180.0,0.0,Unknown,False,Agent,Apartments for Sale,32.807594,13.217083
+550000.0,Tripoli,Zawiyat Al Dahmani,3.0,1.0,False,130.0,20.0,Northern,False,Agent,Apartments for Sale,32.803429,13.07442
+500000.0,Tripoli,Zawiyat Al Dahmani,3.0,1.0,False,120.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.036857,12.867013
+535000.0,Tripoli,Janzour,4.0,2.0,True,200.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.788345,13.12427
+1300000.0,Tripoli,Independence St,3.0,1.0,False,125.0,20.0,Northwest,False,Landlord,Apartments for Sale,32.81274,13.125288
+450000.0,Benghazi,Al Hada'iq,3.0,3.0,False,180.0,1.0,Northern,False,Landlord,Apartments for Sale,32.096909,20.099829
+1200000.0,Tripoli,Other,3.0,1.0,False,110.0,20.0,Eastern,False,Landlord,Apartments for Sale,32.851173,13.259686
+550000.0,Tripoli,Sidi Al-Masri,3.0,2.0,False,140.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.767467,13.289747
+999999.0,Tripoli,Khalatat St,2.0,2.0,True,155.0,1.0,Unknown,True,Landlord,Apartments for Sale,32.565662,13.248022
+485000.0,Tripoli,Al-Sidra,4.0,3.0,True,220.0,1.0,Unknown,False,Agent,Apartments for Sale,32.758427,13.353331
+340000.0,Tripoli,Al Nasr St,2.0,2.0,True,210.0,10.0,Northwest,False,Agent,Apartments for Sale,32.103043,20.108549
+850000.0,Tripoli,Ain Zara,3.0,3.0,False,150.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.868557,13.150171
+1200000.0,Tripoli,Al-Serraj,3.0,2.0,True,150.0,0.0,Southeast,False,Landlord,Apartments for Sale,32.840429,13.264422
+330000.0,Tripoli,Al Nasr St,4.0,2.0,False,170.0,10.0,Eastern,False,Agent,Apartments for Sale,32.787005,13.073244
+1000000.0,Tripoli,Al-Serraj,3.0,3.0,False,130.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.713528,13.29463
+350000.0,Tripoli,Tajura,3.0,2.0,False,145.0,20.0,Northern,False,Landlord,Apartments for Sale,32.815248,13.080964
+600000.0,Tripoli,Airport Road,2.0,2.0,False,140.0,1.0,Northern,False,Landlord,Apartments for Sale,32.828125,13.360147
+750000.0,Benghazi,Al Hawary,3.0,2.0,False,140.0,0.0,Unknown,False,Agent,Apartments for Sale,32.835373,13.12224
+250000.0,Tripoli,Al-Shok Rd,3.0,2.0,False,110.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.841991,13.13535
+285000.0,Tripoli,Ain Zara,3.0,1.0,False,110.0,1.0,Southeast,False,Landlord,Apartments for Sale,32.794044,13.078004
+800000.0,Benghazi,Shabna,3.0,1.0,False,180.0,0.0,Unknown,False,Agent,Apartments for Sale,32.800801,13.196549
+300000.0,Tripoli,Al-Shok Rd,4.0,3.0,False,170.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.496845,20.815306
+460000.0,Tripoli,Janzour,2.0,2.0,False,120.0,10.0,Northeast,False,Landlord,Apartments for Sale,32.863687,13.20844
+850000.0,Tripoli,Al-Serraj,4.0,3.0,False,224.0,0.0,Northwest,False,Landlord,Apartments for Sale,32.816666,13.266667
+250000.0,Benghazi,Keesh,4.0,2.0,False,185.0,6.0,Northwest,False,Agent,Apartments for Sale,32.238459,20.190889
+300000.0,Misrata,Other,4.0,1.0,True,160.0,20.0,Southern,False,Landlord,Apartments for Sale,32.835409,13.176957
+750000.0,Tripoli,Janzour,3.0,2.0,False,140.0,20.0,Southern,False,Landlord,Apartments for Sale,32.827705,13.172697
+750000.0,Tripoli,Other,4.0,3.0,True,170.0,1.0,Western,False,Landlord,Apartments for Sale,32.850861,13.090435
+170000.0,Tripoli,Souq Al-Juma'a,4.0,1.0,False,147.0,6.0,Southwest,True,Landlord,Apartments for Sale,32.803162,13.422842
+230000.0,Tripoli,Khalatat St,2.0,1.0,True,100.0,1.0,Unknown,False,Landlord,Apartments for Sale,32.771484,13.089896
+425000.0,Tripoli,Tajura,2.0,2.0,False,110.0,10.0,Northern,False,Landlord,Apartments for Sale,32.86314,13.223122
+310000.0,Tripoli,Bab Al-Azizia,4.0,2.0,False,160.0,10.0,Northern,False,Landlord,Apartments for Sale,32.820667,13.064854
+255555.0,Benghazi,Al-Hai Al-Jamei,3.0,2.0,False,200.0,0.0,Western,False,Agent,Apartments for Sale,32.7887,13.265643
+500000.0,Tripoli,Al-Sidra,4.0,2.0,False,163.0,6.0,Unknown,False,Landlord,Apartments for Sale,32.876751,13.25488
+210000.0,Tripoli,Al-Serraj,3.0,3.0,False,150.0,0.0,Eastern,False,Agent,Apartments for Sale,32.781258,13.219161
+260000.0,Tripoli,Mizran St,2.0,1.0,False,120.0,20.0,Northeast,False,Landlord,Apartments for Sale,32.809658,13.059718
+850000.0,Zawiya,Al-Harsha,5.0,1.0,False,250.0,20.0,Unknown,False,Landlord,Apartments for Sale,32.07206,20.130323
+270000.0,Tripoli,Al-Sidra,4.0,2.0,False,170.0,0.0,Northern,False,Landlord,Apartments for Sale,32.80644,13.306647
+260000.0,Tripoli,Al-Serraj,3.0,3.0,False,130.0,1.0,Eastern,False,Landlord,Apartments for Sale,32.781334,13.077713
+1225000.0,Tripoli,Al-Serraj,3.0,3.0,False,170.0,0.0,Eastern,False,Agent,Apartments for Sale,32.812294,13.294546
+950000.0,Tripoli,Al-Serraj,3.0,3.0,False,200.0,0.0,Eastern,False,Agent,Apartments for Sale,32.812504,13.29452
+380000.0,Tripoli,Al-Serraj,2.0,2.0,False,140.0,1.0,Eastern,False,Agent,Apartments for Sale,32.823055,13.063317
+560000.0,Tripoli,Al-Serraj,3.0,3.0,False,135.0,0.0,Eastern,False,Agent,Apartments for Sale,32.808129,13.061951
+350000.0,Tripoli,Al-Serraj,3.0,3.0,False,175.0,0.0,Eastern,False,Agent,Apartments for Sale,32.813628,13.05966
+950000.0,Tripoli,Al-Serraj,1.0,2.0,False,90.0,0.0,Northern,False,Agent,Apartments for Sale,32.826488,13.081677
+235000.0,Tripoli,Al-Serraj,3.0,2.0,False,180.0,0.0,Eastern,False,Agent,Apartments for Sale,32.826469,13.081684
+320000.0,Tripoli,Al-Serraj,2.0,2.0,False,120.0,0.0,Eastern,False,Agent,Apartments for Sale,32.819071,13.062125
+530000.0,Tripoli,Al-Serraj,2.0,2.0,False,130.0,0.0,Eastern,False,Agent,Apartments for Sale,32.816666,13.266667
+580000.0,Tripoli,Al-Serraj,2.0,2.0,False,120.0,0.0,Eastern,False,Agent,Apartments for Sale,32.801094,13.070073
+155000.0,Tripoli,Omar Al-Mukhtar Rd,3.0,2.0,False,160.0,13.0,Unknown,False,Landlord,Apartments for Sale,32.804855,13.048283
+185000.0,Tripoli,Al-Serraj,3.0,2.0,False,120.0,0.0,Western,False,Agent,Apartments for Sale,32.767902,13.264043
+230000.0,Tripoli,Al-Serraj,3.0,3.0,False,180.0,0.0,Eastern,False,Agent,Apartments for Sale,32.768394,13.264783
+280000.0,Tripoli,Hai Alandalus,3.0,2.0,True,200.0,1.0,Northern,False,Agent,Apartments for Sale,32.786069,13.099653
+230000.0,Tripoli,Al-Serraj,3.0,3.0,False,200.0,0.0,Eastern,False,Agent,Apartments for Sale,32.796352,13.082076
+1150000.0,Tripoli,Zawiyat Al Dahmani,3.0,2.0,False,150.0,6.0,Northern,False,Agent,Apartments for Sale,32.815388,13.0528
+690000.0,Tripoli,Ain Zara,7.0,3.0,True,300.0,1.0,Northern,False,Landlord,Homes for Sale,32.779791,13.318987
+700000.0,Tripoli,Al-Mansoura,7.0,2.0,False,220.0,20.0,Eastern,False,Agent,Homes for Sale,32.878323,13.166314
+500000.0,Tripoli,Ain Zara,3.0,2.0,False,130.0,10.0,Unknown,False,Agent,Homes for Sale,32.807232,13.315532
+1200000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,350.0,6.0,Unknown,False,Agent,Homes for Sale,32.879863,13.289647
+1200000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,200.0,1.0,Northern,False,Agent,Homes for Sale,32.883381,13.281882
+800000.0,Tripoli,Souq Al-Juma'a,5.0,2.0,False,300.0,1.0,Western,False,Agent,Homes for Sale,32.878452,13.300676
+650000.0,Tripoli,Abu Saleem,4.0,4.0,False,130.0,1.0,Southern,False,Landlord,Homes for Sale,32.730728,13.157012
+600000.0,Tripoli,Tajura,7.0,4.0,False,230.0,6.0,Unknown,False,Agent,Homes for Sale,32.827942,13.381835
+777770.0,Tripoli,Khallet Alforjan,5.0,2.0,False,200.0,10.0,Northern,False,Landlord,Homes for Sale,32.77301,13.222767
+1000000.0,Benghazi,Al Hawary,4.0,3.0,False,285.0,0.5,Eastern,False,Landlord,Homes for Sale,31.936954,20.137913
+1100000.0,Tripoli,Ain Zara,5.0,3.0,True,310.0,1.0,Eastern,False,Landlord,Homes for Sale,32.863453,13.285184
+600000.0,Tripoli,Ain Zara,4.0,2.0,False,270.0,0.0,Northern,False,Landlord,Homes for Sale,32.770691,13.277678
+950000.0,Al Khums,Other,7.0,4.0,False,280.0,10.0,Unknown,False,Landlord,Homes for Sale,32.650286,14.242409
+770000.0,Tripoli,Ain Zara,3.0,4.0,False,310.0,0.0,Northern,False,Landlord,Homes for Sale,32.751374,13.252247
+850000.0,Tripoli,Edraibi,7.0,2.0,False,142.0,6.0,Western,False,Landlord,Homes for Sale,32.84034,13.125591
+920000.0,Tripoli,Al-Bivio,4.0,3.0,True,240.0,6.0,Southeast,False,Landlord,Homes for Sale,32.801823,13.11816
+950000.0,Tripoli,Al-Zawiyah St,7.0,7.0,False,250.0,20.0,Eastern,False,Landlord,Homes for Sale,32.762473,13.067472
+150000.0,Tripoli,Wild Life Rd,3.0,3.0,False,180.0,6.0,Eastern,False,Landlord,Homes for Sale,32.826651,13.155836
+1200000.0,Tripoli,Ras Hassan,7.0,3.0,False,200.0,20.0,Northern,False,Agent,Homes for Sale,32.879221,13.170495
+320000.0,Tripoli,Tajura,3.0,2.0,False,245.0,1.0,Northeast,False,Landlord,Homes for Sale,32.850107,13.303934
+500000.0,Tripoli,Wild Life Rd,3.0,2.0,False,140.0,0.0,Unknown,False,Landlord,Homes for Sale,32.664483,13.035116
+470000.0,Tripoli,Wadi Al-Rabi,4.0,3.0,False,230.0,10.0,Western,False,Landlord,Homes for Sale,32.875899,12.989047
+285000.0,Tripoli,Janzour,4.0,2.0,False,230.0,6.0,Northeast,False,Landlord,Homes for Sale,32.494429,13.17087
+285000.0,Tripoli,Ain Zara,3.0,2.0,False,116.0,0.0,Northeast,False,Landlord,Homes for Sale,32.723567,13.247916
+370000.0,Tripoli,Ain Zara,3.0,2.0,True,160.0,1.0,Northern,False,Landlord,Homes for Sale,32.584305,13.257864
+300000.0,Tripoli,Ain Zara,3.0,2.0,False,115.0,0.0,Eastern,False,Agent,Homes for Sale,32.036661,20.188245
+155000.0,Tripoli,Ain Zara,3.0,3.0,False,125.0,1.0,Northeast,False,Landlord,Homes for Sale,32.83567,13.482533
+220000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,175.0,0.0,Northern,False,Agent,Homes for Sale,32.751766,13.196984
+450000.0,Tripoli,Al-Sabaa,2.0,2.0,False,150.0,10.0,Northern,False,Agent,Homes for Sale,32.781715,13.28841
+550000.0,Tripoli,Tajura,3.0,2.0,False,155.0,1.0,Northern,False,Landlord,Homes for Sale,32.786678,13.268198
+650000.0,Benghazi,Al Halis District,3.0,2.0,False,130.0,10.0,Southeast,False,Landlord,Homes for Sale,32.728621,13.110835
+165000.0,Tripoli,Tajura,4.0,2.0,False,165.0,6.0,Eastern,False,Landlord,Homes for Sale,31.921021,19.963049
+230000.0,Misrata,Tamina,3.0,2.0,False,160.0,0.0,Western,False,Agent,Homes for Sale,32.740782,13.36866
+700000.0,Tripoli,Salah Al-Din,7.0,3.0,True,265.0,20.0,Northwest,False,Agent,Homes for Sale,32.793931,13.28006
+350000.0,Misrata,Karzaz,5.0,4.0,True,256.0,0.0,Northeast,False,Landlord,Homes for Sale,32.898594,13.175477
+1350000.0,Tripoli,Hai Al-Batata,7.0,3.0,True,240.0,0.0,Eastern,False,Landlord,Homes for Sale,32.895504,13.211366
+500000.0,Misrata,Um Shweisha,3.0,1.0,True,110.0,0.0,Western,False,Landlord,Homes for Sale,32.18488,20.178858
+750000.0,Benghazi,Ruweisat,2.0,2.0,False,100.0,20.0,Northeast,False,Agent,Homes for Sale,32.145649,13.029066
+850000.0,Misrata,Zawiyat Al-Mahjoub,3.0,2.0,False,145.0,0.0,Southeast,False,Landlord,Homes for Sale,32.771066,13.269471
+275000.0,Tripoli,Sidi Al-Sae'a,3.0,2.0,False,120.0,1.0,Northern,False,Landlord,Homes for Sale,32.023172,14.849108
+190000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,135.0,1.0,Eastern,False,Agent,Homes for Sale,32.543233,13.255705
+800000.0,Jumayl,Other,4.0,2.0,False,220.0,10.0,Unknown,False,Landlord,Homes for Sale,32.802156,13.082789
+550000.0,Tripoli,Old Soar Road,3.0,2.0,True,129.0,6.0,Western,False,Landlord,Homes for Sale,32.096399,20.095589
+170000.0,Tripoli,Espiaa,3.0,3.0,True,250.0,1.0,Western,False,Landlord,Homes for Sale,32.713161,13.34941
+525000.0,Tripoli,Sidi Khalifa,4.0,2.0,False,200.0,10.0,Northwest,False,Agent,Homes for Sale,32.818348,13.192233
+350000.0,Benghazi,Kuwayfiyah,2.0,2.0,False,150.0,1.0,Western,False,Agent,Homes for Sale,32.780999,13.63845
+900000.0,Misrata,Other,2.0,2.0,True,200.0,1.0,Unknown,False,Landlord,Homes for Sale,32.871063,13.231476
+175000.0,Tripoli,Al-Hadaba'tool Rd,7.0,4.0,False,144.0,1.0,Western,False,Agent,Homes for Sale,32.797901,13.343532
+380000.0,Tripoli,Wadi Al-Rabi,4.0,2.0,False,170.0,6.0,Eastern,False,Landlord,Homes for Sale,32.810008,13.058542
+450000.0,Tripoli,Ain Zara,3.0,3.0,False,135.0,0.0,Eastern,True,Landlord,Homes for Sale,32.753298,13.143588
+550000.0,Misrata,AlQadariya,4.0,2.0,False,250.0,10.0,Eastern,False,Landlord,Homes for Sale,32.098347,20.086033
+450000.0,Benghazi,Baninah,3.0,2.0,False,150.0,1.0,Unknown,False,Agent,Homes for Sale,32.815376,13.131636
+425000.0,Tripoli,Other,7.0,2.0,False,338.0,20.0,Northern,False,Agent,Homes for Sale,32.891208,13.19278
+650000.0,Tripoli,Al-Zawiyah St,4.0,1.0,False,168.0,20.0,Northern,False,Agent,Homes for Sale,32.807405,13.327601
+165000.0,Benghazi,Hay Al-Siraj,3.0,3.0,False,140.0,0.0,Northern,False,Landlord,Homes for Sale,32.785502,13.342173
+1200000.0,Tripoli,Gorje,5.0,2.0,False,110.0,20.0,Unknown,False,Landlord,Homes for Sale,32.816666,13.266667
+650000.0,Tripoli,Old Soar Road,7.0,4.0,False,140.0,20.0,Southeast,False,Agent,Homes for Sale,32.871208,13.146643
+380000.0,Benghazi,Bodzirah,3.0,2.0,False,240.0,0.0,Unknown,False,Landlord,Homes for Sale,32.13343,20.128319
+350000.0,Tripoli,Alfornaj,4.0,1.0,False,200.0,20.0,Unknown,False,Landlord,Homes for Sale,32.175194,20.109882
+950000.0,Tripoli,Al-Hadba Al-Khadra,7.0,5.0,False,144.0,20.0,Northern,False,Landlord,Homes for Sale,32.765408,12.989157
+700000.0,Tripoli,Al-Serraj,3.0,1.0,False,140.0,0.0,Eastern,False,Agent,Homes for Sale,32.860405,13.192058
+800000.0,Tripoli,Ain Zara,5.0,3.0,False,350.0,1.0,Eastern,False,Agent,Homes for Sale,32.778631,13.178899
+450000.0,Misrata,Al Ghiran,3.0,1.0,True,120.0,1.0,Northern,False,Landlord,Homes for Sale,32.064573,20.160887
+600000.0,Tripoli,Wadi Al-Rabi,3.0,1.0,False,100.0,6.0,Unknown,False,Landlord,Homes for Sale,32.863321,13.3016
+250000.0,Tripoli,Tajura,5.0,3.0,False,183.0,6.0,Unknown,False,Landlord,Homes for Sale,32.679677,13.297862
+270000.0,Tripoli,Al-Kremiah,4.0,4.0,False,260.0,6.0,Western,False,Landlord,Homes for Sale,32.805099,13.394695
+490000.0,Tripoli,Janzour,7.0,5.0,False,400.0,6.0,Eastern,False,Landlord,Homes for Sale,32.826637,13.125124
+1000000.0,Tripoli,Ain Zara,5.0,4.0,False,220.0,1.0,Unknown,False,Agent,Homes for Sale,32.877361,13.20576
+275000.0,Tripoli,Zanatah,5.0,7.0,True,300.0,10.0,Unknown,True,Agent,Homes for Sale,32.78627,13.317599
+270000.0,Tripoli,Ain Zara,5.0,5.0,False,400.0,1.0,Eastern,False,Landlord,Homes for Sale,32.820032,13.372942
+175000.0,Tripoli,Tajura,4.0,3.0,False,200.0,1.0,Unknown,False,Agent,Homes for Sale,32.119789,20.094101
+350000.0,Tripoli,Eastern Hadba Rd,7.0,3.0,False,144.0,20.0,Northeast,False,Agent,Homes for Sale,32.85893,13.111896
+900000.0,Tripoli,Al-Baesh,4.0,3.0,False,195.0,0.0,Unknown,False,Agent,Homes for Sale,32.857285,13.213218
+585000.0,Tripoli,Al-Baesh,4.0,4.0,False,330.0,0.0,Eastern,False,Landlord,Homes for Sale,32.814368,13.079546
+225000.0,Tripoli,Al-Bivio,3.0,2.0,False,130.0,6.0,Unknown,True,Agent,Homes for Sale,32.872388,13.187719
+400000.0,Tripoli,Ain Zara,4.0,3.0,False,180.0,0.0,Unknown,False,Agent,Homes for Sale,32.853934,13.319366
+220000.0,Tripoli,Ain Zara,4.0,3.0,False,170.0,1.0,Northern,False,Landlord,Homes for Sale,32.74088,13.273396
+250000.0,Tripoli,Ain Zara,5.0,3.0,False,190.0,1.0,Northern,False,Landlord,Homes for Sale,32.717203,13.657594
+250000.0,Tripoli,Al-Najila,3.0,2.0,False,145.0,1.0,Western,False,Landlord,Homes for Sale,32.867722,13.197062
+420000.0,Benghazi,Sidi Khalifa,3.0,1.0,True,300.0,1.0,Unknown,False,Landlord,Homes for Sale,32.787533,13.267866
+1200000.0,Tripoli,Ain Zara,3.0,3.0,False,260.0,6.0,Eastern,False,Landlord,Homes for Sale,32.811398,13.201535
+235000.0,Tripoli,Ain Zara,3.0,2.0,False,116.0,0.0,Northeast,False,Landlord,Homes for Sale,32.043718,20.134303
+230000.0,Tripoli,Ain Zara,3.0,2.0,False,130.0,0.0,Unknown,False,Agent,Homes for Sale,32.09594,20.110874
+1300000.0,Tripoli,Jazeerat Al-Fahm,5.0,3.0,False,200.0,6.0,Western,False,Agent,Homes for Sale,32.889764,13.189278
+850000.0,Tripoli,Ghut Shaal,4.0,1.0,False,130.0,20.0,Northeast,False,Landlord,Homes for Sale,32.066643,20.112841
+425000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,150.0,0.0,Northern,False,Agent,Homes for Sale,32.889572,13.198962
+425000.0,Tripoli,Arada,3.0,2.0,True,200.0,10.0,Northern,False,Landlord,Homes for Sale,32.450504,15.166012
+1300000.0,Tripoli,Al-Zawiyah St,3.0,2.0,False,110.0,20.0,Western,False,Landlord,Homes for Sale,32.854885,13.31614
+640000.0,Tripoli,Bin Ashour,3.0,2.0,False,155.0,20.0,Unknown,False,Landlord,Homes for Sale,32.851828,13.088575
+750000.0,Tripoli,Al-Bivio,7.0,1.0,True,205.0,20.0,Northern,False,Agent,Homes for Sale,32.769573,13.084653
+450000.0,Tripoli,Ain Zara,4.0,3.0,False,250.0,1.0,Northern,False,Landlord,Homes for Sale,32.864906,13.090168
+165000.0,Tripoli,Al-Bivio,3.0,3.0,False,240.0,1.0,Western,False,Landlord,Homes for Sale,32.826118,13.235928
+750000.0,Tripoli,Al-Hadba Al-Khadra,7.0,4.0,False,199.0,10.0,Northern,False,Landlord,Homes for Sale,32.771201,13.366133
+1100000.0,Misrata,Tamina,2.0,2.0,False,150.0,0.0,Eastern,False,Landlord,Homes for Sale,32.836373,13.194583
+220000.0,Tripoli,Alswani,4.0,1.0,False,145.0,20.0,Unknown,False,Landlord,Homes for Sale,32.807091,13.332719
+350000.0,Tripoli,Airport Road,4.0,4.0,False,400.0,10.0,Northeast,False,Landlord,Homes for Sale,32.855733,13.441338
+300000.0,Tripoli,Tajura,4.0,3.0,False,420.0,1.0,Northeast,False,Landlord,Homes for Sale,32.870267,13.343597
+200000.0,Tripoli,Arada,3.0,1.0,False,165.0,10.0,Unknown,False,Agent,Homes for Sale,32.831243,13.242003
+225000.0,Tripoli,Ain Zara,5.0,4.0,False,355.0,1.0,Northern,False,Landlord,Homes for Sale,32.772803,13.185201
+195000.0,Tripoli,Khallet Alforjan,4.0,3.0,False,160.0,0.0,Eastern,False,Landlord,Homes for Sale,32.116925,20.136453
+185555.0,Tripoli,Alfornaj,5.0,2.0,False,137.0,20.0,Southern,False,Agent,Homes for Sale,32.795121,13.215781
+1150000.0,Tripoli,Abu Saleem,3.0,2.0,False,130.0,1.0,Western,False,Agent,Homes for Sale,32.821383,13.263131
+385000.0,Tripoli,Wadi Al-Rabi,4.0,2.0,False,170.0,6.0,Unknown,False,Landlord,Homes for Sale,32.790725,13.328578
+200000.0,Tripoli,Al-Jabs,7.0,3.0,False,300.0,1.0,Northern,False,Agent,Homes for Sale,32.731956,13.187536
+890000.0,Tripoli,Kashlaf,5.0,1.0,False,134.0,20.0,Northern,False,Landlord,Homes for Sale,32.712441,13.199321
+300000.0,Tripoli,Bab Bin Ghashier,3.0,2.0,False,130.0,10.0,Southwest,False,Agent,Homes for Sale,32.051205,20.091415
+400000.0,Tripoli,Khallet Alforjan,4.0,2.0,False,165.0,0.0,Southern,False,Agent,Homes for Sale,32.054704,20.119411
+280000.0,Tripoli,Ain Zara,3.0,3.0,True,220.0,10.0,Eastern,False,Landlord,Homes for Sale,32.743466,13.008129
+290000.0,Misrata,Other,5.0,4.0,False,200.0,6.0,Eastern,False,Landlord,Homes for Sale,32.788658,13.361833
+170000.0,Tripoli,Wadi Al-Rabi,3.0,2.0,False,110.0,0.0,Southern,False,Landlord,Homes for Sale,32.719662,22.624286
+865000.0,Tripoli,Ain Zara,3.0,3.0,False,130.0,1.0,Eastern,False,Landlord,Homes for Sale,32.842552,13.315643
+300000.0,Tripoli,Bin Ashour,7.0,2.0,False,144.0,20.0,Northern,False,Landlord,Homes for Sale,32.762101,13.284019
+999999.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,465.0,0.0,Eastern,False,Agent,Homes for Sale,32.887802,13.211929
+250000.0,Tripoli,Bashier Sadawi,3.0,2.0,False,275.0,6.0,Unknown,False,Landlord,Homes for Sale,32.109673,20.068445
+410000.0,Tripoli,Fashloum,4.0,1.0,False,105.0,10.0,Unknown,False,Agent,Homes for Sale,32.796677,13.135935
+300000.0,Tripoli,Al-Baesh,4.0,2.0,False,160.0,6.0,Eastern,False,Landlord,Homes for Sale,31.883774,10.974327
+1000000.0,Benghazi,Sidi Khalifa,2.0,2.0,False,120.0,6.0,Eastern,False,Landlord,Homes for Sale,32.043355,20.070994
+330000.0,Tripoli,Ras Hassan,7.0,3.0,False,450.0,20.0,Northern,False,Landlord,Homes for Sale,32.872799,13.129661
+600000.0,Tripoli,Wadi Al-Rabi,7.0,1.0,False,210.0,1.0,Northern,False,Agent,Homes for Sale,32.119396,20.086559
+230000.0,Tripoli,Khalatat St,3.0,2.0,False,160.0,6.0,Southern,False,Agent,Homes for Sale,32.827942,13.381835
+280000.0,Tripoli,Tajura,5.0,3.0,True,240.0,10.0,Unknown,False,Landlord,Homes for Sale,32.700436,12.70023
+1500000.0,Tripoli,Salah Al-Din,3.0,1.0,False,185.0,6.0,Northern,False,Agent,Homes for Sale,32.827942,13.381835
+220000.0,Tripoli,Janzour,3.0,2.0,False,167.0,1.0,Northwest,False,Landlord,Homes for Sale,32.715809,13.345529
+999000.0,Tripoli,Al-Qaio,2.0,2.0,False,140.0,1.0,Unknown,False,Agent,Homes for Sale,32.6942,13.307328
+600000.0,Tripoli,Souq Al-Juma'a,7.0,3.0,False,300.0,20.0,Unknown,False,Landlord,Homes for Sale,32.085969,20.065106
+320000.0,Tripoli,Al-Najila,4.0,2.0,True,230.0,6.0,Eastern,True,Landlord,Homes for Sale,32.808033,13.063696
+520000.0,Tripoli,Khallet Alforjan,4.0,3.0,False,166.0,0.0,Eastern,False,Landlord,Homes for Sale,32.759987,13.098468
+170000.0,Sirte,Other,2.0,2.0,False,140.0,6.0,Northern,False,Agent,Homes for Sale,32.670254,13.290689
+185000.0,Tripoli,Kashlaf,4.0,3.0,False,250.0,20.0,Northern,False,Landlord,Homes for Sale,32.821906,13.076027
+450000.0,Tripoli,Ain Zara,2.0,1.0,False,65.0,1.0,Unknown,False,Agent,Homes for Sale,32.141205,20.171028
+1250000.0,Tripoli,Tareeq Al-Mashtal,5.0,2.0,False,216.0,6.0,Unknown,False,Landlord,Homes for Sale,32.838144,13.360048
+800000.0,Tripoli,Other,4.0,2.0,False,90.0,20.0,Unknown,False,Landlord,Homes for Sale,32.101625,20.090313
+950000.0,Tripoli,Airport Road,3.0,3.0,False,240.0,1.0,Northern,False,Landlord,Homes for Sale,32.106186,20.076719
+350000.0,Benghazi,Kuwayfiyah,3.0,2.0,False,125.0,0.0,Northwest,False,Landlord,Homes for Sale,32.875155,13.183076
+205000.0,Tripoli,Al-Hadaba'tool Rd,7.0,4.0,False,200.0,20.0,Western,False,Landlord,Homes for Sale,32.90047,13.332036
+980000.0,Tripoli,Tajura,3.0,2.0,False,101.0,20.0,Eastern,False,Agent,Homes for Sale,32.774788,13.129755
+700000.0,Tripoli,Al-Baesh,3.0,4.0,False,300.0,1.0,Southeast,False,Agent,Homes for Sale,32.812645,13.378616
+1300000.0,Tripoli,Abu Saleem,3.0,3.0,False,150.0,0.0,Eastern,False,Agent,Homes for Sale,32.090753,20.144023
+180000.0,Tripoli,Souq Al-Juma'a,3.0,4.0,True,400.0,1.0,Northern,False,Landlord,Homes for Sale,32.768407,13.188057
+170000.0,Benghazi,Qawarsheh,4.0,2.0,False,200.0,1.0,Western,False,Landlord,Homes for Sale,32.010376,20.030224
+250000.0,Tripoli,Al-Ghasi,7.0,2.0,False,260.0,20.0,Northern,False,Landlord,Homes for Sale,31.984654,20.161348
+900000.0,Misrata,Tamina,3.0,2.0,False,144.0,0.0,Unknown,False,Landlord,Homes for Sale,32.836957,13.196227
+200000.0,Benghazi,Qawarsheh,7.0,7.0,False,420.0,1.0,Unknown,False,Agent,Homes for Sale,32.049438,20.029791
+800000.0,Tripoli,Wadi Al-Rabi,1.0,2.0,False,80.0,1.0,Northern,False,Agent,Homes for Sale,32.829559,13.229134
+1000000.0,Tripoli,Ain Zara,2.0,2.0,False,215.0,6.0,Northeast,False,Landlord,Homes for Sale,32.80821,13.318551
+320000.0,Tripoli,Ain Zara,3.0,4.0,False,210.0,1.0,Unknown,False,Landlord,Homes for Sale,32.506527,13.458783
+380000.0,Tripoli,Abu Saleem,7.0,4.0,True,250.0,20.0,Northern,False,Landlord,Homes for Sale,32.810392,13.394286
+300000.0,Tripoli,Old Soar Road,5.0,3.0,False,150.0,20.0,Northwest,False,Agent,Homes for Sale,32.871056,13.193501
+950000.0,Tripoli,Al-Jabs,7.0,7.0,True,350.0,0.0,Northern,False,Agent,Homes for Sale,32.86515,13.198338
+750000.0,Tripoli,Ain Zara,4.0,1.0,False,167.0,1.0,Unknown,False,Landlord,Homes for Sale,32.90086,13.228421
+325000.0,Tripoli,Ghut Shaal,4.0,3.0,False,133.0,10.0,Northeast,False,Landlord,Homes for Sale,32.735442,13.190226
+330000.0,Tripoli,Tajura,2.0,1.0,False,80.0,6.0,Northern,False,Landlord,Homes for Sale,32.797142,13.228493
+780000.0,Tripoli,Ain Zara,3.0,3.0,False,166.0,1.0,Southern,False,Landlord,Homes for Sale,32.895565,13.211289
+480000.0,Misrata,Tamina,3.0,2.0,False,150.0,0.0,Southeast,False,Landlord,Homes for Sale,32.737867,13.365119
+300000.0,Tripoli,Al-Baesh,4.0,2.0,False,160.0,6.0,Eastern,False,Landlord,Homes for Sale,32.87507,13.336774
+275000.0,Tripoli,Qasr Bin Ghashir,2.0,4.0,False,275.0,6.0,Southeast,False,Landlord,Homes for Sale,32.848407,13.124603
+155000.0,Tripoli,Al-Najila,4.0,3.0,True,290.0,1.0,Western,False,Landlord,Homes for Sale,32.741425,13.312643
+695000.0,Tripoli,Qasr Bin Ghashir,2.0,4.0,False,275.0,6.0,Southeast,False,Landlord,Homes for Sale,32.722374,13.259559
+780000.0,Tripoli,Janzour,3.0,1.0,False,125.0,1.0,Northern,False,Landlord,Homes for Sale,32.542263,15.088957
+425000.0,Tripoli,Ain Zara,2.0,2.0,False,100.0,6.0,Northern,False,Landlord,Homes for Sale,32.816667,13.266667
+700000.0,Tripoli,Al-Bivio,2.0,2.0,False,128.0,0.0,Eastern,False,Landlord,Homes for Sale,32.788288,13.454632
+420000.0,Tripoli,Bin Ashour,7.0,2.0,False,122.0,10.0,Unknown,False,Agent,Homes for Sale,32.731888,13.066273
+150000.0,Tripoli,Tajura,3.0,2.0,False,110.0,6.0,Southern,False,Landlord,Homes for Sale,32.168033,20.125331
+380000.0,Tripoli,Wadi Al-Rabi,1.0,1.0,False,70.0,1.0,Northern,False,Landlord,Homes for Sale,32.826256,13.207642
+430000.0,Tripoli,Other,3.0,3.0,False,208.0,10.0,Eastern,False,Landlord,Homes for Sale,32.890621,13.202617
+999999.0,Tripoli,Souq Al-Juma'a,7.0,1.0,True,200.0,20.0,Unknown,False,Landlord,Homes for Sale,32.891533,13.234872
+235000.0,Tripoli,Old City,7.0,2.0,False,160.0,20.0,Northeast,False,Landlord,Homes for Sale,32.801317,13.229584
+750000.0,Tripoli,Abu Saleem,7.0,3.0,False,220.0,20.0,Northern,False,Landlord,Homes for Sale,32.87339,13.204544
+370000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,180.0,10.0,Northwest,False,Landlord,Homes for Sale,32.052902,20.093412
+480000.0,Tripoli,Tajura,4.0,2.0,True,280.0,10.0,Northeast,False,Landlord,Homes for Sale,32.836105,13.12787
+1150000.0,Tripoli,Alfornaj,7.0,5.0,False,400.0,20.0,Northern,False,Landlord,Homes for Sale,32.816689,13.266537
+250000.0,Tripoli,Fashloum,4.0,2.0,False,144.0,20.0,Western,False,Agent,Homes for Sale,32.129944,20.125895
+1300000.0,Tripoli,Jama'a Saqa'a,5.0,4.0,False,470.0,10.0,Unknown,False,Agent,Homes for Sale,32.841306,13.242251
+355000.0,Tripoli,Souq Al-Juma'a,4.0,2.0,False,185.0,10.0,Southern,False,Landlord,Homes for Sale,32.887409,13.206886
+230000.0,Gharyan,Other,4.0,2.0,False,220.0,10.0,Western,True,Landlord,Homes for Sale,32.054704,20.119411
+700000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,288.0,1.0,Unknown,False,Agent,Homes for Sale,32.810515,13.30884
+525000.0,Tripoli,Fashloum,5.0,2.0,False,160.0,20.0,Northern,False,Agent,Homes for Sale,32.821906,13.076027
+450000.0,Tripoli,Zanatah,7.0,3.0,False,350.0,20.0,Northeast,False,Agent,Homes for Sale,32.836906,13.082124
+1200000.0,Tripoli,Eastern Hadba Rd,4.0,1.0,False,144.0,20.0,Southern,False,Agent,Homes for Sale,32.773215,13.255895
+825000.0,Tripoli,Airport Road,5.0,2.0,False,240.0,10.0,Unknown,False,Agent,Homes for Sale,32.845772,13.24881
+350000.0,Misrata,Other,5.0,4.0,False,300.0,0.0,Northeast,False,Landlord,Homes for Sale,32.081188,20.067745
+780000.0,Tripoli,Al-Hadaba'tool Rd,5.0,3.0,False,230.0,20.0,Northern,False,Landlord,Homes for Sale,32.839981,13.311313
+460000.0,Misrata,Other,7.0,3.0,False,246.0,0.0,Eastern,False,Agent,Homes for Sale,32.80632,13.063303
+750000.0,Misrata,Zawiyat Al-Mahjoub,3.0,3.0,False,280.0,6.0,Northeast,False,Landlord,Homes for Sale,32.398243,15.015216
+650000.0,Tripoli,Wadi Al-Rabi,3.0,2.0,False,110.0,6.0,Unknown,False,Landlord,Homes for Sale,32.802189,13.296408
+200225.0,Al Khums,Other,2.0,2.0,False,300.0,6.0,Unknown,False,Landlord,Homes for Sale,32.020115,20.122656
+165000.0,Tarhuna,AlKhadra,3.0,2.0,False,150.0,1.0,Eastern,False,Landlord,Homes for Sale,32.718212,13.33833
+440000.0,Tripoli,Al-Hani,5.0,1.0,False,170.0,20.0,Northern,False,Landlord,Homes for Sale,32.285914,14.49957
+200000.0,Tripoli,Ghut Shaal,7.0,2.0,False,295.0,10.0,Unknown,False,Landlord,Homes for Sale,32.791897,13.359832
+200000.0,Tripoli,Bab Bin Ghashier,3.0,2.0,False,135.0,10.0,Western,False,Landlord,Homes for Sale,32.049297,20.029694
+580000.0,Misrata,Karzaz,3.0,2.0,False,120.0,0.0,Unknown,False,Agent,Homes for Sale,32.863098,13.146362
+1150000.0,Misrata,Moqawaba,3.0,2.0,False,205.0,20.0,Southwest,False,Landlord,Homes for Sale,32.81477,13.268763
+280000.0,Benghazi,Palestine St,3.0,2.0,False,180.0,1.0,Eastern,True,Agent,Homes for Sale,32.853004,13.390075
+750000.0,Tripoli,Al-Sabaa,1.0,1.0,False,200.0,10.0,Unknown,False,Landlord,Homes for Sale,32.130727,20.107008
+550000.0,Tripoli,Fashloum,7.0,2.0,True,180.0,20.0,Northern,False,Landlord,Homes for Sale,32.738608,13.124256
+800000.0,Tripoli,Hai Alandalus,3.0,1.0,True,120.0,10.0,Southwest,False,Landlord,Homes for Sale,32.801357,13.187852
+500000.0,Misrata,Tamina,5.0,2.0,False,145.0,0.0,Western,False,Landlord,Homes for Sale,32.824734,13.053578
+420000.0,Tarhuna,Other,1.0,1.0,False,80.0,1.0,Eastern,False,Landlord,Homes for Sale,32.85054,13.206068
+585000.0,Tripoli,Al-Hadba Al-Khadra,4.0,2.0,False,133.0,20.0,Northern,False,Agent,Homes for Sale,32.666588,13.140488
+880000.0,Tripoli,Ain Zara,3.0,2.0,False,200.0,1.0,Unknown,False,Agent,Homes for Sale,32.021893,20.021769
+720000.0,Tripoli,Al-Bivio,7.0,7.0,False,390.0,10.0,Southeast,False,Landlord,Homes for Sale,32.735867,13.257701
+355000.0,Tripoli,Ain Zara,2.0,1.0,True,60.0,1.0,Northwest,False,Landlord,Homes for Sale,32.711571,14.174945
+520000.0,Benghazi,Sidi Khalifa,7.0,4.0,False,240.0,6.0,Southwest,False,Landlord,Homes for Sale,32.083352,20.051281
+420000.0,Tripoli,Al-Bivio,5.0,2.0,False,210.0,20.0,Eastern,False,Landlord,Homes for Sale,32.827942,13.381835
+850000.0,Tripoli,Qasr Bin Ghashir,3.0,2.0,False,275.0,10.0,Western,False,Landlord,Homes for Sale,32.863331,13.323252
+1250000.0,Tripoli,Ain Zara,1.0,1.0,False,80.0,6.0,Northern,False,Landlord,Homes for Sale,32.0625,20.138602
+700000.0,Tripoli,Tajura,3.0,3.0,False,240.0,6.0,Southern,False,Agent,Homes for Sale,32.608826,13.123348
+220000.0,Benghazi,Al-Faqa'at,3.0,2.0,False,175.0,1.0,Unknown,False,Landlord,Homes for Sale,32.774174,13.246501
+180000.0,Tripoli,Tajura,3.0,1.0,False,140.0,6.0,Northern,False,Landlord,Homes for Sale,32.091368,20.093772
+350000.0,Tripoli,Al-Hadba Al-Khadra,7.0,4.0,False,400.0,10.0,Northern,False,Landlord,Homes for Sale,32.792585,13.26026
+650000.0,Benghazi,Al-Salam,2.0,2.0,False,200.0,20.0,Northern,False,Agent,Homes for Sale,32.807958,13.32763
+1250000.0,Tripoli,Tajura,5.0,2.0,True,290.0,10.0,Eastern,False,Landlord,Homes for Sale,32.850105,13.303934
+250000.0,Tripoli,Kashlaf,7.0,7.0,False,310.0,10.0,Western,False,Agent,Homes for Sale,31.904697,19.962641
+750000.0,Tripoli,Tajura,3.0,2.0,False,100.0,1.0,Eastern,False,Landlord,Homes for Sale,32.845971,13.073231
+500000.0,Tripoli,Wadi Al-Rabi,3.0,1.0,True,87.0,10.0,Northern,False,Landlord,Homes for Sale,32.501461,13.288026
+600000.0,Tripoli,Ain Zara,3.0,2.0,False,150.0,0.0,Northwest,False,Landlord,Homes for Sale,32.800022,13.440175
+360000.0,Tripoli,Ain Zara,2.0,2.0,False,180.0,6.0,Northern,False,Landlord,Homes for Sale,32.779507,13.099603
+550000.0,Benghazi,Al-Mahishi,3.0,2.0,False,204.0,10.0,Northeast,False,Agent,Homes for Sale,32.814395,13.265056
+1190000.0,Tripoli,Ain Zara,3.0,2.0,False,150.0,1.0,Unknown,False,Agent,Homes for Sale,32.850731,13.239476
+1350000.0,Tripoli,Wadi Al-Rabi,2.0,1.0,False,160.0,1.0,Eastern,False,Landlord,Homes for Sale,32.777894,13.138427
+350000.0,Tripoli,Qasr Bin Ghashir,3.0,3.0,False,200.0,0.0,Eastern,False,Landlord,Homes for Sale,32.816666,13.266667
+200000.0,Benghazi,Al-Sayeda A'esha,4.0,3.0,False,244.0,0.0,Northern,False,Landlord,Homes for Sale,32.244038,20.226034
+185238.0,Tripoli,Tajura,2.0,1.0,False,120.0,6.0,Unknown,False,Landlord,Homes for Sale,32.781102,12.449522
+425000.0,Tripoli,Old Soar Road,7.0,4.0,False,165.0,10.0,Northeast,False,Landlord,Homes for Sale,32.807163,13.056804
+380000.0,Tripoli,Al-Hadba Al-Khadra,3.0,2.0,False,144.0,1.0,Northern,False,Landlord,Homes for Sale,32.816341,13.147436
+398000.0,Tripoli,Al-Baesh,2.0,1.0,False,110.0,1.0,Northern,False,Landlord,Homes for Sale,32.806959,13.238978
+500000.0,Tripoli,Wadi Al-Rabi,3.0,2.0,True,140.0,1.0,Eastern,False,Landlord,Homes for Sale,32.861515,13.328938
+600000.0,Tripoli,Al-Najila,3.0,3.0,False,168.0,6.0,Western,False,Landlord,Homes for Sale,32.799274,13.116615
+250000.0,Tripoli,Ain Zara,3.0,3.0,False,170.0,1.0,Northwest,False,Agent,Homes for Sale,32.687561,13.17346
+440000.0,Tripoli,Al-Serraj,4.0,3.0,True,300.0,10.0,Eastern,False,Landlord,Homes for Sale,32.816666,13.266667
+155000.0,Benghazi,Tikah,2.0,1.0,False,120.0,0.0,Unknown,False,Landlord,Homes for Sale,32.787065,13.181614
+570000.0,Tripoli,Tareeq Al-Mashtal,5.0,2.0,False,216.0,6.0,Eastern,False,Landlord,Homes for Sale,32.736454,13.155292
+199999.0,Tripoli,Old Soar Road,7.0,3.0,False,242.0,20.0,Southern,True,Landlord,Homes for Sale,32.805756,13.196349
+1350000.0,Tripoli,Khallet Alforjan,5.0,5.0,False,470.0,6.0,Northern,False,Landlord,Homes for Sale,32.374574,15.169572
+650000.0,Tripoli,Al-Serraj,2.0,1.0,False,130.0,20.0,Unknown,False,Landlord,Homes for Sale,32.866157,13.18849
+300000.0,Tripoli,Al-Serraj,3.0,1.0,True,180.0,10.0,Western,False,Landlord,Homes for Sale,32.809643,13.038917
+300000.0,Benghazi,Boatni,3.0,3.0,False,240.0,0.0,Western,False,Agent,Homes for Sale,32.689992,13.345824
+1250000.0,Tripoli,Hay Demsheq,5.0,3.0,False,250.0,20.0,Southwest,False,Agent,Homes for Sale,32.858749,13.084483
+850000.0,Tripoli,Airport Road,4.0,2.0,False,175.0,6.0,Unknown,False,Landlord,Homes for Sale,32.806501,13.281489
+265000.0,Tripoli,Souq Al-Juma'a,7.0,3.0,True,200.0,6.0,Eastern,False,Landlord,Homes for Sale,32.10276,20.146355
+200000.0,Misrata,Other,1.0,1.0,False,162.0,20.0,Southern,False,Agent,Homes for Sale,32.122284,20.1031
+220000.0,Tripoli,Wadi Al-Rabi,2.0,2.0,False,120.0,1.0,Eastern,False,Agent,Homes for Sale,32.816667,13.266667
+235000.0,Tripoli,Eastern Hadba Rd,5.0,2.0,False,120.0,20.0,Northwest,False,Landlord,Homes for Sale,32.731132,13.309348
+320000.0,Tripoli,Ghut Shaal,4.0,3.0,False,133.0,10.0,Northeast,False,Landlord,Homes for Sale,32.888906,13.224175
+150000.0,Tripoli,Ain Zara,5.0,4.0,False,350.0,10.0,Unknown,False,Landlord,Homes for Sale,32.778507,13.179355
+1500000.0,Tripoli,Gasr Garabulli,4.0,2.0,False,160.0,1.0,Northeast,False,Agent,Homes for Sale,32.736752,13.216926
+300000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,465.0,0.0,Eastern,False,Landlord,Homes for Sale,32.726901,13.703009
+550000.0,Tripoli,Al-Kremiah,1.0,1.0,False,150.0,1.0,Southeast,True,Landlord,Homes for Sale,32.816666,13.266667
+900000.0,Tripoli,Other,3.0,2.0,False,150.0,1.0,Northern,False,Landlord,Homes for Sale,32.794462,13.081024
+485000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,170.0,0.0,Unknown,False,Landlord,Homes for Sale,32.814987,13.079581
+320000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,170.0,0.0,Eastern,False,Landlord,Homes for Sale,32.812501,13.059359
+310000.0,Tripoli,Ain Zara,4.0,1.0,False,160.0,10.0,Northeast,False,Landlord,Homes for Sale,32.795121,13.215781
+470000.0,Tripoli,Al-Najila,5.0,4.0,False,260.0,6.0,Northeast,False,Landlord,Homes for Sale,32.78693,13.320775
+800000.0,Tripoli,Khallet Alforjan,4.0,2.0,False,135.0,0.0,Northern,False,Landlord,Homes for Sale,32.787212,13.343635
+356265.0,Tripoli,Ain Zara,3.0,3.0,False,165.0,0.0,Eastern,False,Agent,Homes for Sale,32.754838,13.230949
+345000.0,Tripoli,Tajura,2.0,1.0,True,120.0,0.0,Northeast,False,Landlord,Homes for Sale,32.851169,13.223839
+650000.0,Benghazi,Al-Mahishi,3.0,2.0,False,204.0,10.0,Eastern,False,Agent,Homes for Sale,32.001888,20.026199
+250000.0,Tripoli,Al-Serraj,4.0,4.0,False,370.0,1.0,Eastern,False,Agent,Homes for Sale,32.089023,20.092635
+300000.0,Tripoli,Al-Najila,1.0,2.0,False,175.0,1.0,Unknown,False,Landlord,Homes for Sale,32.87989,13.145324
+395000.0,Misrata,Other,7.0,5.0,False,335.0,6.0,Eastern,False,Landlord,Homes for Sale,32.797638,13.301879
+370000.0,Tripoli,Alswani,3.0,2.0,False,200.0,6.0,Northern,False,Landlord,Homes for Sale,32.825691,13.080765
+625000.0,Tripoli,Khallet Alforjan,2.0,1.0,True,150.0,6.0,Southern,True,Landlord,Homes for Sale,32.09359,20.111713
+1500000.0,Benghazi,Other,2.0,1.0,False,100.0,10.0,Northwest,False,Agent,Homes for Sale,32.793634,13.263625
+150000.0,Tripoli,Ain Zara,5.0,4.0,False,250.0,6.0,Unknown,False,Landlord,Homes for Sale,32.585567,13.175203
+900000.0,Tripoli,Ain Zara,4.0,3.0,False,159.0,0.0,Unknown,False,Agent,Homes for Sale,32.762188,13.075224
+325000.0,Tripoli,Abu Saleem,3.0,2.0,False,130.0,6.0,Unknown,False,Landlord,Homes for Sale,32.687778,13.173889
+450000.0,Tripoli,Ain Zara,4.0,4.0,False,220.0,0.0,Eastern,False,Landlord,Homes for Sale,32.73304,13.318698
+1500000.0,Tripoli,Tajura,3.0,1.0,False,86.0,0.0,Eastern,False,Landlord,Homes for Sale,31.984137,20.140395
+220000.0,Tripoli,Khallet Alforjan,5.0,2.0,False,110.0,10.0,Northeast,False,Agent,Homes for Sale,32.115732,20.082588
+500000.0,Tripoli,Al-Sidra,4.0,3.0,False,260.0,10.0,Southeast,False,Landlord,Homes for Sale,32.781294,13.047084
+180000.0,Tripoli,Wadi Al-Rabi,4.0,2.0,False,160.0,10.0,Unknown,False,Landlord,Homes for Sale,32.835432,13.06896
+1250000.0,Tripoli,Ain Zara,4.0,3.0,False,170.0,0.0,Unknown,False,Agent,Homes for Sale,32.141926,20.083677
+1100000.0,Benghazi,Dollar,7.0,4.0,False,300.0,20.0,Northern,False,Landlord,Homes for Sale,32.878947,13.205817
+350000.0,Tripoli,Fashloum,7.0,3.0,False,250.0,20.0,Unknown,False,Landlord,Homes for Sale,32.778206,13.309583
+280000.0,Tripoli,Al-Kremiah,3.0,3.0,False,200.0,0.0,Western,True,Landlord,Homes for Sale,32.73339,13.012979
+1200000.0,Tripoli,Tajura,3.0,1.0,False,140.0,6.0,Northeast,False,Landlord,Homes for Sale,32.090797,20.143783
+1400000.0,Tripoli,Ain Zara,3.0,1.0,False,160.0,1.0,Southern,False,Agent,Homes for Sale,32.8307,13.147056
+380000.0,Tripoli,Tajura,3.0,2.0,False,170.0,10.0,Unknown,False,Agent,Homes for Sale,32.800541,13.26447
+340000.0,Tripoli,Al-Baesh,3.0,1.0,False,90.0,1.0,Western,False,Agent,Homes for Sale,32.77589,13.172277
+800000.0,Tripoli,Abu Saleem,4.0,4.0,False,220.0,0.0,Eastern,False,Landlord,Homes for Sale,32.305653,13.22904
+850000.0,Tripoli,Janzour,4.0,3.0,True,298.0,10.0,Western,False,Landlord,Homes for Sale,32.87759,13.329545
+477777.0,Tripoli,Airport Road,2.0,2.0,True,115.0,1.0,Northern,False,Landlord,Homes for Sale,32.72784,13.330657
+215000.0,Tripoli,Tajura,5.0,4.0,True,250.0,10.0,Northern,False,Landlord,Homes for Sale,32.784363,13.235297
+520000.0,Tripoli,Ain Zara,2.0,2.0,False,110.0,0.0,Unknown,False,Agent,Homes for Sale,32.780792,13.060227
+1000000.0,Tripoli,Tajura,3.0,1.0,False,130.0,1.0,Northern,False,Landlord,Homes for Sale,32.852693,13.073146
+1222333.0,Tripoli,Airport Road,5.0,3.0,False,220.0,0.0,Southwest,False,Landlord,Homes for Sale,32.795385,13.290442
+390000.0,Tripoli,Edraibi,7.0,3.0,False,315.0,10.0,Unknown,False,Agent,Homes for Sale,32.793419,13.166776
+400000.0,Tripoli,Ain Zara,2.0,2.0,False,90.0,1.0,Unknown,False,Landlord,Homes for Sale,32.201127,20.170041
+195000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,240.0,10.0,Eastern,False,Landlord,Homes for Sale,32.815071,13.269282
+650000.0,Benghazi,Al Halis District,4.0,1.0,False,180.0,10.0,Unknown,False,Landlord,Homes for Sale,32.79747,13.215265
+550000.0,Tripoli,Tajura,2.0,1.0,False,130.0,10.0,Northern,False,Landlord,Homes for Sale,32.876738,13.22451
+670000.0,Tripoli,Arada,7.0,3.0,False,320.0,20.0,Northeast,False,Agent,Homes for Sale,32.783796,13.254997
+225000.0,Tripoli,Al-Sabaa,5.0,4.0,False,350.0,10.0,Western,False,Landlord,Homes for Sale,32.151558,20.123693
+255000.0,Tripoli,Khallet Alforjan,7.0,4.0,False,320.0,0.0,Northern,False,Landlord,Homes for Sale,32.837009,13.075852
+370000.0,Tripoli,Gorje,4.0,2.0,False,112.0,20.0,Unknown,False,Landlord,Homes for Sale,32.826876,13.204248
+700000.0,Misrata,Other,3.0,2.0,False,200.0,0.0,Eastern,False,Agent,Homes for Sale,32.752947,13.098686
+300000.0,Benghazi,Shabna,3.0,2.0,False,150.0,3.5,Eastern,False,Landlord,Homes for Sale,32.160912,20.154849
+700000.0,Tripoli,Airport Road,4.0,2.0,False,180.0,1.0,Unknown,False,Landlord,Homes for Sale,32.129944,20.125895
+550000.0,Tripoli,Gasr Garabulli,7.0,5.0,False,300.0,1.0,Northeast,False,Agent,Homes for Sale,32.806446,13.175478
+380000.0,Tripoli,Al-Baesh,3.0,2.0,True,200.0,1.0,Northern,False,Landlord,Homes for Sale,32.753704,13.722059
+200000.0,Tripoli,Khallet Alforjan,4.0,3.0,False,160.0,0.0,Eastern,False,Landlord,Homes for Sale,32.827194,13.369524
+810000.0,Tripoli,Tajura,1.0,1.0,True,60.0,0.0,Northeast,False,Agent,Homes for Sale,32.878235,13.171814
+800000.0,Tripoli,Khallet Alforjan,7.0,4.0,False,380.0,6.0,Northwest,False,Agent,Homes for Sale,32.892902,13.176201
+800000.0,Tripoli,Al-Hadaba'tool Rd,4.0,1.0,False,144.0,20.0,Unknown,False,Landlord,Homes for Sale,32.095516,20.101389
+300000.0,Tripoli,Ain Zara,7.0,4.0,False,400.0,6.0,Unknown,False,Landlord,Homes for Sale,32.86515,13.198338
+650000.0,Tripoli,Tajura,3.0,1.0,False,160.0,20.0,Northwest,False,Landlord,Homes for Sale,32.842228,13.033376
+330000.0,Tripoli,Kashlaf,7.0,4.0,True,470.0,10.0,Northwest,False,Landlord,Homes for Sale,32.857613,13.362118
+800000.0,Tripoli,Salah Al-Din,2.0,1.0,False,180.0,10.0,Unknown,False,Landlord,Homes for Sale,32.88342,13.201741
+1000000.0,Tripoli,Tajura,3.0,2.0,False,120.0,6.0,Eastern,False,Landlord,Homes for Sale,32.842281,13.171151
+250000.0,Tripoli,Al-Hani,5.0,3.0,False,213.0,20.0,Northern,False,Agent,Homes for Sale,32.849158,13.117831
+175000.0,Tripoli,Old Soar Road,4.0,1.0,False,130.0,10.0,Unknown,False,Agent,Homes for Sale,32.794701,13.182223
+360000.0,Tripoli,Hai Al-Batata,3.0,1.0,False,121.0,20.0,Southern,False,Agent,Homes for Sale,32.485928,14.501699
+250000.0,Tripoli,Ain Zara,4.0,4.0,False,170.0,1.0,Unknown,False,Agent,Homes for Sale,32.82338,13.127478
+900000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,165.0,0.0,Unknown,False,Landlord,Homes for Sale,32.87138,13.190632
+500000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,170.0,0.0,Unknown,False,Landlord,Homes for Sale,32.902192,13.225398
+280000.0,Tripoli,Ain Zara,3.0,3.0,False,175.0,0.0,Unknown,False,Landlord,Homes for Sale,32.821906,13.076027
+950000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,125.0,0.0,Unknown,False,Landlord,Homes for Sale,32.103465,20.174842
+700000.0,Tripoli,Eastern Hadba Rd,7.0,2.0,False,150.0,20.0,Unknown,False,Landlord,Homes for Sale,32.81517,13.35572
+400000.0,Tripoli,Al-Jabs,5.0,2.0,False,217.0,10.0,Northern,False,Landlord,Homes for Sale,32.812752,13.377858
+365000.0,Tripoli,Wadi Al-Rabi,5.0,2.0,False,210.0,1.0,Eastern,False,Landlord,Homes for Sale,32.834347,13.112553
+390000.0,Zawiya,Western Zawiya,7.0,7.0,False,220.0,10.0,Southwest,False,Landlord,Homes for Sale,32.803608,13.34795
+610000.0,Tripoli,Ain Zara,7.0,2.0,False,250.0,10.0,Eastern,False,Landlord,Homes for Sale,32.785792,13.015621
+260000.0,Tripoli,Wadi Al-Rabi,2.0,1.0,False,90.0,20.0,Eastern,False,Landlord,Homes for Sale,32.84584,13.19534
+900000.0,Tripoli,Zanatah,7.0,3.0,False,350.0,20.0,Northeast,False,Agent,Homes for Sale,32.827477,13.255802
+1400000.0,Tripoli,Ain Zara,5.0,5.0,False,450.0,0.0,Northern,False,Landlord,Homes for Sale,32.791447,13.148839
+1500000.0,Misrata,Karzaz,5.0,5.0,True,200.0,20.0,Eastern,False,Agent,Homes for Sale,32.830887,13.207823
+400000.0,Tripoli,Al-Serraj,4.0,4.0,False,350.0,6.0,Southeast,False,Landlord,Homes for Sale,32.78632,13.049843
+950000.0,Tripoli,Al-Baesh,2.0,2.0,True,120.0,1.0,Northern,False,Landlord,Homes for Sale,32.811976,13.075827
+390000.0,Benghazi,Al-Faqa'at,3.0,3.0,False,168.0,1.0,Western,False,Agent,Homes for Sale,32.79331,13.16696
+285000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,160.0,0.0,Unknown,False,Landlord,Homes for Sale,32.07338,20.073149
+290000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,168.0,0.0,Unknown,False,Landlord,Homes for Sale,32.772789,13.23564
+800000.0,Tripoli,Tajura,1.0,2.0,False,90.0,6.0,Unknown,False,Agent,Homes for Sale,32.719276,14.060675
+325350.0,Tripoli,Wadi Al-Rabi,3.0,2.0,False,160.0,1.0,Southeast,False,Agent,Homes for Sale,32.772578,13.220491
+350000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,165.0,0.0,Unknown,False,Landlord,Homes for Sale,32.708618,13.057991
+220000.0,Benghazi,Kuwayfiyah,3.0,2.0,False,240.0,0.0,Unknown,False,Agent,Homes for Sale,32.802647,13.411578
+1100000.0,Tripoli,Abu Saleem,4.0,3.0,False,220.0,0.0,Southeast,False,Landlord,Homes for Sale,32.845535,13.18363
+625000.0,Tripoli,Ain Zara,4.0,4.0,False,256.0,0.0,Western,False,Landlord,Homes for Sale,32.871208,13.146643
+1500000.0,Tripoli,Other,7.0,3.0,False,145.0,20.0,Southern,False,Agent,Homes for Sale,32.041395,20.130351
+270000.0,Benghazi,Sidi Khalifa,2.0,1.0,False,90.0,1.0,Unknown,False,Landlord,Homes for Sale,32.753298,13.143588
+550000.0,Tripoli,Souq Al-Juma'a,7.0,5.0,False,180.0,6.0,Unknown,False,Landlord,Homes for Sale,32.821906,13.076027
+150000.0,Tripoli,Tajura,3.0,2.0,False,200.0,6.0,Eastern,False,Landlord,Homes for Sale,32.846152,13.163235
+370000.0,Tripoli,Al-Bivio,4.0,2.0,False,170.0,0.0,Unknown,False,Agent,Homes for Sale,32.064617,20.085917
+315000.0,Tripoli,Ghut Shaal,4.0,2.0,False,200.0,20.0,Eastern,False,Landlord,Homes for Sale,32.881111,13.191559
+900000.0,Tripoli,Ain Zara,4.0,3.0,False,180.0,0.0,Unknown,False,Agent,Homes for Sale,32.857201,13.105407
+1350000.0,Tripoli,Jazeerat Al-Fahm,4.0,3.0,False,200.0,10.0,Eastern,False,Landlord,Homes for Sale,32.803908,13.329058
+600000.0,Tripoli,Ain Zara,3.0,3.0,False,210.0,0.0,Unknown,False,Agent,Homes for Sale,32.813217,13.17573
+380000.0,Tripoli,Ain Zara,4.0,3.0,False,180.0,1.0,Northern,False,Agent,Homes for Sale,32.786404,13.325174
+1200000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,165.0,0.0,Northwest,True,Landlord,Homes for Sale,32.869293,13.236674
+250000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,170.0,6.0,Northern,False,Landlord,Homes for Sale,32.603336,13.245816
+400000.0,Tripoli,Al-Baesh,5.0,3.0,False,200.0,1.0,Northern,False,Landlord,Homes for Sale,32.745148,13.249165
+160000.0,Benghazi,Qaminis,3.0,2.0,False,250.0,10.0,Western,False,Landlord,Homes for Sale,32.76339,13.356032
+400000.0,Tripoli,Al-Nofliyen,3.0,1.0,False,116.0,20.0,Western,False,Agent,Homes for Sale,31.663316,20.01688
+300000.0,Tripoli,Other,4.0,3.0,False,165.0,0.0,Northern,False,Landlord,Homes for Sale,32.827942,13.381835
+265000.0,Tripoli,Other,3.0,2.0,False,145.0,0.0,Western,False,Landlord,Homes for Sale,32.740038,13.210849
+300000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,130.0,0.0,Northern,False,Landlord,Homes for Sale,32.717793,13.206313
+450000.0,Tripoli,Tajura,3.0,3.0,False,174.0,6.0,Southern,False,Landlord,Homes for Sale,32.817046,13.456889
+195000.0,Tripoli,Airport Road,3.0,2.0,False,170.0,0.0,Northern,False,Landlord,Homes for Sale,32.808712,13.095301
+580000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,135.0,0.0,Unknown,False,Landlord,Homes for Sale,32.672653,12.774915
+1250000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,160.0,0.0,Unknown,False,Landlord,Homes for Sale,32.031673,20.05048
+275000.0,Tripoli,Ain Zara,1.0,1.0,False,80.0,1.0,Northwest,False,Landlord,Homes for Sale,32.841705,13.035132
+220000.0,Tripoli,Ain Zara,4.0,3.0,True,180.0,0.0,Northern,False,Landlord,Homes for Sale,32.27243,15.140794
+440000.0,Tripoli,Zanatah,2.0,1.0,False,120.0,1.0,Eastern,False,Landlord,Homes for Sale,32.797009,13.280032
+550000.0,Tripoli,Ras Hassan,7.0,3.0,False,300.0,1.0,Northeast,False,Agent,Homes for Sale,32.835186,13.254748
+165000.0,Tripoli,Ain Zara,3.0,2.0,True,180.0,1.0,Northwest,False,Landlord,Homes for Sale,32.74078,13.23291
+230000.0,Tripoli,Alfornaj,7.0,3.0,False,296.0,20.0,Northeast,False,Landlord,Homes for Sale,32.032181,20.132185
+395000.0,Tripoli,Tajura,2.0,2.0,True,100.0,1.0,Eastern,False,Landlord,Homes for Sale,32.73339,13.012979
+850000.0,Tripoli,Al-Baesh,3.0,2.0,False,110.0,0.0,Southern,False,Landlord,Homes for Sale,32.851458,13.235395
+950000.0,Tripoli,Al-Najila,7.0,7.0,False,380.0,1.0,Eastern,False,Landlord,Homes for Sale,32.067772,20.110462
+825000.0,Misrata,Karzaz,7.0,4.0,False,300.0,0.0,Northeast,False,Landlord,Homes for Sale,32.816425,13.135196
+850000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,250.0,10.0,Eastern,False,Agent,Homes for Sale,32.757619,12.957778
+400000.0,Tripoli,Al-Hani,7.0,2.0,False,140.0,20.0,Northern,False,Landlord,Homes for Sale,32.737385,13.72206
+690000.0,Tripoli,Souq Al-Juma'a,3.0,1.0,False,120.0,20.0,Unknown,False,Landlord,Homes for Sale,32.869499,13.225781
+689999.0,Misrata,Tamina,3.0,1.0,False,100.0,0.0,Eastern,False,Landlord,Homes for Sale,32.777457,13.002408
+600000.0,Misrata,Other,4.0,2.0,False,124.0,20.0,Unknown,False,Landlord,Homes for Sale,32.287384,15.091634
+1000000.0,Tripoli,Al-Jamahirriyah St,4.0,1.0,False,128.0,20.0,Unknown,False,Landlord,Homes for Sale,32.090752,20.144024
+1000000.0,Tripoli,Wadi Al-Rabi,1.0,5.0,False,100.0,1.0,Southern,False,Landlord,Homes for Sale,32.024307,20.165348
+1100000.0,Tripoli,Qasr Bin Ghashir,1.0,1.0,False,80.0,6.0,Southern,False,Landlord,Homes for Sale,32.871506,13.159895
+450000.0,Tripoli,Al-Serraj,3.0,3.0,False,200.0,1.0,Eastern,False,Landlord,Homes for Sale,32.876011,13.169747
+350000.0,Tripoli,Fashloum,7.0,2.0,False,220.0,20.0,Northern,False,Agent,Homes for Sale,32.887531,13.1767
+550000.0,Tripoli,Old Soar Road,5.0,4.0,True,230.0,6.0,Northern,False,Landlord,Homes for Sale,32.819526,13.074122
+215000.0,Tripoli,Khallet Alforjan,2.0,1.0,True,120.0,6.0,Unknown,False,Landlord,Homes for Sale,32.016702,20.127302
+1300000.0,Misrata,Tamina,3.0,3.0,False,147.0,0.0,Northern,False,Agent,Homes for Sale,32.804644,13.081353
+900000.0,Tripoli,Alfornaj,3.0,7.0,False,240.0,10.0,Northern,False,Agent,Homes for Sale,32.794846,13.159487
+350000.0,Misrata,Yeder,7.0,4.0,False,300.0,20.0,Eastern,False,Landlord,Homes for Sale,32.777681,13.349051
+1300000.0,Tripoli,Qasr Bin Ghashir,2.0,2.0,False,200.0,0.0,Northern,False,Agent,Homes for Sale,32.846451,13.116325
+500000.0,Tripoli,Arada,4.0,2.0,False,150.0,0.0,Eastern,False,Agent,Homes for Sale,32.392975,15.120768
+450000.0,Tripoli,Tareeq Al-Mashtal,5.0,2.0,False,255.0,6.0,Northern,False,Landlord,Homes for Sale,32.871803,13.244706
+1275000.0,Benghazi,Keesh,4.0,2.0,False,170.0,10.0,Southeast,False,Agent,Homes for Sale,32.809419,13.29379
+460000.0,Misrata,Karzaz,2.0,1.0,True,100.0,0.0,Southern,False,Agent,Homes for Sale,32.816666,13.266667
+750000.0,Tripoli,Al-Najila,3.0,2.0,False,185.0,10.0,Northern,True,Landlord,Homes for Sale,32.850862,13.090435
+185000.0,Asbi'a,Other,7.0,4.0,False,190.0,20.0,Northeast,False,Landlord,Homes for Sale,32.754608,12.966684
+850000.0,Tripoli,Espiaa,3.0,1.0,False,150.0,1.0,Northwest,False,Landlord,Homes for Sale,32.118809,20.078567
+400000.0,Tripoli,Ain Zara,4.0,2.0,False,175.0,1.0,Unknown,False,Landlord,Homes for Sale,32.035442,12.865611
+690000.0,Tripoli,Ghut Shaal,4.0,1.0,False,150.0,20.0,Northern,False,Landlord,Homes for Sale,32.78405,13.198149
+350000.0,Tripoli,Al-Serraj,5.0,3.0,False,390.0,10.0,Unknown,False,Landlord,Homes for Sale,32.851819,13.101721
+700000.0,Tripoli,Tajura,4.0,3.0,False,200.0,6.0,Northern,False,Landlord,Homes for Sale,32.013065,20.138577
+1500000.0,Tripoli,Hai Alandalus,4.0,2.0,True,175.0,20.0,Eastern,False,Landlord,Homes for Sale,32.839463,13.093031
+730000.0,Tripoli,Al-Serraj,5.0,2.0,False,250.0,6.0,Northern,False,Landlord,Homes for Sale,32.795076,13.319235
+450000.0,Tripoli,Ain Zara,4.0,2.0,False,150.0,0.0,Eastern,False,Agent,Homes for Sale,32.795662,13.214254
+1500000.0,Ajdabiya,Other,3.0,3.0,True,150.0,10.0,Northern,False,Landlord,Homes for Sale,32.794838,13.083174
+460000.0,Bani Walid,Other,5.0,2.0,False,145.0,10.0,Northwest,False,Landlord,Homes for Sale,32.8092,13.319241
+200000.0,Tripoli,Tareeq Al-Mashtal,7.0,2.0,False,270.0,0.0,Southern,False,Agent,Homes for Sale,32.732579,13.18925
+200000.0,Tripoli,Zawiyat Al Dahmani,4.0,1.0,False,122.0,20.0,Eastern,False,Agent,Homes for Sale,32.749214,13.181415
+500000.0,Tripoli,Souq Al-Juma'a,7.0,3.0,False,120.0,10.0,Northern,True,Landlord,Homes for Sale,32.825401,13.38677
+390000.0,Tripoli,Al-Serraj,7.0,4.0,True,400.0,1.0,Western,False,Landlord,Homes for Sale,32.787163,13.162298
+1350000.0,Tripoli,Al-Hae Al-Senaea,3.0,1.0,False,72.0,20.0,Unknown,False,Landlord,Homes for Sale,32.809399,13.091984
+415000.0,Misrata,Other,2.0,2.0,True,110.0,1.0,Northern,False,Landlord,Homes for Sale,32.816998,13.075855
+1350000.0,Tripoli,Ain Zara,7.0,7.0,False,425.0,0.0,Eastern,False,Agent,Homes for Sale,30.017336,12.052056
+400000.0,Tripoli,Tajura,2.0,1.0,False,120.0,1.0,Eastern,False,Landlord,Homes for Sale,32.325649,15.182613
+1350000.0,Tripoli,Khallet Alforjan,4.0,2.0,False,175.0,1.0,Southeast,False,Landlord,Homes for Sale,32.816667,13.266667
+825000.0,Benghazi,Al-Faqa'at,4.0,3.0,False,300.0,1.0,Southwest,False,Agent,Homes for Sale,32.881443,13.356327
+295000.0,Tripoli,Al-Hae Al-Senaea,4.0,1.0,False,144.0,6.0,Unknown,False,Landlord,Homes for Sale,32.735061,13.128673
+390000.0,Tripoli,Ghut Shaal,7.0,7.0,False,400.0,10.0,Eastern,False,Agent,Homes for Sale,32.753298,13.143588
+850000.0,Tripoli,Bin Ashour,5.0,3.0,False,180.0,1.0,Northern,False,Landlord,Homes for Sale,32.854402,13.134407
+185000.0,Tripoli,Ras Hassan,3.0,2.0,False,100.0,10.0,Southern,False,Agent,Homes for Sale,32.842281,13.171151
+1000000.0,Tripoli,Ain Zara,4.0,4.0,True,200.0,1.0,Northern,False,Landlord,Homes for Sale,32.081925,20.149041
+160000.0,Benghazi,Qaminis,1.0,2.0,False,150.0,1.0,Southwest,True,Landlord,Homes for Sale,32.668583,13.300536
+330000.0,Tripoli,Al-Baesh,3.0,2.0,False,180.0,0.0,Northern,False,Landlord,Homes for Sale,32.868331,13.234795
+400000.0,Tripoli,Ain Zara,7.0,4.0,False,262.0,0.0,Unknown,False,Landlord,Homes for Sale,32.818927,13.264922
+1500000.0,Tripoli,Gorje,3.0,1.0,False,120.0,20.0,Unknown,False,Landlord,Homes for Sale,32.881792,13.326653
+430000.0,Benghazi,Al-Salam,7.0,3.0,False,160.0,10.0,Northern,False,Agent,Homes for Sale,32.827063,13.245677
+900000.0,Bani Walid,Other,5.0,3.0,True,255.0,1.0,Northern,False,Landlord,Homes for Sale,32.815717,13.299463
+860000.0,Tripoli,Ain Zara,3.0,2.0,False,130.0,0.0,Unknown,False,Landlord,Homes for Sale,32.81732,13.348437
+380000.0,Tripoli,Al-Qaio,2.0,2.0,False,135.0,0.0,Unknown,False,Landlord,Homes for Sale,32.774525,13.314846
+1250000.0,Tripoli,Ain Zara,3.0,2.0,False,170.0,10.0,Western,True,Agent,Homes for Sale,29.436087,11.834692
+1500000.0,Tripoli,Al-Serraj,4.0,1.0,False,165.0,6.0,Unknown,False,Landlord,Homes for Sale,32.870686,13.217403
+1400000.0,Tripoli,Other,7.0,5.0,False,340.0,6.0,Northeast,False,Landlord,Homes for Sale,32.73431,13.298146
+600000.0,Tripoli,Arada,7.0,3.0,True,260.0,10.0,Western,False,Agent,Homes for Sale,32.028645,20.0271
+550000.0,Tripoli,Ain Zara,4.0,3.0,False,200.0,1.0,Eastern,False,Landlord,Homes for Sale,32.083298,20.068945
+350000.0,Tripoli,Al-Hae Al-Senaea,7.0,5.0,False,180.0,20.0,Eastern,False,Landlord,Homes for Sale,32.615791,13.917976
+430000.0,Tripoli,Al-Najila,3.0,2.0,False,130.0,6.0,Northeast,False,Landlord,Homes for Sale,32.842282,13.171151
+550000.0,Tripoli,Khallet Alforjan,4.0,3.0,False,220.0,10.0,Unknown,False,Landlord,Homes for Sale,32.821906,13.076027
+600000.0,Sabratha,Khorasan,2.0,2.0,False,150.0,1.0,Northwest,False,Landlord,Homes for Sale,32.871056,13.193501
+800000.0,Tripoli,Souq Al-Juma'a,7.0,3.0,False,279.0,10.0,Western,True,Landlord,Homes for Sale,32.821906,13.076027
+520000.0,Tripoli,Arada,4.0,2.0,False,250.0,10.0,Eastern,False,Landlord,Homes for Sale,32.022215,20.033055
+800000.0,Tripoli,Ghut Shaal,4.0,2.0,False,153.0,20.0,Western,False,Agent,Homes for Sale,32.804314,13.321334
+400000.0,Tripoli,Salah Al-Din,5.0,3.0,True,400.0,1.0,Eastern,False,Landlord,Homes for Sale,32.757344,13.346983
+240000.0,Zawiya,Other,5.0,3.0,False,215.0,0.0,Southern,False,Landlord,Homes for Sale,32.365993,15.079215
+270000.0,Misrata,Other,4.0,2.0,False,260.0,20.0,Eastern,False,Agent,Homes for Sale,32.861811,13.116833
+410000.0,Tripoli,Tajura,4.0,1.0,False,200.0,20.0,Southern,False,Landlord,Homes for Sale,32.895473,13.380814
+880000.0,Tripoli,Gorje,7.0,3.0,False,114.0,6.0,Unknown,True,Landlord,Homes for Sale,32.791837,13.275119
+800000.0,Tripoli,Al-Mansoura,4.0,1.0,False,140.0,20.0,Northwest,False,Landlord,Homes for Sale,31.900942,20.08946
+650000.0,Tripoli,Wadi Al-Rabi,1.0,1.0,False,80.0,6.0,Southern,False,Landlord,Homes for Sale,32.87764,13.166028
+380000.0,Tripoli,Ain Zara,3.0,3.0,False,225.0,6.0,Southeast,False,Landlord,Homes for Sale,32.702522,13.130442
+240875.0,Tripoli,Ain Zara,4.0,3.0,False,240.0,0.0,Northern,False,Landlord,Homes for Sale,32.899299,13.221045
+425000.0,Tripoli,Al-Seyaheyya,7.0,3.0,False,350.0,20.0,Eastern,False,Landlord,Homes for Sale,32.431138,13.066932
+450000.0,Tripoli,Tareeq Al-Mashtal,5.0,3.0,False,190.0,1.0,Eastern,False,Agent,Homes for Sale,32.736423,13.315098
+1500000.0,Tripoli,Souq Al-Juma'a,4.0,1.0,False,130.0,20.0,Unknown,False,Landlord,Homes for Sale,32.856552,13.071666
+550000.0,Tripoli,Abu Saleem,7.0,7.0,False,156.0,10.0,Southeast,False,Landlord,Homes for Sale,32.841553,13.304572
+850000.0,Tripoli,Al-Ghasi,1.0,1.0,False,75.0,10.0,Northeast,False,Landlord,Homes for Sale,32.7868,13.246059
+270000.0,Tripoli,Arada,7.0,7.0,False,383.0,1.0,Western,False,Agent,Homes for Sale,32.73339,13.012979
+250000.0,Tripoli,Al-Serraj,4.0,2.0,False,220.0,10.0,Southern,False,Agent,Homes for Sale,32.324661,15.098891
+925000.0,Tripoli,Gorje,7.0,2.0,False,165.0,20.0,Northeast,False,Landlord,Homes for Sale,32.808348,13.085723
+950000.0,Tripoli,Ain Zara,4.0,3.0,False,140.0,1.0,Northeast,False,Landlord,Homes for Sale,32.825432,13.294466
+550000.0,Tripoli,Ghut Shaal,7.0,2.0,False,200.0,20.0,Western,True,Agent,Homes for Sale,32.10082,20.129892
+400000.0,Tripoli,Tajura,3.0,3.0,False,206.0,1.0,Eastern,False,Landlord,Homes for Sale,32.739307,13.327054
+700000.0,Sabratha,Khorasan,2.0,2.0,False,150.0,1.0,Northwest,False,Landlord,Homes for Sale,32.054704,20.119411
+680000.0,Tripoli,Ain Zara,3.0,1.0,False,116.0,20.0,Unknown,False,Agent,Homes for Sale,32.827942,13.381835
+265000.0,Tripoli,Hay Demsheq,4.0,1.0,False,133.0,6.0,Northern,False,Agent,Homes for Sale,32.687134,13.176524
+175000.0,Misrata,Tamina,3.0,1.0,False,90.0,0.0,Unknown,False,Landlord,Homes for Sale,32.527408,13.253609
+380000.0,Tripoli,Wadi Al-Rabi,2.0,1.0,False,100.0,0.0,Unknown,False,Agent,Homes for Sale,32.817718,13.063722
+180000.0,Tripoli,Tajura,3.0,1.0,False,170.0,1.0,Northern,False,Landlord,Homes for Sale,32.1056,20.090677
+165000.0,Tripoli,Sidi Khalifa,3.0,1.0,False,123.0,10.0,Southwest,False,Landlord,Homes for Sale,32.055862,20.141684
+175000.0,Tripoli,Ain Zara,2.0,2.0,False,145.0,0.0,Northern,False,Landlord,Homes for Sale,32.44076,14.087049
+525000.0,Tripoli,Al-Baesh,3.0,3.0,False,180.0,1.0,Northern,False,Landlord,Homes for Sale,32.871883,13.194147
+220000.0,Tripoli,Tareeq Al-Mashtal,4.0,2.0,False,150.0,1.0,Unknown,False,Agent,Homes for Sale,32.759987,13.098468
+900000.0,Tripoli,Al-Baesh,5.0,2.0,False,200.0,6.0,Western,False,Landlord,Homes for Sale,32.887398,13.205013
+1300000.0,Tripoli,Al-Baesh,5.0,2.0,False,200.0,6.0,Western,False,Landlord,Homes for Sale,32.877361,13.20576
+700000.0,Tripoli,Ghut Shaal,7.0,5.0,False,220.0,20.0,Northern,False,Landlord,Homes for Sale,32.894618,13.201494
+425000.0,Tripoli,Wadi Al-Rabi,3.0,1.0,False,300.0,1.0,Western,False,Landlord,Homes for Sale,32.842316,13.315342
+750000.0,Tripoli,Souq Al-Juma'a,7.0,5.0,True,310.0,10.0,Unknown,False,Landlord,Homes for Sale,32.778718,13.361871
+950000.0,Benghazi,Beloun,7.0,3.0,False,260.0,20.0,Southern,False,Landlord,Homes for Sale,32.838589,13.089286
+450000.0,Tripoli,Janzour,1.0,2.0,False,260.0,20.0,Western,False,Landlord,Homes for Sale,32.85656,13.083079
+900000.0,Tripoli,Al-Kremiah,2.0,2.0,False,180.0,6.0,Northern,False,Landlord,Homes for Sale,32.028219,20.124312
+900000.0,Tripoli,Ain Zara,4.0,2.0,False,400.0,1.0,Northeast,False,Agent,Homes for Sale,32.849096,13.247503
+1000000.0,Tripoli,Wild Life Rd,4.0,5.0,False,200.0,6.0,Northwest,False,Landlord,Homes for Sale,32.77902,13.249993
+310000.0,Tripoli,Ras Hassan,7.0,2.0,False,152.0,20.0,Western,False,Landlord,Homes for Sale,32.807316,13.056958
+900000.0,Tripoli,Ain Zara,3.0,2.0,False,110.0,1.0,Southeast,False,Agent,Homes for Sale,32.869508,13.217719
+280000.0,Tripoli,Alswani,3.0,2.0,False,185.0,6.0,Western,False,Landlord,Homes for Sale,31.886917,20.072886
+850000.0,Tripoli,Al-Nofliyen,4.0,3.0,True,165.0,20.0,Western,False,Agent,Homes for Sale,32.813808,13.304056
+850000.0,Tripoli,Khalatat St,3.0,2.0,False,100.0,1.0,Unknown,False,Agent,Homes for Sale,32.0625,20.138602
+500000.0,Misrata,Karzaz,4.0,2.0,True,120.0,0.0,Western,False,Landlord,Homes for Sale,32.803749,13.36867
+235000.0,Tripoli,Abu Saleem,2.0,2.0,False,140.0,6.0,Northern,False,Landlord,Homes for Sale,32.101835,20.166258
+350000.0,Benghazi,Qanfooda,4.0,2.0,False,230.0,0.5,Unknown,False,Landlord,Homes for Sale,32.735719,13.288175
+230000.0,Tripoli,Abu Saleem,3.0,2.0,False,180.0,1.0,Northern,False,Landlord,Homes for Sale,32.02123,14.227368
+500000.0,Tripoli,Kashlaf,5.0,2.0,False,390.0,10.0,Unknown,False,Landlord,Homes for Sale,32.776798,13.37492
+360000.0,Tripoli,Ain Zara,2.0,1.0,False,100.0,1.0,Unknown,False,Landlord,Homes for Sale,32.778718,13.361871
+150000.0,Tripoli,Ain Zara,4.0,2.0,True,180.0,1.0,Western,False,Landlord,Homes for Sale,32.778717,13.361871
+700000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,165.0,0.0,Unknown,False,Landlord,Homes for Sale,32.684005,13.165235
+300000.0,Tripoli,Al-Mashtal Rd,3.0,3.0,False,200.0,6.0,Unknown,False,Landlord,Homes for Sale,32.864822,13.145304
+1200000.0,Tripoli,Ain Zara,2.0,2.0,False,140.0,1.0,Northern,False,Landlord,Homes for Sale,32.817402,13.122608
+780000.0,Tripoli,Ain Zara,3.0,3.0,False,145.0,1.0,Eastern,False,Landlord,Homes for Sale,32.663831,13.219282
+195000.0,Tripoli,Edraibi,4.0,1.0,False,125.0,20.0,Eastern,False,Agent,Homes for Sale,32.761858,13.257987
+170000.0,Tripoli,Souq Al-Juma'a,7.0,3.0,False,130.0,20.0,Southeast,False,Agent,Homes for Sale,32.288316,20.108783
+360000.0,Tripoli,Qasr Bin Ghashir,7.0,7.0,False,400.0,10.0,Unknown,False,Landlord,Homes for Sale,32.827387,13.123304
+530000.0,Tripoli,Other,2.0,2.0,False,150.0,6.0,Unknown,False,Landlord,Homes for Sale,32.810687,13.18678
+700000.0,Tripoli,Ain Zara,7.0,3.0,False,355.0,6.0,Southern,False,Landlord,Homes for Sale,32.820358,13.227654
+400000.0,Tripoli,Ain Zara,2.0,1.0,False,130.0,1.0,Western,False,Landlord,Homes for Sale,32.713468,13.322204
+350000.0,Tripoli,Ain Zara,2.0,1.0,True,100.0,1.0,Unknown,False,Landlord,Homes for Sale,32.791517,13.252795
+460000.0,Tripoli,Salah Al-Din,5.0,5.0,True,250.0,10.0,Northwest,False,Landlord,Homes for Sale,32.110222,20.123396
+370000.0,Tripoli,Other,3.0,2.0,False,300.0,6.0,Northern,False,Agent,Homes for Sale,32.77195,13.371786
+380000.0,Tripoli,Al-Kremiah,4.0,3.0,False,220.0,6.0,Western,False,Agent,Homes for Sale,32.038498,20.111927
+170000.0,Misrata,Moqawaba,4.0,2.0,True,230.0,20.0,Northern,False,Landlord,Homes for Sale,32.769264,13.181019
+690000.0,Tripoli,Al-Baesh,3.0,1.0,True,140.0,1.0,Western,False,Landlord,Homes for Sale,32.745918,13.257789
+1000000.0,Tripoli,Souq Al-Juma'a,7.0,7.0,False,300.0,10.0,Southwest,False,Landlord,Homes for Sale,32.886934,13.207764
+300000.0,Tripoli,Ain Zara,3.0,3.0,False,200.0,0.0,Eastern,False,Agent,Homes for Sale,32.827579,13.384238
+1200000.0,Tripoli,Tajura,7.0,4.0,False,180.0,20.0,Northeast,False,Landlord,Homes for Sale,32.841888,13.291818
+250000.0,Tripoli,Kashlaf,3.0,2.0,False,144.0,20.0,Eastern,False,Landlord,Homes for Sale,32.329296,15.182166
+200000.0,Tripoli,Al-Jabs,7.0,7.0,False,300.0,1.0,Unknown,False,Landlord,Homes for Sale,32.111958,20.068834
+350000.0,Tripoli,Bin Ashour,7.0,4.0,False,390.0,20.0,Southern,False,Agent,Homes for Sale,32.79953,13.255198
+750000.0,Tripoli,Al-Kremiah,3.0,3.0,True,229.0,0.0,Eastern,False,Agent,Homes for Sale,32.759804,13.256733
+600000.0,Tripoli,Abu Saleem,4.0,2.0,False,465.0,10.0,Unknown,False,Landlord,Homes for Sale,32.76036,13.113961
+175000.0,Benghazi,Al Hawary,5.0,1.0,False,165.0,6.0,Eastern,False,Landlord,Homes for Sale,32.802853,13.230791
+750000.0,Tripoli,Wadi Al-Rabi,4.0,2.0,False,170.0,1.0,Northwest,False,Landlord,Homes for Sale,32.790417,13.26733
+290000.0,Benghazi,Bodzirah,3.0,1.0,False,140.0,0.0,Western,False,Landlord,Homes for Sale,32.030895,20.058767
+1200000.0,Tripoli,Ain Zara,4.0,3.0,False,180.0,1.0,Northeast,True,Landlord,Homes for Sale,32.789875,13.257024
+190000.0,Tripoli,Tajura,4.0,2.0,False,200.0,6.0,Eastern,False,Landlord,Homes for Sale,32.159515,20.152018
+480000.0,Tripoli,Al-Najila,4.0,5.0,False,340.0,1.0,Eastern,False,Landlord,Homes for Sale,32.792713,13.334297
+730000.0,Tripoli,Hai Al-Batata,4.0,1.0,False,133.0,20.0,Western,False,Agent,Homes for Sale,32.719165,13.024614
+170000.0,Tripoli,Gorje,7.0,5.0,False,110.0,20.0,Northern,False,Landlord,Homes for Sale,31.886719,19.951721
+295000.0,Tripoli,Ain Zara,2.0,1.0,True,150.0,10.0,Unknown,False,Landlord,Homes for Sale,32.767007,13.222371
+225000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,280.0,20.0,Southern,False,Landlord,Homes for Sale,32.716831,13.23917
+345000.0,Tripoli,Al-Jabs,3.0,2.0,False,200.0,1.0,Northern,False,Landlord,Homes for Sale,32.078216,20.131537
+830000.0,Tripoli,Ain Zara,5.0,2.0,False,150.0,0.0,Western,False,Agent,Homes for Sale,32.814431,13.278826
+380000.0,Tripoli,Gorje,3.0,1.0,False,142.0,20.0,Western,False,Agent,Homes for Sale,32.754195,13.222378
+450000.0,Tripoli,Hai Alandalus,5.0,3.0,True,400.0,20.0,Southwest,False,Agent,Homes for Sale,32.895512,13.204318
+270000.0,Benghazi,Al-Sayeda A'esha,1.0,1.0,False,80.0,1.0,Western,False,Agent,Homes for Sale,32.838261,13.011076
+950000.0,Tripoli,Sidi Al-Sae'a,2.0,1.0,False,70.0,6.0,Southern,False,Landlord,Homes for Sale,32.869228,13.146964
+600000.0,Tripoli,Wadi Al-Rabi,4.0,2.0,False,120.0,1.0,Western,False,Landlord,Homes for Sale,32.848991,13.199421
+600000.0,Tripoli,Ain Zara,3.0,3.0,False,160.0,1.0,Eastern,False,Landlord,Homes for Sale,32.695343,13.303902
+450000.0,Tripoli,Edraibi,2.0,1.0,False,133.0,20.0,Unknown,False,Landlord,Homes for Sale,32.889503,13.175848
+480000.0,Tripoli,Al-Zawiyah St,7.0,4.0,False,250.0,20.0,Northern,False,Agent,Homes for Sale,32.133366,20.103369
+375000.0,Tripoli,Ain Zara,4.0,3.0,False,213.0,1.0,Unknown,False,Agent,Homes for Sale,32.082432,20.117087
+550000.0,Tripoli,Hay Al-Islami,5.0,2.0,False,120.0,20.0,Unknown,False,Landlord,Homes for Sale,32.752988,13.198756
+930000.0,Tripoli,Wadi Al-Rabi,2.0,2.0,False,100.0,1.0,Southwest,False,Landlord,Homes for Sale,32.785126,13.061371
+900000.0,Tripoli,Ghut Shaal,3.0,2.0,False,120.0,20.0,Western,False,Landlord,Homes for Sale,32.885288,13.182552
+550000.0,Tripoli,Zawiyat Al Dahmani,7.0,2.0,False,135.0,20.0,Western,False,Landlord,Homes for Sale,32.883492,13.179384
+300000.0,Tripoli,Tajura,3.0,2.0,False,135.0,6.0,Eastern,False,Landlord,Homes for Sale,32.867336,13.207355
+750000.0,Tripoli,Khallet Alforjan,4.0,3.0,False,250.0,0.0,Unknown,False,Landlord,Homes for Sale,32.835355,13.183065
+160000.0,Misrata,Tamina,3.0,2.0,False,145.0,0.0,Northern,False,Agent,Homes for Sale,32.831218,13.246669
+950000.0,Tripoli,Airport Road,3.0,2.0,True,160.0,0.0,Unknown,False,Landlord,Homes for Sale,32.091156,20.144467
+555552.0,Tripoli,Shawqy St,4.0,2.0,False,120.0,20.0,Northeast,False,Landlord,Homes for Sale,32.889343,13.175628
+550000.0,Tripoli,Wadi Al-Rabi,1.0,2.0,True,250.0,1.0,Unknown,False,Landlord,Homes for Sale,32.824348,13.245076
+375000.0,Tripoli,Al-Hadaba'tool Rd,4.0,2.0,False,152.0,6.0,Unknown,False,Landlord,Homes for Sale,32.619228,13.248045
+330000.0,Tripoli,Qasr Bin Ghashir,7.0,4.0,False,280.0,6.0,Western,False,Landlord,Homes for Sale,32.70525,13.153344
+600000.0,Tripoli,Wild Life Rd,2.0,2.0,False,85.0,0.0,Unknown,False,Landlord,Homes for Sale,32.888068,13.174167
+600000.0,Tripoli,Ain Zara,4.0,3.0,False,316.0,10.0,Eastern,False,Agent,Homes for Sale,32.86515,13.198338
+200000.0,Tripoli,Abu Saleem,3.0,1.0,True,126.0,20.0,Western,False,Agent,Homes for Sale,32.687778,13.173889
+420000.0,Tripoli,Hay Demsheq,4.0,4.0,False,300.0,20.0,Unknown,False,Landlord,Homes for Sale,32.856255,13.174951
+300000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,220.0,10.0,Northern,False,Agent,Homes for Sale,32.699631,13.326449
+1500000.0,Tripoli,Gorje,5.0,2.0,True,245.0,20.0,Unknown,False,Landlord,Homes for Sale,32.835865,13.220943
+483616.0,Tripoli,Al-Baesh,2.0,1.0,True,88.0,0.0,Southern,False,Agent,Homes for Sale,27.037048,14.41338
+320000.0,Tripoli,University of Tripoli,7.0,4.0,False,320.0,20.0,Southeast,False,Landlord,Homes for Sale,32.778717,13.361871
+175000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,120.0,0.0,Unknown,False,Landlord,Homes for Sale,31.980897,20.132525
+425000.0,Tripoli,Tajura,5.0,3.0,False,260.0,6.0,Northeast,False,Agent,Homes for Sale,32.759854,13.350723
+250000.0,Tripoli,Janzour,7.0,7.0,False,215.0,20.0,Western,False,Landlord,Homes for Sale,32.072033,20.075195
+190000.0,Tripoli,Ain Zara,3.0,1.0,True,100.0,1.0,Unknown,False,Agent,Homes for Sale,32.72331,13.172546
+150000.0,Tripoli,Al-Hae Al-Senaea,3.0,2.0,False,144.0,10.0,Northwest,False,Landlord,Homes for Sale,32.78097,13.107126
+730000.0,Tripoli,Ain Zara,3.0,4.0,False,370.0,10.0,Unknown,False,Landlord,Homes for Sale,32.675404,13.036482
+410000.0,Tripoli,Airport Road,5.0,3.0,False,230.0,1.0,Southern,False,Landlord,Homes for Sale,32.838162,13.229692
+870000.0,Tripoli,Arada,7.0,3.0,False,240.0,20.0,Southern,False,Landlord,Homes for Sale,32.825798,13.329039
+450000.0,Tripoli,Al-Sabaa,3.0,2.0,False,144.0,1.0,Western,False,Agent,Homes for Sale,32.725578,13.133547
+950000.0,Tripoli,Abu Saleem,7.0,4.0,False,360.0,6.0,Unknown,False,Landlord,Homes for Sale,32.876694,13.288498
+520000.0,Tripoli,Bin Ashour,7.0,4.0,False,450.0,20.0,Southern,False,Agent,Homes for Sale,32.856098,13.262019
+150000.0,Tripoli,Airport Road,3.0,1.0,False,200.0,1.0,Eastern,False,Agent,Homes for Sale,32.688105,13.065035
+550000.0,Tripoli,Other,3.0,2.0,False,200.0,6.0,Eastern,False,Agent,Homes for Sale,32.735546,13.71898
+250000.0,Tripoli,Ghut Shaal,3.0,3.0,False,360.0,10.0,Western,False,Landlord,Homes for Sale,32.711948,13.323808
+300000.0,Tripoli,Janzour,4.0,2.0,False,170.0,10.0,Northeast,False,Landlord,Homes for Sale,32.726533,13.139362
+425000.0,Tripoli,Tajura,5.0,3.0,False,250.0,0.0,Western,False,Landlord,Homes for Sale,32.828356,13.247902
+999999.0,Tripoli,Al-Shok Rd,2.0,3.0,False,148.0,10.0,Northern,False,Landlord,Homes for Sale,32.112661,20.096391
+750000.0,Tripoli,Abu Saleem,7.0,3.0,False,132.0,20.0,Southern,False,Landlord,Homes for Sale,32.778683,13.21008
+325000.0,Sabratha,Other,4.0,3.0,False,250.0,1.0,Eastern,False,Landlord,Homes for Sale,32.838493,13.188287
+550000.0,Tripoli,Al-Serraj,4.0,3.0,False,230.0,10.0,Southeast,False,Landlord,Homes for Sale,32.838207,13.178017
+290000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,165.0,0.0,Unknown,False,Landlord,Homes for Sale,32.781101,12.449522
+760000.0,Tripoli,Ain Zara,5.0,3.0,False,375.0,1.0,Western,False,Agent,Homes for Sale,32.821907,13.076027
+525000.0,Tripoli,Tajura,3.0,1.0,False,86.0,0.0,Eastern,False,Landlord,Homes for Sale,32.778182,13.320083
+270000.0,Benghazi,Venice,3.0,2.0,True,200.0,1.0,Southwest,True,Agent,Homes for Sale,32.867722,13.197062
+180000.0,Benghazi,Shabna,4.0,2.0,False,300.0,10.0,Unknown,False,Landlord,Homes for Sale,32.70203,13.303618
+400000.0,Tripoli,Airport Road,3.0,2.0,False,285.0,10.0,Unknown,False,Landlord,Homes for Sale,32.103044,20.10855
+750000.0,Tripoli,Tajura,7.0,5.0,False,250.0,6.0,Unknown,False,Landlord,Homes for Sale,32.868339,13.175727
+700000.0,Tripoli,Ain Zara,2.0,1.0,True,125.0,1.0,Northern,False,Landlord,Homes for Sale,32.129943,20.125895
+1150000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,165.0,0.0,Unknown,False,Landlord,Homes for Sale,32.808941,13.246745
+1000000.0,Tripoli,Ain Zara,3.0,2.0,False,100.0,10.0,Unknown,False,Agent,Homes for Sale,32.810486,13.056041
+715000.0,Tripoli,Wadi Al-Rabi,2.0,1.0,False,170.0,1.0,Northeast,False,Landlord,Homes for Sale,32.826469,13.081578
+240000.0,Tripoli,Ain Zara,4.0,2.0,False,160.0,6.0,Southern,False,Agent,Homes for Sale,32.826538,13.081667
+970000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,165.0,0.0,Unknown,False,Landlord,Homes for Sale,32.826488,13.081592
+1100000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,120.0,0.0,Unknown,False,Landlord,Homes for Sale,32.848808,13.295913
+1000000.0,Tripoli,Khallet Alforjan,3.0,3.0,False,160.0,0.0,Unknown,False,Landlord,Homes for Sale,32.811225,13.055231
+375000.0,Tripoli,Bin Ashour,5.0,3.0,False,300.0,20.0,Northeast,False,Agent,Homes for Sale,32.7813,13.383098
+999999.0,Benghazi,Sidi Khalifa,2.0,2.0,True,200.0,1.0,Unknown,False,Landlord,Homes for Sale,32.871208,13.146643
+1050000.0,Tripoli,Tareeq Al-Mashtal,7.0,4.0,False,390.0,1.0,Eastern,False,Agent,Villas for Sale,32.76701,13.284226
+1300000.0,Tripoli,Ain Zara,7.0,7.0,True,450.0,6.0,Southern,False,Agent,Villas for Sale,32.818401,13.300449
+650000.0,Tripoli,Ain Zara,7.0,5.0,False,310.0,1.0,Northeast,False,Landlord,Villas for Sale,32.805893,13.319472
+725000.0,Tripoli,Tareeq Al-Mashtal,3.0,3.0,False,260.0,1.0,Eastern,False,Landlord,Villas for Sale,32.837627,13.312297
+900000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,430.0,1.0,Southwest,False,Agent,Villas for Sale,32.854565,13.299747
+1111112.0,Tripoli,Al-Bivio,4.0,3.0,False,230.0,10.0,Southeast,False,Landlord,Villas for Sale,32.825889,13.352478
+975000.0,Tripoli,Al-Serraj,4.0,5.0,False,345.0,0.0,Southeast,False,Agent,Villas for Sale,32.821907,13.076027
+950000.0,Tripoli,Al-Serraj,3.0,4.0,False,260.0,6.0,Western,False,Agent,Villas for Sale,32.783749,13.070095
+975000.0,Tripoli,Al-Serraj,7.0,5.0,False,390.0,0.0,Eastern,False,Agent,Villas for Sale,32.803745,13.041971
+650000.0,Tripoli,Al-Jabs,7.0,5.0,False,400.0,1.0,Unknown,False,Landlord,Villas for Sale,32.842282,13.171151
+640000.0,Tripoli,Al-Nofliyen,7.0,7.0,False,600.0,1.0,Northeast,False,Agent,Villas for Sale,32.816667,13.266667
+240000.0,Benghazi,Al Nahr Road,7.0,7.0,False,250.0,6.0,Northern,False,Agent,Villas for Sale,32.824187,13.408154
+195000.0,Tripoli,Salah Al-Din,7.0,2.0,False,356.0,6.0,Unknown,False,Agent,Villas for Sale,32.758842,13.259344
+350000.0,Tripoli,Al-Serraj,5.0,4.0,False,420.0,10.0,Northern,False,Landlord,Villas for Sale,32.776722,13.236578
+1300000.0,Tripoli,Wadi Al-Rabi,2.0,2.0,False,75.0,1.0,Northwest,False,Landlord,Villas for Sale,32.800491,21.859108
+650000.0,Tripoli,Al-Bivio,7.0,7.0,False,830.0,6.0,Unknown,False,Agent,Villas for Sale,32.741039,13.368235
+250000.0,Tripoli,Al-Serraj,7.0,5.0,False,400.0,0.0,Eastern,False,Agent,Villas for Sale,32.712162,13.089491
+215000.0,Tripoli,Ain Zara,4.0,3.0,False,295.0,1.0,Eastern,False,Agent,Villas for Sale,32.665237,13.288769
+425000.0,Tripoli,Al-Hae Al-Senaea,7.0,7.0,False,400.0,20.0,Unknown,True,Landlord,Villas for Sale,32.450504,15.166012
+490000.0,Tripoli,Salah Al-Din,7.0,7.0,False,356.0,10.0,Northwest,False,Agent,Villas for Sale,32.781151,13.279296
+290000.0,Tripoli,Ain Zara,7.0,7.0,False,700.0,0.0,Northeast,False,Agent,Villas for Sale,32.821517,13.249863
+450000.0,Benghazi,Al-Salam,7.0,4.0,False,250.0,20.0,Western,True,Landlord,Villas for Sale,32.906403,13.298449
+650000.0,Tripoli,Ain Zara,4.0,3.0,False,295.0,1.0,Eastern,False,Agent,Villas for Sale,32.807571,13.285043
+295000.0,Tripoli,Al-Serraj,3.0,2.0,False,320.0,10.0,Northeast,False,Landlord,Villas for Sale,32.744099,13.316062
+950000.0,Tripoli,Abu Sittah,7.0,7.0,False,111.0,0.0,Unknown,False,Agent,Villas for Sale,32.058281,20.102567
+220000.0,Tripoli,Janzour,7.0,7.0,False,800.0,10.0,Western,False,Landlord,Villas for Sale,32.795403,13.25559
+1000000.0,Tripoli,Al-Sidra,4.0,2.0,True,315.0,6.0,Northwest,False,Landlord,Villas for Sale,32.777309,13.142096
+250000.0,Tripoli,Abu Saleem,5.0,2.0,False,310.0,6.0,Northern,False,Landlord,Villas for Sale,32.51284,13.149764
+300000.0,Benghazi,Al-Talhia,1.0,1.0,False,100.0,1.0,Unknown,False,Agent,Villas for Sale,32.807404,13.327601
+1200000.0,Benghazi,Al-Sayeda A'esha,3.0,3.0,False,250.0,0.0,Western,False,Landlord,Villas for Sale,32.762796,13.325503
+825000.0,Tripoli,Al-Serraj,3.0,3.0,False,400.0,0.0,Eastern,False,Agent,Villas for Sale,32.813517,13.274993
+220000.0,Benghazi,Beloun,7.0,7.0,False,300.0,20.0,Unknown,False,Agent,Villas for Sale,32.755838,13.262805
+1350000.0,Benghazi,Venice,7.0,7.0,False,750.0,1.0,Unknown,False,Agent,Villas for Sale,32.816395,13.122108
+150000.0,Benghazi,Al-Fuwayhat,7.0,7.0,False,480.0,6.0,Eastern,False,Landlord,Villas for Sale,32.687241,13.305924
+300000.0,Benghazi,Al Nahr Road,7.0,7.0,False,400.0,0.5,Unknown,False,Agent,Villas for Sale,32.01215,19.987007
+750000.0,Benghazi,Bossneb,7.0,5.0,False,340.0,6.0,Unknown,False,Landlord,Villas for Sale,32.852444,13.096739
+400000.0,Tripoli,Ain Zara,7.0,7.0,False,400.0,0.0,Unknown,False,Landlord,Villas for Sale,32.804802,13.298992
+500000.0,Tripoli,Ain Zara,7.0,4.0,False,500.0,0.0,Northern,False,Agent,Villas for Sale,32.801144,13.252403
+350000.0,Benghazi,Al Hawary,3.0,3.0,False,255.0,1.0,Southwest,False,Agent,Villas for Sale,32.884304,13.174274
+255000.0,Tripoli,Souq Al-Juma'a,7.0,7.0,False,800.0,1.0,Northeast,False,Agent,Villas for Sale,32.661857,13.176885
+430000.0,Tripoli,Ain Zara,3.0,3.0,False,240.0,1.0,Eastern,False,Agent,Villas for Sale,32.846676,13.134245
+800000.0,Benghazi,Al-Humaida,7.0,7.0,False,110.0,1.0,Eastern,False,Agent,Villas for Sale,32.816667,13.266667
+1100000.0,Benghazi,Al Nahr Road,7.0,7.0,False,250.0,6.0,Northern,False,Agent,Villas for Sale,32.041145,20.08962
+1000000.0,Benghazi,Al-Sayeda A'esha,5.0,4.0,False,247.0,0.0,Unknown,False,Agent,Villas for Sale,32.394993,15.058343
+250000.0,Tripoli,Ain Zara,5.0,3.0,False,290.0,0.0,Eastern,False,Agent,Villas for Sale,32.818051,13.488718
+320000.0,Tripoli,Ain Zara,7.0,7.0,False,460.0,1.0,Unknown,False,Agent,Villas for Sale,32.841159,13.072244
+620000.0,Benghazi,Al-Rahba,7.0,3.0,False,280.0,10.0,Northern,True,Agent,Villas for Sale,32.882713,13.174475
+400000.0,Tripoli,Ain Zara,5.0,3.0,False,150.0,0.0,Unknown,False,Agent,Villas for Sale,32.738605,13.232205
+1425000.0,Misrata,AlSakt,7.0,7.0,False,500.0,1.0,Southern,False,Agent,Villas for Sale,32.871056,13.193501
+260000.0,Benghazi,Al-Sayeda A'esha,5.0,4.0,False,200.0,0.0,Western,False,Agent,Villas for Sale,32.804951,13.064305
+730000.0,Benghazi,Al Hawary,5.0,2.0,False,180.0,0.0,Western,False,Landlord,Villas for Sale,32.809605,13.307322
+1400000.0,Tripoli,Ain Zara,3.0,2.0,False,170.0,1.0,Unknown,False,Landlord,Villas for Sale,32.80814,13.083499
+150000.0,Benghazi,Al Nahr Road,7.0,7.0,False,300.0,0.0,Southern,False,Agent,Villas for Sale,32.791618,13.088755
+350000.0,Tripoli,Al-Serraj,7.0,5.0,False,400.0,0.0,Western,False,Agent,Villas for Sale,32.759988,13.098468
+550000.0,Tripoli,Ain Zara,4.0,2.0,True,220.0,6.0,Eastern,False,Agent,Villas for Sale,32.799486,13.229246
+260000.0,Tripoli,Ain Zara,4.0,2.0,False,455.0,0.0,Northern,False,Agent,Villas for Sale,32.763944,13.140572
+370000.0,Tripoli,Ras Hassan,7.0,4.0,False,760.0,20.0,Unknown,False,Agent,Villas for Sale,32.778717,13.361871
+630000.0,Tripoli,Hai Alandalus,7.0,7.0,False,500.0,20.0,Unknown,False,Agent,Villas for Sale,32.832814,13.213705
+750000.0,Benghazi,Shabna,7.0,7.0,False,350.0,10.0,Northwest,False,Landlord,Villas for Sale,32.146908,20.115259
+500000.0,Tripoli,Tajura,3.0,1.0,False,500.0,6.0,Unknown,True,Agent,Villas for Sale,32.828243,13.176567
+250000.0,Tripoli,Salah Al-Din,4.0,4.0,False,228.0,10.0,Eastern,False,Landlord,Villas for Sale,32.781882,13.428911
+220000.0,Benghazi,Al-Wakalat Street,7.0,4.0,False,600.0,20.0,Unknown,False,Agent,Villas for Sale,32.062672,20.140187
+550000.0,Benghazi,Beloun,7.0,7.0,False,600.0,20.0,Unknown,False,Agent,Villas for Sale,32.069309,20.109779
+195000.0,Tripoli,Al-Sabaa,5.0,3.0,False,340.0,10.0,Eastern,False,Agent,Villas for Sale,32.083698,20.169022
+1100000.0,Benghazi,Al-Sayeda A'esha,4.0,3.0,False,210.0,0.0,Eastern,False,Landlord,Villas for Sale,32.684631,21.711325
+650000.0,Tripoli,Tareeq Al-Mashtal,7.0,5.0,False,600.0,1.0,Unknown,False,Agent,Villas for Sale,32.815818,13.143516
+850000.0,Tripoli,Al-Serraj,7.0,5.0,False,420.0,0.0,Eastern,False,Landlord,Villas for Sale,32.054704,20.119411
+440000.0,Benghazi,Hai Qatar,3.0,3.0,False,190.0,0.0,Unknown,False,Agent,Villas for Sale,32.79631,13.383014
+245000.0,Tripoli,Ghut Shaal,7.0,4.0,False,750.0,10.0,Northwest,False,Landlord,Villas for Sale,32.566357,13.293677
+999999.0,Tripoli,Al-Serraj,7.0,7.0,True,600.0,20.0,Northwest,False,Landlord,Villas for Sale,32.834087,13.090821
+260000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,800.0,0.0,Northern,False,Agent,Villas for Sale,32.78688,13.320762
+900000.0,Tripoli,Souq Al-Juma'a,5.0,5.0,False,400.0,10.0,Unknown,False,Agent,Villas for Sale,32.052166,20.118976
+400000.0,Tripoli,Edraibi,7.0,7.0,False,600.0,20.0,Western,False,Agent,Villas for Sale,32.634387,13.404009
+1100000.0,Tripoli,Ain Zara,7.0,5.0,False,380.0,0.0,Eastern,False,Landlord,Villas for Sale,32.823601,13.287073
+475000.0,Tripoli,Tareeq Al-Mashtal,2.0,2.0,False,250.0,0.0,Unknown,False,Agent,Villas for Sale,32.667844,13.13257
+400000.0,Benghazi,Hai Qatar,7.0,4.0,False,300.0,1.0,Northern,False,Agent,Villas for Sale,32.035309,20.097664
+260000.0,Benghazi,Bin Yunus,7.0,5.0,False,300.0,10.0,Eastern,False,Agent,Villas for Sale,32.812935,13.372826
+700000.0,Benghazi,Venice,3.0,4.0,False,265.0,1.0,Unknown,False,Landlord,Villas for Sale,32.760358,13.346666
+725000.0,Tripoli,Al-Qaio,1.0,1.0,True,80.0,1.0,Western,False,Agent,Villas for Sale,32.837353,13.312489
+150000.0,Tripoli,Al-Seyaheyya,7.0,7.0,False,500.0,20.0,Unknown,False,Agent,Villas for Sale,32.778909,13.179656
+500000.0,Benghazi,Tabalino,4.0,4.0,False,340.0,6.0,Unknown,False,Landlord,Villas for Sale,32.119424,20.086791
+650000.0,Tripoli,Al-Sidra,5.0,5.0,False,480.0,0.0,Eastern,False,Landlord,Villas for Sale,32.827942,13.381835
+460000.0,Tripoli,Ain Zara,7.0,4.0,False,340.0,0.0,Western,False,Agent,Villas for Sale,32.817276,13.062164
+430000.0,Benghazi,Venice,7.0,7.0,False,280.0,1.0,Northern,False,Agent,Villas for Sale,32.825685,13.12706
+1075000.0,Benghazi,Al Hawary,4.0,4.0,False,300.0,10.0,Eastern,False,Agent,Villas for Sale,32.862342,13.125269
+850000.0,Benghazi,Other,7.0,4.0,True,250.0,0.0,Unknown,False,Agent,Villas for Sale,32.863813,13.228837
+180000.0,Tripoli,Al-Serraj,5.0,5.0,False,390.0,1.0,Eastern,False,Agent,Villas for Sale,32.887211,13.191338
+1300000.0,Tripoli,Al-Serraj,7.0,4.0,False,450.0,6.0,Eastern,False,Landlord,Villas for Sale,32.824335,13.062949
+200000.0,Tripoli,Al-Serraj,5.0,5.0,False,370.0,0.0,Eastern,False,Agent,Villas for Sale,32.300402,15.085038
+1250000.0,Tripoli,Al-Karuba,7.0,3.0,False,450.0,6.0,Eastern,False,Agent,Villas for Sale,32.797722,13.073023
+1500000.0,Tripoli,Ain Zara,3.0,3.0,False,170.0,1.0,Unknown,False,Landlord,Villas for Sale,32.528109,12.884044
+335000.0,Tripoli,Al-Kremiah,4.0,3.0,True,305.0,6.0,Eastern,False,Landlord,Villas for Sale,32.8542,13.330753
+790000.0,Benghazi,Al-Sayeda A'esha,4.0,4.0,False,260.0,0.0,Western,False,Landlord,Villas for Sale,32.652393,14.258088
+650000.0,Benghazi,Boatni,4.0,4.0,False,280.0,1.0,Eastern,False,Landlord,Villas for Sale,32.783737,13.066896
+190000.0,Tripoli,Abu Sittah,7.0,7.0,True,600.0,0.0,Southern,False,Agent,Villas for Sale,32.805144,13.270611
+340000.0,Tripoli,Al-Serraj,7.0,4.0,False,230.0,1.0,Northeast,False,Agent,Villas for Sale,32.672176,13.249594
+250000.0,Tripoli,Al-Serraj,7.0,3.0,False,410.0,6.0,Northern,False,Agent,Villas for Sale,32.832897,13.40416
+800000.0,Tripoli,Tajura,7.0,4.0,True,370.0,1.0,Northern,False,Agent,Villas for Sale,32.854568,13.302101
+700000.0,Benghazi,Shabna,7.0,3.0,True,220.0,0.0,Northern,False,Agent,Villas for Sale,32.859013,13.272531
+620000.0,Benghazi,Al Hawary,3.0,3.0,False,240.0,0.0,Northern,False,Landlord,Villas for Sale,32.921829,13.199227
+760000.0,Tripoli,Al-Serraj,4.0,4.0,False,340.0,0.0,Southern,False,Landlord,Villas for Sale,32.770859,13.150515
+450000.0,Benghazi,Qawarsheh,3.0,4.0,False,250.0,0.0,Unknown,False,Agent,Villas for Sale,32.747063,13.230478
+250000.0,Tripoli,Tajura,4.0,3.0,True,200.0,1.0,Eastern,False,Landlord,Villas for Sale,31.999056,20.046234
+165000.0,Tripoli,Alfornaj,5.0,4.0,False,350.0,10.0,Eastern,False,Landlord,Villas for Sale,32.763941,13.094033
+450000.0,Benghazi,Hai Qatar,3.0,4.0,False,280.0,1.0,Eastern,False,Agent,Villas for Sale,32.884923,13.24796
+850000.0,Tripoli,Alfornaj,7.0,4.0,False,440.0,10.0,Northern,False,Agent,Villas for Sale,32.099968,20.08219
+400000.0,Benghazi,Dollar,7.0,5.0,False,350.0,20.0,Eastern,False,Landlord,Villas for Sale,32.85788,13.218192
+230000.0,Tripoli,Abu Sittah,4.0,2.0,False,270.0,10.0,Northwest,False,Agent,Villas for Sale,32.257149,15.080113
+475000.0,Tripoli,Al-Sareem,7.0,7.0,False,500.0,20.0,Southwest,False,Agent,Villas for Sale,32.849418,13.151977
+210000.0,Tripoli,Souq Al-Juma'a,7.0,7.0,False,800.0,10.0,Southern,False,Agent,Villas for Sale,32.861201,13.115629
+440000.0,Tripoli,Ain Zara,5.0,7.0,False,420.0,0.0,Unknown,False,Landlord,Villas for Sale,32.866802,13.190656
+1450000.0,Tripoli,Ain Zara,5.0,4.0,True,600.0,1.0,Northeast,False,Agent,Villas for Sale,32.842548,13.164473
+500000.0,Benghazi,Al-Hai Al-Jamei,7.0,7.0,False,600.0,0.0,Unknown,False,Agent,Villas for Sale,32.827658,13.095712
+750000.0,Benghazi,Shabna,7.0,7.0,True,350.0,1.0,Unknown,False,Agent,Villas for Sale,32.067272,20.149693
+170000.0,Tripoli,Al-Serraj,3.0,5.0,False,530.0,1.0,Southern,True,Landlord,Villas for Sale,32.791372,13.504899
+1350000.0,Tripoli,Hai Alandalus,7.0,3.0,False,250.0,20.0,Northern,False,Agent,Villas for Sale,32.873889,13.272977
+480000.0,Tripoli,Arada,7.0,5.0,True,230.0,6.0,Northern,False,Landlord,Villas for Sale,32.787075,13.298906
+165000.0,Tripoli,Abu Sittah,7.0,7.0,False,650.0,6.0,Northeast,False,Agent,Villas for Sale,32.677928,13.315115
+400000.0,Tripoli,Al-Serraj,5.0,7.0,False,540.0,0.0,Unknown,False,Agent,Villas for Sale,32.091873,20.181021
+300000.0,Tripoli,Zanatah,7.0,5.0,False,586.0,10.0,Northern,False,Landlord,Villas for Sale,32.128693,20.134586
+225000.0,Benghazi,Boatni,4.0,4.0,False,260.0,6.0,Northeast,False,Landlord,Villas for Sale,32.879318,13.25429
+750000.0,Benghazi,Qawarsheh,4.0,3.0,False,442.0,1.0,Western,False,Agent,Villas for Sale,32.895565,13.211289
+985000.0,Benghazi,Qawarsheh,3.0,2.0,False,200.0,1.0,Western,False,Agent,Villas for Sale,32.032532,20.062571
+650000.0,Tripoli,Alfornaj,5.0,5.0,False,300.0,10.0,Western,False,Agent,Villas for Sale,32.054395,20.090677
+525000.0,Tripoli,Tareeq Al-Mashtal,5.0,5.0,False,500.0,0.0,Northeast,False,Agent,Villas for Sale,32.055973,20.124355
+800000.0,Tripoli,Tareeq Al-Mashtal,5.0,4.0,False,490.0,1.0,Western,False,Landlord,Villas for Sale,32.853417,13.161478
+325000.0,Tripoli,Ain Zara,7.0,5.0,False,450.0,1.0,Western,False,Agent,Villas for Sale,32.672101,13.288601
+490000.0,Benghazi,Al-Sayeda A'esha,5.0,5.0,False,500.0,1.0,Northeast,False,Landlord,Villas for Sale,32.792745,13.076749
+485000.0,Tripoli,Souq Al-Juma'a,5.0,3.0,True,280.0,10.0,Southern,False,Landlord,Villas for Sale,32.809147,12.999865
+1200000.0,Tripoli,Al-Serraj,7.0,7.0,False,505.0,10.0,Northeast,False,Landlord,Villas for Sale,32.821409,13.172582
+635000.0,Tripoli,Ain Zara,5.0,3.0,False,320.0,10.0,Western,False,Landlord,Villas for Sale,32.714012,13.346679
+465000.0,Tripoli,Al-Kremiah,5.0,4.0,True,280.0,6.0,Northern,False,Landlord,Villas for Sale,32.748353,13.170548
+180000.0,Tripoli,Ain Zara,4.0,1.0,True,290.0,0.0,Unknown,False,Landlord,Villas for Sale,32.772359,13.22587
+155000.0,Tripoli,Gorje,7.0,5.0,False,500.0,20.0,Western,False,Landlord,Villas for Sale,32.765544,13.264331
+960000.0,Tripoli,Ain Zara,5.0,3.0,False,320.0,6.0,Western,False,Landlord,Villas for Sale,32.799248,13.285069
+320000.0,Tripoli,Al-Serraj,5.0,5.0,False,390.0,0.0,Eastern,False,Agent,Villas for Sale,32.785986,13.248065
+1150000.0,Tripoli,Salah Al-Din,7.0,4.0,False,250.0,10.0,Unknown,False,Landlord,Villas for Sale,32.899551,13.172537
+595000.0,Tripoli,Ain Zara,5.0,3.0,False,240.0,1.0,Unknown,False,Agent,Villas for Sale,32.78959,13.357851
+750000.0,Benghazi,Kuwayfiyah,4.0,4.0,True,470.0,20.0,Eastern,False,Landlord,Villas for Sale,32.867695,13.22263
+280000.0,Benghazi,Al-Sayeda A'esha,3.0,3.0,False,210.0,0.0,Eastern,False,Landlord,Villas for Sale,32.181286,20.168518
+1500000.0,Tripoli,Ain Zara,7.0,7.0,False,500.0,1.0,Southeast,False,Agent,Villas for Sale,32.892941,13.202995
+680000.0,Tripoli,Al-Bivio,7.0,4.0,False,280.0,0.0,Unknown,False,Agent,Villas for Sale,32.8997,13.235582
+170000.0,Tripoli,Ain Zara,4.0,2.0,False,180.0,0.0,Unknown,False,Agent,Villas for Sale,32.867722,13.197062
+1000000.0,Tripoli,Al-Sidra,4.0,3.0,False,450.0,0.0,Southwest,False,Agent,Villas for Sale,32.904306,13.267226
+200000.0,Benghazi,Al-Sayeda A'esha,4.0,3.0,False,210.0,0.0,Northeast,False,Landlord,Villas for Sale,30.263803,12.805475
+1500000.0,Tripoli,Tajura,5.0,3.0,True,405.0,0.0,Northeast,False,Agent,Villas for Sale,32.362394,15.148041
+1000000.0,Tripoli,Ain Zara,7.0,3.0,False,340.0,10.0,Northern,False,Landlord,Villas for Sale,32.883846,13.187514
+850000.0,Tripoli,Souq Al-Juma'a,4.0,5.0,False,450.0,0.0,Eastern,False,Agent,Villas for Sale,32.871105,13.249415
+300000.0,Tripoli,Al-Nofliyen,4.0,2.0,False,600.0,20.0,Northwest,False,Agent,Villas for Sale,32.828386,13.202772
+550000.0,Tripoli,Ain Zara,7.0,4.0,False,165.0,1.0,Northern,False,Agent,Villas for Sale,32.646915,14.257423
+255000.0,Tripoli,Tajura,4.0,2.0,False,270.0,0.0,Eastern,False,Agent,Villas for Sale,32.792484,13.027283
+600000.0,Tripoli,Al-Sidra,7.0,5.0,False,740.0,1.0,Unknown,False,Landlord,Villas for Sale,32.819964,13.361384
+200000.0,Tripoli,Al-Serraj,5.0,5.0,False,350.0,0.0,Eastern,False,Agent,Villas for Sale,32.368473,15.097756
+1050000.0,Benghazi,Al Nahr Road,4.0,2.0,True,300.0,0.5,Unknown,False,Agent,Villas for Sale,32.811703,13.070603
+300000.0,Tripoli,Ain Zara,4.0,3.0,False,165.0,0.0,Eastern,False,Landlord,Villas for Sale,32.872392,12.995794
+525000.0,Tripoli,Tareeq Al-Mashtal,4.0,3.0,False,250.0,1.0,Northeast,False,Landlord,Villas for Sale,32.808667,13.327125
+180000.0,Tripoli,Ain Zara,7.0,4.0,False,320.0,1.0,Northern,False,Landlord,Villas for Sale,32.320026,15.099807
+330000.0,Tripoli,Al-Hadba Al-Khadra,7.0,5.0,False,250.0,20.0,Southeast,False,Agent,Villas for Sale,32.141925,20.083678
+400000.0,Benghazi,Venice,7.0,4.0,False,720.0,1.0,Northern,False,Agent,Villas for Sale,32.811722,13.23234
+500000.0,Tripoli,Bin Ashour,7.0,4.0,False,300.0,6.0,Eastern,False,Agent,Villas for Sale,32.889481,13.171372
+225000.0,Tripoli,Al-Hashan,7.0,5.0,False,650.0,6.0,Northeast,False,Agent,Villas for Sale,32.779776,13.188376
+880000.0,Benghazi,Al Hada'iq,7.0,5.0,False,200.0,20.0,Northeast,False,Agent,Villas for Sale,32.021893,20.021769
+185000.0,Tripoli,Ain Zara,7.0,5.0,False,380.0,0.0,Unknown,False,Landlord,Villas for Sale,32.632744,12.782684
+220000.0,Benghazi,Dakkadosta,7.0,7.0,False,275.0,1.0,Southern,False,Agent,Villas for Sale,32.792313,13.274771
+395000.0,Tripoli,Al-Najila,5.0,3.0,False,400.0,10.0,Northern,False,Landlord,Villas for Sale,32.790017,13.33902
+270000.0,Benghazi,Al-Sindibad District,7.0,4.0,False,260.0,1.0,Western,False,Landlord,Villas for Sale,32.827942,13.381835
+320000.0,Benghazi,Al Hada'iq,5.0,4.0,False,270.0,10.0,Unknown,False,Agent,Villas for Sale,32.011536,20.080803
+1500000.0,Tripoli,Tareeq Al-Mashtal,4.0,3.0,False,230.0,10.0,Southern,False,Agent,Villas for Sale,32.742148,13.171912
+650000.0,Tripoli,Al-Serraj,4.0,3.0,False,481.0,0.0,Northern,False,Landlord,Villas for Sale,32.815331,13.320368
+580000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,370.0,0.0,Northern,False,Agent,Villas for Sale,32.818618,13.173345
+220000.0,Tripoli,Al-Jadada'a,4.0,3.0,False,280.0,1.0,Eastern,False,Agent,Villas for Sale,32.801042,13.234059
+500000.0,Tripoli,Tareeq Al-Mashtal,5.0,4.0,False,400.0,1.0,Northeast,False,Agent,Villas for Sale,32.76046,13.373535
+185000.0,Tripoli,Wadi Al-Rabi,4.0,3.0,False,250.0,1.0,Northern,False,Agent,Villas for Sale,32.79281,13.111119
+230000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,840.0,0.0,Northwest,False,Landlord,Villas for Sale,32.263603,15.119193
+620000.0,Tripoli,Al-Sabaa,7.0,7.0,False,500.0,1.0,Northeast,False,Agent,Villas for Sale,32.071669,20.113457
+210000.0,Benghazi,Al-Sindibad District,2.0,1.0,False,110.0,10.0,Northern,False,Landlord,Villas for Sale,32.796528,13.39574
+500000.0,Benghazi,Military Hospital,3.0,5.0,False,240.0,1.0,Northern,False,Agent,Villas for Sale,32.067467,20.127695
+950000.0,Tripoli,Airport Road,3.0,2.0,False,150.0,1.0,Western,False,Agent,Villas for Sale,32.894112,13.382463
+180000.0,Tripoli,Al-Serraj,7.0,3.0,False,475.0,1.0,Eastern,False,Landlord,Villas for Sale,32.801912,13.23087
+1250000.0,Benghazi,Al Hawary,5.0,7.0,False,600.0,0.0,Unknown,False,Agent,Villas for Sale,32.36233,15.078201
+450000.0,Benghazi,Al Hawary,4.0,4.0,False,420.0,0.0,Unknown,False,Agent,Villas for Sale,32.818344,13.022413
+670000.0,Benghazi,An Nawwaqiyah,7.0,5.0,False,400.0,10.0,Unknown,False,Agent,Villas for Sale,32.830835,13.299445
+1200000.0,Tripoli,Al-Serraj,4.0,5.0,False,340.0,0.0,Unknown,False,Agent,Villas for Sale,32.876724,13.320857
+295000.0,Benghazi,Qawarsheh,3.0,3.0,False,125.0,1.0,Western,False,Agent,Villas for Sale,32.81555,13.121391
+645000.0,Tripoli,Tareeq Al-Mashtal,7.0,4.0,False,335.0,1.0,Eastern,False,Landlord,Villas for Sale,32.779353,13.302669
+295000.0,Tripoli,Al-Serraj,7.0,7.0,False,650.0,0.0,Unknown,False,Agent,Villas for Sale,32.827942,13.381835
+300000.0,Tripoli,Al-Serraj,4.0,7.0,False,430.0,0.0,Eastern,False,Agent,Villas for Sale,32.822964,13.380247
+210000.0,Tripoli,Hai Alandalus,7.0,2.0,False,700.0,10.0,Eastern,False,Agent,Villas for Sale,32.084286,23.931946
+240000.0,Benghazi,Al Hada'iq,7.0,7.0,True,350.0,6.0,Western,False,Agent,Villas for Sale,32.819613,13.07089
+900000.0,Tripoli,Wadi Al-Rabi,4.0,2.0,False,100.0,1.0,Unknown,False,Landlord,Villas for Sale,32.795601,13.209432
+450000.0,Tripoli,Al-Serraj,7.0,7.0,False,350.0,0.0,Unknown,False,Agent,Villas for Sale,32.840313,13.3809
+500000.0,Tripoli,Al-Sabaa,5.0,4.0,False,250.0,1.0,Northeast,False,Agent,Villas for Sale,32.778706,13.221268
+700000.0,Tripoli,Bin Ashour,7.0,4.0,False,450.0,0.0,Eastern,False,Agent,Villas for Sale,32.7533,13.143588
+255000.0,Benghazi,Dubai Road,7.0,7.0,False,600.0,10.0,Unknown,False,Agent,Villas for Sale,32.811981,13.013561
+350000.0,Tripoli,Souq Al-Juma'a,4.0,3.0,False,320.0,0.0,Northern,False,Agent,Villas for Sale,32.778179,13.25334
+460000.0,Benghazi,Al Hawary,4.0,4.0,False,250.0,0.0,Northeast,False,Landlord,Villas for Sale,32.849554,13.322066
+700000.0,Tripoli,Ain Zara,7.0,4.0,False,400.0,0.0,Eastern,False,Landlord,Villas for Sale,32.780467,13.068724
+1250000.0,Tripoli,Al-Serraj,7.0,7.0,False,380.0,0.0,Unknown,False,Agent,Villas for Sale,32.822005,13.263177
+270000.0,Tripoli,Alfornaj,5.0,4.0,False,350.0,10.0,Eastern,False,Landlord,Villas for Sale,32.000393,20.110594
+200000.0,Tripoli,Ain Zara,3.0,2.0,False,400.0,1.0,Northern,False,Agent,Villas for Sale,32.687586,13.31226
+800000.0,Tripoli,Al-Serraj,7.0,7.0,False,350.0,0.0,Unknown,False,Agent,Villas for Sale,32.777742,13.349661
+600000.0,Tripoli,Ain Zara,7.0,7.0,False,500.0,0.0,Eastern,False,Agent,Villas for Sale,32.028645,20.0271
+400000.0,Tripoli,Al-Sabaa,7.0,5.0,False,580.0,1.0,Southern,False,Agent,Villas for Sale,32.805241,13.154268
+1400000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,650.0,1.0,Northwest,False,Agent,Villas for Sale,32.821899,13.284455
+800000.0,Benghazi,Al-Sayeda A'esha,7.0,7.0,True,600.0,1.0,Unknown,False,Agent,Villas for Sale,32.777255,13.344743
+350000.0,Benghazi,Al Hawary,4.0,4.0,False,400.0,6.0,Unknown,False,Agent,Villas for Sale,32.099167,20.113947
+380000.0,Benghazi,Lebanon District,7.0,7.0,False,440.0,0.5,Unknown,False,Agent,Villas for Sale,32.815166,13.113492
+525000.0,Benghazi,Venice,5.0,4.0,False,350.0,0.0,Unknown,False,Agent,Villas for Sale,32.763275,13.34782
+900000.0,Tripoli,Al-Serraj,7.0,5.0,True,530.0,1.0,Northeast,False,Agent,Villas for Sale,32.808987,13.069983
+1500000.0,Tripoli,Al-Serraj,5.0,5.0,False,350.0,0.0,Eastern,False,Agent,Villas for Sale,32.782387,13.229674
+460000.0,Benghazi,Al-Wakalat Street,7.0,4.0,False,400.0,20.0,Northern,False,Agent,Villas for Sale,32.803128,13.175714
+550000.0,Tripoli,Tareeq Al-Mashtal,4.0,3.0,True,360.0,6.0,Northeast,False,Landlord,Villas for Sale,32.806761,13.195365
+480000.0,Tripoli,Al-Serraj,5.0,5.0,True,400.0,1.0,Western,False,Landlord,Villas for Sale,32.080227,20.069252
+425000.0,Tripoli,Al-Serraj,3.0,4.0,False,400.0,6.0,Western,False,Landlord,Villas for Sale,32.759116,13.234184
+600000.0,Tripoli,Al-Serraj,7.0,7.0,False,450.0,0.0,Eastern,False,Agent,Villas for Sale,32.744405,13.328891
+330000.0,Tripoli,Al-Sidra,3.0,3.0,False,170.0,1.0,Unknown,False,Agent,Villas for Sale,32.745007,13.025051
+600000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,200.0,1.0,Northern,False,Landlord,Villas for Sale,32.831314,13.212675
+1000000.0,Tripoli,Bin Ashour,5.0,4.0,False,440.0,1.0,Northwest,False,Agent,Villas for Sale,32.853417,13.161478
+200075.0,Benghazi,Al Hawary,3.0,3.0,False,270.0,1.0,Unknown,False,Landlord,Villas for Sale,32.877603,13.215766
+275000.0,Tripoli,Tajura,5.0,3.0,False,385.0,0.0,Northwest,False,Landlord,Villas for Sale,32.733391,13.012979
+270000.0,Benghazi,Al Nahr Road,7.0,7.0,True,750.0,10.0,Eastern,False,Landlord,Villas for Sale,32.171947,13.021298
+150000.0,Tripoli,Edraibi,7.0,4.0,False,500.0,6.0,Unknown,False,Agent,Villas for Sale,32.028643,20.0271
+315000.0,Tripoli,Abu Sittah,7.0,7.0,False,600.0,0.0,Eastern,False,Agent,Villas for Sale,32.871208,13.146643
+385000.0,Tripoli,Ain Zara,5.0,4.0,True,430.0,0.0,Unknown,False,Landlord,Villas for Sale,32.795121,13.215781
+650000.0,Tripoli,Ain Zara,4.0,2.0,False,240.0,1.0,Unknown,False,Agent,Villas for Sale,32.816666,13.266667
+1200000.0,Benghazi,Bossneb,4.0,3.0,True,270.0,0.0,Unknown,False,Landlord,Villas for Sale,32.840496,13.076517
+170000.0,Benghazi,Venice,7.0,7.0,False,620.0,1.0,Unknown,False,Agent,Villas for Sale,31.724036,19.84056
+275000.0,Benghazi,Al-Sindibad District,7.0,5.0,False,300.0,1.0,Unknown,False,Agent,Villas for Sale,32.322105,15.098828
+160000.0,Benghazi,Beloun,7.0,7.0,False,400.0,20.0,Unknown,False,Agent,Villas for Sale,32.803818,13.425926
+270000.0,Tripoli,Al-Serraj,7.0,5.0,False,600.0,10.0,Eastern,False,Agent,Villas for Sale,32.820587,13.010768
+185000.0,Tripoli,Souq Al-Juma'a,5.0,3.0,False,500.0,0.0,Northeast,False,Agent,Villas for Sale,32.699547,13.321358
+200000.0,Tripoli,Al-Serraj,7.0,5.0,False,485.0,1.0,Northeast,False,Agent,Villas for Sale,32.778718,13.361871
+1500000.0,Tripoli,Tajura,5.0,4.0,False,280.0,0.0,Eastern,False,Agent,Villas for Sale,32.821907,13.076027
+950000.0,Tripoli,Wadi Al-Rabi,3.0,5.0,False,300.0,0.0,Northwest,False,Landlord,Villas for Sale,32.84593,13.366191
+650000.0,Benghazi,Al-Sayeda A'esha,5.0,4.0,False,200.0,0.0,Western,False,Agent,Villas for Sale,32.390282,15.124754
+330000.0,Tripoli,Ain Zara,4.0,3.0,False,210.0,0.0,Unknown,False,Agent,Villas for Sale,32.821907,13.076027
+585000.0,Tripoli,Ain Zara,7.0,5.0,False,380.0,0.0,Western,False,Agent,Villas for Sale,32.793278,13.269945
+345000.0,Benghazi,Kuwayfiyah,3.0,3.0,False,220.0,3.5,Northern,True,Landlord,Villas for Sale,32.737063,13.347349
+1200000.0,Tripoli,Al-Hani,7.0,5.0,False,500.0,20.0,Northeast,False,Agent,Villas for Sale,32.793049,13.353056
+200000.0,Benghazi,Beloun,7.0,7.0,False,350.0,20.0,Southwest,False,Agent,Villas for Sale,32.769638,13.24596
+370000.0,Tripoli,Al-Serraj,7.0,7.0,False,280.0,10.0,Northeast,False,Agent,Villas for Sale,32.879692,13.393644
+700000.0,Tripoli,Ain Zara,5.0,3.0,False,200.0,0.0,Southeast,False,Landlord,Villas for Sale,32.850028,13.368091
+550000.0,Benghazi,Al-Fuwayhat,7.0,7.0,True,600.0,1.0,Unknown,False,Landlord,Villas for Sale,32.093372,20.138224
+700000.0,Tripoli,Alfornaj,7.0,7.0,False,600.0,1.0,Northeast,False,Agent,Villas for Sale,32.806057,13.175223
+550000.0,Tripoli,Souq Al-Juma'a,7.0,7.0,False,600.0,0.0,Northeast,False,Agent,Villas for Sale,32.834064,13.09026
+210000.0,Tripoli,Hai Alandalus,7.0,5.0,False,730.0,6.0,Unknown,False,Agent,Villas for Sale,32.759209,13.386871
+600000.0,Tripoli,Al-Serraj,3.0,3.0,False,180.0,1.0,Unknown,False,Agent,Villas for Sale,32.894699,13.176041
+275000.0,Tripoli,Al-Sabaa,7.0,4.0,False,340.0,0.0,Southeast,False,Agent,Villas for Sale,32.77426,13.212262
+360000.0,Tripoli,Ain Zara,5.0,3.0,False,350.0,1.0,Western,False,Landlord,Villas for Sale,32.887209,13.191338
+750000.0,Tripoli,Ain Zara,7.0,4.0,False,670.0,10.0,Northwest,False,Landlord,Villas for Sale,32.822335,13.126271
+1000000.0,Tripoli,Hai Alandalus,7.0,5.0,False,500.0,1.0,Northeast,False,Agent,Villas for Sale,32.809669,12.389025
+300000.0,Tripoli,Salah Al-Din,7.0,7.0,False,800.0,10.0,Northeast,False,Agent,Villas for Sale,32.077957,12.958584
+390000.0,Tripoli,Abu Saleem,7.0,4.0,False,460.0,1.0,Eastern,False,Agent,Villas for Sale,32.884529,13.272695
+900000.0,Benghazi,Sidi Khalifa,7.0,4.0,False,440.0,10.0,Southern,False,Landlord,Villas for Sale,32.762665,13.258868
+700000.0,Tripoli,Ain Zara,3.0,3.0,False,170.0,10.0,Eastern,False,Landlord,Villas for Sale,32.238461,20.190889
+800000.0,Tripoli,Al-Bivio,4.0,2.0,False,230.0,0.0,Northern,False,Agent,Villas for Sale,32.821186,13.111091
+1200000.0,Tripoli,Al-Serraj,7.0,7.0,True,563.0,1.0,Western,False,Landlord,Villas for Sale,32.787792,13.30228
+1400000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,500.0,0.0,Northwest,False,Agent,Villas for Sale,32.833797,13.260002
+800000.0,Tripoli,Al-Sabaa,7.0,7.0,False,550.0,0.0,Northeast,False,Agent,Villas for Sale,32.778999,13.30262
+650000.0,Tripoli,Other,3.0,2.0,False,135.0,0.0,Northeast,False,Agent,Villas for Sale,32.71283,13.071705
+750000.0,Tripoli,Al-Serraj,4.0,5.0,False,370.0,0.0,Eastern,False,Agent,Villas for Sale,32.821907,13.076027
+550000.0,Tripoli,Zanatah,5.0,2.0,False,181.0,20.0,Northern,False,Landlord,Villas for Sale,32.779196,13.192797
+225000.0,Tripoli,Al-Hadba Al-Khadra,5.0,4.0,False,315.0,20.0,Eastern,False,Landlord,Villas for Sale,31.772616,20.325654
+532315.0,Tripoli,Al-Seyaheyya,7.0,7.0,False,600.0,10.0,Northeast,False,Landlord,Villas for Sale,32.849876,13.196369
+385000.0,Benghazi,Al-Rahba,7.0,7.0,False,360.0,10.0,Unknown,False,Agent,Villas for Sale,32.067963,20.110191
+390000.0,Tripoli,Al-Serraj,7.0,7.0,False,500.0,0.0,Unknown,False,Agent,Villas for Sale,32.792828,13.165126
+700000.0,Tripoli,Al-Serraj,7.0,7.0,False,350.0,0.0,Unknown,False,Agent,Villas for Sale,32.831431,13.209839
+760000.0,Benghazi,Al Hawary,7.0,4.0,False,420.0,6.0,Northern,False,Landlord,Villas for Sale,32.792278,13.315684
+335000.0,Tripoli,Al-Serraj,4.0,5.0,False,470.0,0.0,Unknown,False,Agent,Villas for Sale,32.743595,13.350499
+350000.0,Tripoli,Salah Al-Din,7.0,7.0,False,300.0,0.0,Eastern,False,Agent,Villas for Sale,32.852535,13.318093
+850000.0,Tripoli,Ain Zara,7.0,4.0,False,280.0,0.0,Unknown,False,Agent,Villas for Sale,32.72456,13.231413
+750000.0,Tripoli,Abu Saleem,4.0,3.0,False,660.0,6.0,Eastern,False,Landlord,Villas for Sale,32.824398,13.245737
+550000.0,Benghazi,Al-Hijaz st.,7.0,4.0,False,300.0,10.0,Southern,False,Agent,Villas for Sale,32.884933,13.169195
+330000.0,Tripoli,Souq Al-Juma'a,5.0,5.0,False,400.0,1.0,Northeast,False,Agent,Villas for Sale,32.813641,13.381266
+500000.0,Tripoli,Gharghour,7.0,7.0,False,500.0,6.0,Southwest,False,Landlord,Villas for Sale,32.81859,13.078892
+180000.0,Tripoli,Al-Serraj,7.0,7.0,True,420.0,0.0,Northern,False,Agent,Villas for Sale,32.787236,13.093368
+1200000.0,Tripoli,Al-Bivio,7.0,5.0,False,430.0,6.0,Northern,False,Agent,Villas for Sale,32.804058,13.042874
+500000.0,Benghazi,Qawarsheh,7.0,3.0,False,265.0,1.0,Unknown,False,Agent,Villas for Sale,32.844912,13.156233
+360000.0,Tripoli,Al-Bivio,4.0,2.0,False,250.0,0.0,Northern,False,Agent,Villas for Sale,32.826202,13.243443
+1500000.0,Tripoli,Ain Zara,4.0,4.0,False,300.0,0.0,Eastern,False,Agent,Villas for Sale,32.811478,13.267768
+666000.0,Tripoli,Janzour,7.0,7.0,False,800.0,20.0,Unknown,False,Landlord,Villas for Sale,32.819149,13.345459
+750000.0,Tripoli,Souq Al-Juma'a,7.0,5.0,False,420.0,1.0,Northeast,False,Agent,Villas for Sale,32.864384,13.226605
+190000.0,Tripoli,Souq Al-Juma'a,5.0,4.0,False,460.0,0.0,Northern,False,Agent,Villas for Sale,32.078976,20.093803
+165000.0,Benghazi,Al-Sayeda A'esha,5.0,5.0,False,225.0,1.0,Western,False,Agent,Villas for Sale,32.652695,13.352474
+1400000.0,Tripoli,Souq Al-Juma'a,5.0,4.0,False,550.0,6.0,Northern,False,Agent,Villas for Sale,32.030968,20.094248
+1200000.0,Benghazi,Venice,7.0,7.0,True,600.0,1.0,Unknown,False,Agent,Villas for Sale,32.054703,20.119411
+650000.0,Benghazi,Dakkadosta,7.0,5.0,False,500.0,6.0,Unknown,False,Agent,Villas for Sale,32.068054,20.110197
+150000.0,Benghazi,Beloun,4.0,3.0,False,400.0,10.0,Unknown,False,Agent,Villas for Sale,31.92095,20.177475
+330000.0,Benghazi,AL Khalij Al Arabi St,3.0,2.0,False,180.0,1.0,Unknown,False,Agent,Villas for Sale,32.795121,13.215781
+500000.0,Tripoli,Al-Serraj,5.0,5.0,False,380.0,0.0,Western,False,Agent,Villas for Sale,32.159438,13.013242
+300000.0,Benghazi,Al Hada'iq,3.0,2.0,False,200.0,20.0,Eastern,False,Agent,Villas for Sale,32.809548,13.203683
+400000.0,Tripoli,Al-Seyaheyya,5.0,3.0,False,700.0,20.0,Southwest,False,Agent,Villas for Sale,32.373039,15.087316
+180000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,600.0,1.0,Western,False,Agent,Villas for Sale,32.111359,20.104354
+1000000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,600.0,1.0,Western,False,Agent,Villas for Sale,32.85107,13.07423
+450000.0,Benghazi,Al-Rahba,7.0,5.0,False,700.0,20.0,Western,False,Agent,Villas for Sale,32.768825,13.448547
+600000.0,Tripoli,Hai Alandalus,5.0,2.0,False,250.0,20.0,Eastern,False,Agent,Villas for Sale,32.760323,13.167003
+890000.0,Benghazi,Al-Rahba,7.0,7.0,False,270.0,20.0,Western,False,Landlord,Villas for Sale,32.763325,13.234404
+310000.0,Tripoli,Ain Zara,2.0,2.0,True,130.0,6.0,Unknown,False,Landlord,Villas for Sale,32.527775,13.142037
+1500000.0,Tripoli,Ain Zara,4.0,3.0,False,180.0,0.0,Eastern,False,Agent,Villas for Sale,32.858619,13.272703
+850000.0,Tripoli,Salah Al-Din,4.0,3.0,False,210.0,0.0,Northern,False,Landlord,Villas for Sale,31.896418,19.948664
+200000.0,Tripoli,Al-Mashtal Rd,7.0,5.0,False,650.0,1.0,Northeast,False,Agent,Villas for Sale,32.849116,13.119832
+185000.0,Tripoli,Al-Nofliyen,7.0,5.0,False,600.0,6.0,Eastern,False,Agent,Villas for Sale,32.678352,13.144049
+350000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,650.0,0.0,Eastern,False,Agent,Villas for Sale,32.702911,13.303528
+250000.0,Tripoli,Ain Zara,4.0,3.0,False,200.0,10.0,Northern,False,Agent,Villas for Sale,32.737804,13.01255
+900000.0,Tripoli,Souq Al-Juma'a,5.0,2.0,False,400.0,20.0,Unknown,False,Landlord,Villas for Sale,32.850105,13.303934
+310000.0,Benghazi,Al-Hai Al-Jamei,7.0,7.0,False,500.0,0.0,Unknown,False,Agent,Villas for Sale,32.801157,13.262232
+510000.0,Tripoli,Ain Zara,7.0,3.0,False,500.0,0.0,Northern,False,Agent,Villas for Sale,32.803754,13.282117
+750000.0,Benghazi,Al-Sarti,1.0,2.0,False,200.0,20.0,Southern,False,Landlord,Villas for Sale,31.813877,20.026175
+600000.0,Tripoli,Ain Zara,5.0,4.0,True,360.0,0.0,Northwest,False,Landlord,Villas for Sale,32.031124,20.026196
+1500000.0,Tripoli,Hai Alandalus,7.0,7.0,True,200.0,1.0,Unknown,False,Landlord,Villas for Sale,32.895512,13.204318
+1050000.0,Benghazi,Al-Sayeda A'esha,5.0,4.0,True,400.0,0.0,Northeast,False,Agent,Villas for Sale,32.821906,13.076027
+350000.0,Tripoli,Souq Al-Juma'a,7.0,4.0,False,490.0,0.0,Northern,False,Agent,Villas for Sale,32.798035,13.245056
+180000.0,Tripoli,Zanatah,7.0,7.0,False,650.0,0.0,Northern,False,Agent,Villas for Sale,32.085609,20.152098
+240000.0,Tripoli,Ain Zara,3.0,2.0,False,150.0,0.0,Northern,False,Agent,Villas for Sale,32.846397,13.11625
+650000.0,Tripoli,Al-Serraj,7.0,7.0,False,350.0,0.0,Unknown,False,Agent,Villas for Sale,32.792631,13.068665
+410000.0,Tripoli,Abu Saleem,5.0,4.0,False,340.0,1.0,Southern,False,Landlord,Villas for Sale,32.820847,13.065079
+175000.0,Tripoli,Al-Serraj,7.0,7.0,False,490.0,0.0,Eastern,False,Agent,Villas for Sale,32.743447,13.295036
+900000.0,Benghazi,Al-Sayeda A'esha,5.0,4.0,False,300.0,0.0,Eastern,False,Agent,Villas for Sale,32.069717,20.124681
+450000.0,Benghazi,Al-Sayeda A'esha,4.0,4.0,True,310.0,1.0,Unknown,False,Landlord,Villas for Sale,32.846626,13.137729
+185000.0,Benghazi,Al-Sindibad District,3.0,4.0,True,400.0,0.0,Unknown,False,Landlord,Villas for Sale,32.694567,13.38686
+850000.0,Tripoli,Ain Zara,3.0,3.0,False,180.0,0.0,Northeast,False,Agent,Villas for Sale,32.847706,13.086708
+200000.0,Tripoli,Al-Serraj,7.0,7.0,False,405.0,0.0,Unknown,False,Agent,Villas for Sale,32.222126,20.18819
+325000.0,Benghazi,Venice,3.0,3.0,True,250.0,1.0,Northern,False,Landlord,Villas for Sale,32.789032,13.248777
+235000.0,Tripoli,Salah Al-Din,7.0,4.0,True,310.0,0.0,Southern,False,Landlord,Villas for Sale,32.626472,13.176311
+260000.0,Benghazi,Boatni,3.0,3.0,False,220.0,0.0,Northwest,False,Agent,Villas for Sale,32.770135,13.396527
+900000.0,Tripoli,Al-Hani,7.0,5.0,False,400.0,10.0,Northwest,False,Agent,Villas for Sale,32.001203,20.123423
+250000.0,Tripoli,Airport Road,4.0,2.0,True,245.0,1.0,Unknown,False,Landlord,Villas for Sale,32.704741,13.305673
+330000.0,Tripoli,Airport Road,7.0,4.0,True,675.0,1.0,Unknown,False,Landlord,Villas for Sale,32.842224,13.202482
+425000.0,Tripoli,Al-Serraj,7.0,7.0,False,420.0,1.0,Western,False,Agent,Villas for Sale,32.783215,13.367469
+1150000.0,Tripoli,Al-Serraj,4.0,5.0,True,500.0,6.0,Northern,False,Landlord,Villas for Sale,32.821906,13.076027
+190000.0,Tripoli,Jazeerat Al-Fahm,7.0,7.0,False,200.0,8.0,Northeast,False,Agent,Villas for Sale,32.789165,12.443824
+999999.0,Tripoli,Al-Hashan,7.0,4.0,True,450.0,6.0,Western,False,Agent,Villas for Sale,32.819479,13.229162
+600000.0,Tripoli,Souq Al-Juma'a,7.0,7.0,False,800.0,20.0,Northern,False,Agent,Villas for Sale,32.7752,12.753719
+650000.0,Benghazi,Al Hawary,7.0,4.0,False,500.0,0.0,Unknown,False,Agent,Villas for Sale,32.764717,13.175111
+225000.0,Tripoli,Ain Zara,7.0,4.0,False,300.0,0.0,Northern,False,Agent,Villas for Sale,32.1056,20.090677
+500000.0,Tripoli,Al-Sabaa,5.0,4.0,False,450.0,0.0,Southwest,False,Agent,Villas for Sale,32.825328,13.191057
+380000.0,Tripoli,Hay Demsheq,7.0,7.0,False,400.0,1.0,Eastern,False,Agent,Villas for Sale,32.054704,20.119411
+360000.0,Tripoli,Ain Zara,7.0,7.0,False,440.0,0.0,Northeast,False,Agent,Villas for Sale,32.825814,13.203643
+250000.0,Tripoli,Ain Zara,3.0,3.0,False,430.0,1.0,Northeast,False,Agent,Villas for Sale,32.801994,13.406166
+1250000.0,Tripoli,Al-Sabaa,7.0,4.0,False,360.0,10.0,Eastern,False,Landlord,Villas for Sale,31.670841,20.152451
+1500000.0,Tripoli,Al-Jadada'a,4.0,3.0,False,170.0,1.0,Northern,False,Landlord,Villas for Sale,32.782059,13.20921
+630000.0,Tripoli,Ain Zara,5.0,4.0,False,300.0,6.0,Eastern,False,Landlord,Villas for Sale,32.843227,13.123366
+500000.0,Tripoli,Ain Zara,2.0,2.0,True,125.0,0.0,Eastern,False,Landlord,Villas for Sale,32.791649,13.063347
+650000.0,Tripoli,Al-Sabaa,7.0,3.0,False,668.0,1.0,Eastern,False,Landlord,Villas for Sale,32.870911,13.14703
+190000.0,Benghazi,Venice,4.0,3.0,False,280.0,0.0,Eastern,False,Agent,Villas for Sale,32.788165,12.443906
+205000.0,Benghazi,AL Khalij Al Arabi St,7.0,5.0,True,280.0,6.0,Northwest,False,Agent,Villas for Sale,32.844475,13.25396
+400000.0,Tripoli,Ain Zara,7.0,4.0,False,400.0,1.0,Northern,False,Landlord,Villas for Sale,31.944259,20.133477
+200000.0,Tripoli,Al-Jadada'a,4.0,3.0,False,160.0,0.0,Southeast,False,Landlord,Villas for Sale,32.119789,20.094101
+320000.0,Tripoli,Al-Serraj,5.0,5.0,False,460.0,0.0,Unknown,False,Agent,Villas for Sale,32.028643,20.0271
+299999.0,Tripoli,Hai Alandalus,5.0,1.0,False,300.0,20.0,Southwest,False,Landlord,Villas for Sale,32.848616,13.081122
+160000.0,Benghazi,AL Khalij Al Arabi St,7.0,7.0,False,250.0,20.0,Northeast,False,Landlord,Villas for Sale,32.816667,13.266667
+800000.0,Tripoli,Arada,4.0,2.0,False,150.0,20.0,Northwest,False,Agent,Villas for Sale,32.882072,13.181871
+350000.0,Benghazi,Al-Sindibad District,5.0,3.0,True,300.0,6.0,Western,False,Agent,Villas for Sale,32.675667,13.055113
+380000.0,Tripoli,Tajura,7.0,3.0,False,300.0,0.0,Eastern,False,Agent,Villas for Sale,32.566563,13.462946
+999999.0,Benghazi,Hai Qatar,3.0,3.0,False,270.0,1.0,Eastern,False,Agent,Villas for Sale,32.758367,13.30985
+365000.0,Tripoli,Al-Serraj,4.0,3.0,False,420.0,1.0,Southern,False,Landlord,Villas for Sale,32.842281,13.171151
+600000.0,Tripoli,Salah Al-Din,2.0,2.0,True,100.0,1.0,Southeast,False,Landlord,Villas for Sale,31.999817,20.023308
+800000.0,Tripoli,Qasr Bin Ghashir,7.0,3.0,False,293.0,1.0,Unknown,False,Agent,Villas for Sale,32.739909,13.337547
+270000.0,Tripoli,Al-Jabs,7.0,3.0,False,300.0,20.0,Southern,False,Landlord,Villas for Sale,32.093371,20.138224
+970000.0,Benghazi,Al Hawary,4.0,3.0,False,270.0,0.5,Northeast,False,Agent,Villas for Sale,32.826378,13.297663
+550000.0,Benghazi,Al Hawary,7.0,4.0,False,350.0,6.0,Northern,True,Landlord,Villas for Sale,32.840494,13.33715
+800000.0,Tripoli,Ain Zara,4.0,2.0,False,155.0,0.0,Northern,False,Landlord,Villas for Sale,32.817825,13.27065
+365000.0,Benghazi,Al-Fuwayhat,7.0,7.0,False,500.0,20.0,Northeast,False,Agent,Villas for Sale,32.776707,13.284241
+325000.0,Benghazi,Beloun,7.0,7.0,False,320.0,10.0,Eastern,False,Agent,Villas for Sale,32.633614,13.33766
+475000.0,Tripoli,Al-Hadaba'tool Rd,4.0,3.0,True,310.0,6.0,Northwest,False,Landlord,Villas for Sale,32.851154,13.176524
+250000.0,Tripoli,Tareeq Al-Mashtal,7.0,5.0,False,450.0,0.0,Western,False,Agent,Villas for Sale,32.82338,13.127478
+180000.0,Tripoli,Hay Demsheq,7.0,3.0,False,320.0,6.0,Eastern,False,Agent,Villas for Sale,31.938725,19.954506
+1200000.0,Al Wahat,Jikharra,5.0,5.0,False,350.0,1.0,Eastern,False,Landlord,Villas for Sale,32.811733,13.104439
+450000.0,Tripoli,Ain Zara,7.0,3.0,False,350.0,0.0,Western,False,Agent,Villas for Sale,32.022217,20.033054
+157000.0,Benghazi,Qanfooda,4.0,4.0,False,300.0,0.5,Northern,False,Agent,Villas for Sale,32.972385,13.201271
+175000.0,Tripoli,Al-Sabaa,3.0,3.0,False,400.0,1.0,Unknown,False,Landlord,Villas for Sale,32.732418,13.393951
+1100000.0,Benghazi,Boatni,4.0,3.0,True,200.0,0.0,Northwest,False,Landlord,Villas for Sale,32.873352,13.152635
+200000.0,Tripoli,Zanatah,7.0,5.0,False,600.0,1.0,Northern,False,Agent,Villas for Sale,32.768353,13.424044
+290000.0,Tripoli,Al-Serraj,7.0,7.0,False,350.0,0.0,Unknown,False,Agent,Villas for Sale,32.807457,13.066059
+1000000.0,Benghazi,Shabna,4.0,3.0,False,260.0,6.0,Northeast,False,Agent,Villas for Sale,32.101074,20.171986
+221111.0,Benghazi,Al Hawary,4.0,2.0,False,230.0,1.0,Western,False,Agent,Villas for Sale,32.863106,13.131388
+245000.0,Tripoli,Al-Jabs,7.0,4.0,False,560.0,1.0,Western,False,Agent,Villas for Sale,32.837254,13.011137
+500000.0,Benghazi,Bossneb,3.0,3.0,False,299.0,3.0,Unknown,False,Landlord,Villas for Sale,32.074638,20.084682
+300000.0,Tripoli,Al-Sabaa,3.0,2.0,True,175.0,10.0,Northeast,False,Landlord,Villas for Sale,32.79354,13.084397
+350000.0,Tripoli,Al-Sabaa,7.0,5.0,False,350.0,0.0,Eastern,False,Agent,Villas for Sale,32.741907,13.228144
+700000.0,Benghazi,Al Hawary,3.0,3.0,False,210.0,0.5,Northern,False,Landlord,Villas for Sale,32.846943,13.128933
+285000.0,Tripoli,Al-Baesh,4.0,3.0,False,220.0,0.0,Unknown,False,Landlord,Villas for Sale,31.998968,20.089092
+155000.0,Tripoli,Al-Bivio,5.0,3.0,True,400.0,10.0,Northeast,False,Landlord,Villas for Sale,32.677372,13.253583
+350000.0,Tripoli,Tareeq Al-Mashtal,4.0,2.0,False,300.0,10.0,Northern,False,Landlord,Villas for Sale,32.857822,13.100203
+1300000.0,Tripoli,Ain Zara,4.0,3.0,True,270.0,1.0,Southeast,False,Landlord,Villas for Sale,32.824207,13.155787
+1500000.0,Tripoli,Ain Zara,3.0,3.0,False,150.0,0.0,Northern,False,Agent,Villas for Sale,32.844925,13.282389
+250000.0,Tripoli,Al-Sabaa,5.0,4.0,False,300.0,1.0,Western,False,Agent,Villas for Sale,32.889301,13.185127
+350000.0,Tripoli,Other,3.0,2.0,False,500.0,6.0,Unknown,False,Agent,Villas for Sale,32.816515,13.264449
+190000.0,Benghazi,Hai Qatar,7.0,3.0,False,225.0,0.0,Northeast,False,Landlord,Villas for Sale,32.257149,15.080113
+165000.0,Tripoli,Al-Sabaa,7.0,5.0,True,720.0,0.0,Eastern,False,Agent,Villas for Sale,32.720474,13.136874
+170000.0,Tripoli,Ain Zara,4.0,4.0,False,310.0,0.0,Unknown,False,Landlord,Villas for Sale,32.719234,13.063044
+270000.0,Benghazi,Venice,5.0,7.0,False,300.0,1.0,Unknown,False,Landlord,Villas for Sale,32.883167,13.141514
+185000.0,Benghazi,Al-Hijaz st.,4.0,3.0,True,420.0,20.0,Northern,False,Landlord,Villas for Sale,32.138764,20.100274
+550000.0,Tripoli,Janzour,4.0,4.0,False,500.0,6.0,Unknown,False,Landlord,Villas for Sale,32.82501,13.227407
+648138.0,Benghazi,Hai Qatar,7.0,7.0,False,540.0,1.0,Unknown,False,Landlord,Villas for Sale,32.410905,14.910722
+800000.0,Tripoli,Tareeq Al-Mashtal,7.0,7.0,False,560.0,0.0,Unknown,False,Agent,Villas for Sale,32.756416,21.737617
+1000000.0,Tripoli,Ain Zara,7.0,5.0,False,450.0,1.0,Northeast,False,Landlord,Villas for Sale,32.372856,15.093375
+750000.0,Tripoli,Bin Ashour,7.0,3.0,False,440.0,1.0,Western,False,Agent,Villas for Sale,32.715042,14.06537
+800000.0,Tripoli,Al-Serraj,5.0,4.0,False,400.0,1.0,Southern,False,Agent,Villas for Sale,32.840952,13.182868
+400030.0,Tripoli,Ain Zara,5.0,2.0,False,186.0,0.0,Eastern,False,Landlord,Villas for Sale,32.874873,13.254805
+495000.0,Tripoli,Janzour,7.0,3.0,True,300.0,10.0,Unknown,False,Landlord,Villas for Sale,32.575939,13.209419
+575000.0,Tripoli,Zanatah,7.0,4.0,False,500.0,10.0,Northern,False,Agent,Villas for Sale,32.817944,13.057387
+350000.0,Tripoli,Al-Serraj,7.0,7.0,False,450.0,0.0,Unknown,False,Agent,Villas for Sale,32.457565,13.215115
+299000.0,Tripoli,Ain Zara,4.0,3.0,False,300.0,0.0,Northern,False,Landlord,Villas for Sale,32.778718,13.361871
+480000.0,Tripoli,Al-Sabaa,7.0,7.0,False,720.0,1.0,Unknown,False,Landlord,Villas for Sale,32.759049,13.167902
+700000.0,Tripoli,Wadi Al-Rabi,7.0,4.0,False,370.0,1.0,Northeast,False,Landlord,Villas for Sale,32.045647,20.215012
+1350000.0,Tripoli,Tareeq Al-Mashtal,7.0,5.0,True,550.0,1.0,Southeast,False,Agent,Villas for Sale,32.844959,13.299299
+340000.0,Benghazi,Qawarsheh,7.0,7.0,False,640.0,0.0,Western,False,Agent,Villas for Sale,32.808632,13.059446
+1300000.0,Tripoli,Al-Serraj,5.0,5.0,False,350.0,0.0,Eastern,False,Agent,Villas for Sale,32.810221,13.059919
+350000.0,Tripoli,Al-Serraj,7.0,4.0,False,430.0,1.0,Northwest,False,Agent,Villas for Sale,32.804279,13.040751
+924774.0,Tripoli,Al-Serraj,4.0,5.0,True,380.0,0.0,Eastern,False,Agent,Villas for Sale,32.025295,20.080208
+360000.0,Tripoli,Al-Serraj,5.0,5.0,False,420.0,1.0,Eastern,False,Agent,Villas for Sale,32.830025,13.065831
+415000.0,Tripoli,Al-Serraj,5.0,5.0,False,380.0,0.0,Eastern,False,Agent,Villas for Sale,32.826454,13.081622
+260000.0,Tripoli,Al-Serraj,5.0,5.0,False,160.0,0.0,Eastern,False,Agent,Villas for Sale,32.829575,13.043541
+380000.0,Tripoli,Al-Serraj,4.0,5.0,False,510.0,0.0,Eastern,False,Agent,Villas for Sale,32.829575,13.043541
+185000.0,Tripoli,Al-Serraj,7.0,7.0,False,460.0,0.0,Unknown,False,Agent,Villas for Sale,32.826469,13.081578
+250000.0,Tripoli,Al-Serraj,7.0,7.0,False,700.0,0.0,Southern,False,Agent,Villas for Sale,32.80442,13.081738
+295000.0,Tripoli,Al-Serraj,3.0,4.0,False,350.0,0.0,Eastern,False,Agent,Villas for Sale,32.816667,13.266667
+315000.0,Tripoli,Al-Nofliyen,7.0,3.0,False,400.0,10.0,Eastern,False,Agent,Villas for Sale,32.795435,13.079556
+750000.0,Tripoli,Al-Serraj,5.0,5.0,False,380.0,0.0,Eastern,False,Agent,Villas for Sale,32.795039,13.081959
+420000.0,Tripoli,Hai Alandalus,5.0,4.0,False,450.0,10.0,Northern,False,Agent,Villas for Sale,32.811495,13.058331
+310000.0,Tripoli,Ain Zara,7.0,5.0,True,350.0,0.0,Northeast,False,Agent,Villas for Sale,32.805701,13.041319
+550000.0,Tripoli,Hai Alandalus,7.0,4.0,True,400.0,6.0,Northern,False,Agent,Villas for Sale,32.816761,13.081806
+200000.0,Tripoli,Ain Zara,7.0,5.0,False,430.0,0.0,Eastern,False,Landlord,Villas for Sale,32.826523,13.081583
+850000.0,Tripoli,Al-Serraj,4.0,5.0,False,360.0,0.0,Eastern,False,Agent,Villas for Sale,32.818806,13.278483
+450000.0,Tripoli,Al-Serraj,3.0,4.0,False,170.0,0.0,Eastern,False,Agent,Villas for Sale,32.820344,13.076828
+1400000.0,Tripoli,Al-Serraj,4.0,5.0,False,370.0,0.0,Eastern,False,Agent,Villas for Sale,32.828504,13.264208
+425000.0,Benghazi,Al-Wakalat Street,3.0,2.0,False,200.0,10.0,Northern,False,Agent,Villas for Sale,32.812222,13.082102
+675000.0,Benghazi,Qanfooda,3.0,2.0,False,150.0,0.0,Southwest,False,Agent,Whole Building for Sale,31.997295,19.9704
+350000.0,Misrata,Tripoli St,3.0,2.0,False,320.0,0.0,Northern,False,Agent,Whole Building for Sale,32.792728,13.230059
+165000.0,Tripoli,Tajura,3.0,2.0,False,300.0,10.0,Southwest,False,Agent,Whole Building for Sale,32.12133,20.106915
+325000.0,Tripoli,Al-Sabaa,3.0,2.0,False,1000.0,20.0,Northern,False,Agent,Whole Building for Sale,32.790144,13.284649
+600000.0,Tripoli,Omar Al-Mukhtar Rd,3.0,2.0,False,720.0,1.0,Northwest,False,Landlord,Whole Building for Sale,32.784512,13.240498
+290000.0,Tripoli,Ain Zara,3.0,2.0,False,800.0,10.0,Southwest,False,Landlord,Whole Building for Sale,32.096397,20.095589
+285000.0,Benghazi,Masr St,3.0,2.0,False,185.0,20.0,Northwest,False,Landlord,Whole Building for Sale,32.771755,13.186702
+900000.0,Tripoli,Hay Al-Islami,3.0,2.0,False,130.0,1.0,Northern,False,Agent,Whole Building for Sale,32.876583,13.224882
+700000.0,Tripoli,Al-Serraj,3.0,2.0,False,165.0,0.0,Western,False,Landlord,Whole Building for Sale,32.783241,13.14621
+600000.0,Tripoli,Zawiyat Al Dahmani,3.0,2.0,False,400.0,10.0,Eastern,False,Landlord,Whole Building for Sale,32.021699,20.147656
+370000.0,Tripoli,Abu Saleem,3.0,2.0,False,520.0,20.0,Southeast,False,Landlord,Whole Building for Sale,32.812401,13.070776
+500000.0,Tripoli,Tajura,3.0,2.0,False,750.0,20.0,Southern,False,Landlord,Whole Building for Sale,32.1056,20.090677
+350000.0,Tripoli,Al-Sabaa,3.0,2.0,False,650.0,6.0,Eastern,False,Agent,Whole Building for Sale,32.762558,13.354939
+500000.0,Benghazi,Masr St,3.0,2.0,False,300.0,10.0,Northern,False,Agent,Whole Building for Sale,32.816666,13.266667
+800000.0,Tripoli,Al-Najila,3.0,2.0,False,170.0,20.0,Southern,False,Landlord,Whole Building for Sale,32.626202,13.217847
+500000.0,Benghazi,As-Sulmani,3.0,2.0,False,1000.0,1.0,Eastern,False,Agent,Whole Building for Sale,32.823807,13.223773
+465000.0,Benghazi,Ard Zwawa Albahriya,3.0,2.0,False,150.0,0.0,Northern,False,Agent,Whole Building for Sale,32.829813,13.018679
+245000.0,Benghazi,Qawarsheh,3.0,2.0,False,1000.0,0.0,Southern,False,Agent,Whole Building for Sale,32.860729,13.114933
+420000.0,Benghazi,Ras Abaydah,3.0,2.0,False,800.0,10.0,Northern,False,Agent,Whole Building for Sale,32.101835,20.166258
+400000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,525.0,10.0,Southwest,False,Agent,Whole Building for Sale,32.749001,13.29965
+1300000.0,Benghazi,Al-Wakalat Street,3.0,2.0,False,450.0,20.0,Northern,False,Agent,Whole Building for Sale,32.857025,13.313522
+1500000.0,Tripoli,Al-Nofliyen,3.0,2.0,False,300.0,1.0,Western,False,Agent,Whole Building for Sale,32.807159,13.28313
+900000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,680.0,10.0,Northeast,False,Agent,Whole Building for Sale,32.779649,13.05406
+500000.0,Benghazi,Masr St,3.0,2.0,False,100.0,1.0,Northern,False,Agent,Whole Building for Sale,32.83195,13.269567
+700000.0,Benghazi,As-Sulmani,3.0,2.0,False,180.0,20.0,Eastern,False,Landlord,Whole Building for Sale,32.777336,13.257928
+1150000.0,Benghazi,Shabna,3.0,2.0,False,700.0,6.0,Eastern,False,Agent,Whole Building for Sale,32.795219,13.074577
+380000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,170.0,0.0,Southern,False,Agent,Whole Building for Sale,32.895073,13.167294
+425000.0,Tripoli,Abu Saleem,3.0,2.0,False,555.0,10.0,Eastern,False,Landlord,Whole Building for Sale,32.816667,13.266667
+430000.0,Benghazi,Military Hospital,3.0,2.0,False,250.0,1.0,Northern,False,Agent,Whole Building for Sale,32.769351,13.216811
+400000.0,Benghazi,As-Sulmani,3.0,2.0,False,370.0,20.0,Northeast,False,Agent,Whole Building for Sale,32.894234,13.385993
+395000.0,Tripoli,Khalatat St,3.0,2.0,False,170.0,1.0,Western,True,Landlord,Whole Building for Sale,32.738094,13.34683
+1350000.0,Tripoli,Gorje,3.0,2.0,False,1000.0,20.0,Southern,False,Agent,Whole Building for Sale,32.762398,13.241366
+400000.0,Misrata,Abbad,3.0,2.0,False,300.0,0.0,Southeast,False,Agent,Whole Building for Sale,31.900558,19.949228
+250000.0,Tripoli,Airport Road,3.0,2.0,False,140.0,0.0,Western,False,Landlord,Whole Building for Sale,32.778803,13.3945
+400000.0,Benghazi,Al-Berka,3.0,2.0,False,500.0,10.0,Southern,False,Agent,Whole Building for Sale,32.066605,20.112677
+1400000.0,Benghazi,Masr St,3.0,2.0,False,800.0,10.0,Western,False,Agent,Whole Building for Sale,32.06654,20.113144
+500000.0,Tripoli,Ain Zara,3.0,2.0,False,500.0,10.0,Eastern,False,Landlord,Whole Building for Sale,32.845524,13.094638
+440000.0,Tripoli,Khallet Alforjan,3.0,2.0,False,960.0,1.0,Northeast,False,Landlord,Whole Building for Sale,32.807098,13.318572
+150000.0,Tripoli,Independence St,3.0,2.0,False,144.0,6.0,Southeast,False,Agent,Whole Building for Sale,32.706562,13.310801
+170000.0,Tripoli,Arada,3.0,2.0,False,350.0,10.0,Northern,False,Landlord,Whole Building for Sale,32.122797,19.875694
+1500000.0,Benghazi,Al-Humaida,3.0,2.0,False,500.0,6.0,Northern,False,Agent,Whole Building for Sale,32.874527,13.188891
+800000.0,Benghazi,Al-Majouri,3.0,2.0,False,150.0,10.0,Western,False,Landlord,Whole Building for Sale,32.895512,13.204318
+750000.0,Benghazi,As-Sulmani Al-Sharqi,3.0,2.0,False,370.0,20.0,Northeast,False,Landlord,Whole Building for Sale,32.905254,13.227923
+150000.0,Tripoli,Al-Hashan,3.0,2.0,False,600.0,20.0,Northern,False,Agent,Whole Building for Sale,32.692711,13.35406
+1250000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,250.0,10.0,Northwest,False,Landlord,Whole Building for Sale,32.851864,13.08985
+300000.0,Tripoli,Jama'a Saqa'a,3.0,2.0,False,525.0,6.0,Eastern,False,Agent,Whole Building for Sale,32.877346,13.300992
+225000.0,Tripoli,Hay Al-Islami,3.0,2.0,False,90.0,20.0,Unknown,False,Landlord,Whole Building for Sale,32.805347,13.06641
+290000.0,Tripoli,Hai Alandalus,3.0,2.0,False,280.0,1.0,Northern,False,Landlord,Whole Building for Sale,32.838161,13.229692
+175000.0,Tripoli,Zanatah,3.0,2.0,False,318.0,6.0,Northern,False,Landlord,Whole Building for Sale,32.763028,12.736496
+999999.0,Tripoli,Tajura,3.0,2.0,False,1000.0,6.0,Northeast,False,Landlord,Whole Building for Sale,32.827942,13.381835
+450000.0,Benghazi,As-Sulmani,3.0,2.0,False,944.0,20.0,Northern,False,Agent,Whole Building for Sale,32.068111,20.11067
+750000.0,Benghazi,Bohdema,3.0,2.0,False,200.0,10.0,Northern,False,Agent,Whole Building for Sale,32.06778,20.110458
+1100000.0,Benghazi,Dakkadosta,3.0,2.0,False,250.0,1.0,Unknown,False,Agent,Whole Building for Sale,32.067772,20.110462
+550000.0,Benghazi,Shabna,3.0,2.0,False,700.0,10.0,Eastern,False,Landlord,Whole Building for Sale,32.80839,13.23989
+485000.0,Tripoli,Janzour,3.0,2.0,False,170.0,0.0,Northeast,False,Landlord,Whole Building for Sale,32.722961,12.706383
+850000.0,Benghazi,Hai Qatar,3.0,2.0,False,840.0,1.0,Northern,False,Agent,Whole Building for Sale,32.887585,13.26057
+699000.0,Tripoli,Airport Road,3.0,2.0,False,125.0,1.0,Northeast,False,Landlord,Whole Building for Sale,32.874801,13.254491
+850000.0,Benghazi,Al-Humaida,3.0,2.0,False,140.0,1.0,Northern,False,Agent,Whole Building for Sale,32.325588,15.099256
+375000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,400.0,6.0,Northern,False,Landlord,Whole Building for Sale,32.846371,13.116437
+365000.0,Benghazi,Al-Masakin,3.0,2.0,False,1000.0,6.0,Southeast,False,Landlord,Whole Building for Sale,32.855263,13.175392
+370000.0,Tripoli,Souq Al-Juma'a,3.0,2.0,False,400.0,20.0,Northeast,False,Landlord,Whole Building for Sale,32.857387,13.130749
+300000.0,Benghazi,Al-Berka,3.0,2.0,False,500.0,10.0,Unknown,False,Landlord,Whole Building for Sale,32.046049,20.071725
+1400000.0,Tripoli,Zanatah,3.0,2.0,False,320.0,20.0,Southeast,False,Landlord,Whole Building for Sale,32.385674,15.031832
+645000.0,Tripoli,Tajura,3.0,2.0,False,850.0,10.0,Northern,False,Landlord,Whole Building for Sale,32.821844,13.255251
+600000.0,Tripoli,Al-Najila,3.0,2.0,False,500.0,0.0,Northern,False,Landlord,Whole Building for Sale,32.843185,13.192374
+1000000.0,Tripoli,Salah Al-Din,3.0,2.0,False,400.0,1.0,Eastern,False,Landlord,Whole Building for Sale,32.155874,20.118847
+999999.0,Tripoli,Salah Al-Din,3.0,2.0,False,180.0,10.0,Northern,False,Landlord,Whole Building for Sale,32.810765,13.236132
+155000.0,Tripoli,Al Nasr St,3.0,2.0,False,200.0,10.0,Northeast,False,Agent,Whole Building for Sale,32.748081,13.473171
+250000.0,Tripoli,Alfornaj,3.0,2.0,False,120.0,1.0,Northern,False,Agent,Whole Building for Sale,32.782158,13.065361
+700000.0,Tripoli,Al-Sareem,3.0,2.0,False,300.0,20.0,Northwest,False,Landlord,Whole Building for Sale,32.859515,13.204318
+700000.0,Tripoli,Eastern Hadba Rd,3.0,2.0,False,146.0,0.0,Eastern,False,Landlord,Whole Building for Sale,32.807354,13.31405
+380000.0,Tripoli,Eastern Hadba Rd,3.0,2.0,False,146.0,20.0,Eastern,False,Landlord,Whole Building for Sale,32.842019,13.031531
+360000.0,Tripoli,Al-Serraj,3.0,2.0,False,600.0,20.0,Northwest,False,Landlord,Whole Building for Sale,32.807709,13.337058
+750000.0,Tripoli,Fashloum,3.0,2.0,False,150.0,20.0,Northern,False,Agent,Whole Building for Sale,32.924984,13.201256
+400000.0,Tripoli,Eastern Hadba Rd,3.0,2.0,False,600.0,6.0,Unknown,False,Agent,Whole Building for Sale,32.792261,13.06245
+195000.0,Tripoli,Shawqy St,3.0,2.0,False,230.0,20.0,Southern,False,Agent,Whole Building for Sale,32.766979,13.189839
+1000000.0,Tripoli,Fashloum,3.0,2.0,False,185.0,20.0,Northwest,False,Landlord,Whole Building for Sale,32.811981,13.013561
+1500000.0,Tripoli,Eastern Hadba Rd,3.0,2.0,False,150.0,6.0,Northern,False,Landlord,Whole Building for Sale,32.848408,13.211012
+550000.0,Tripoli,Tajura,3.0,2.0,False,1000.0,10.0,Eastern,False,Landlord,Whole Building for Sale,32.710335,12.974044
+220000.0,Tripoli,Al-Jadada'a,3.0,2.0,False,210.0,1.0,Northern,False,Landlord,Whole Building for Sale,32.121041,20.088904
+1000400.0,Tripoli,Al-Sabaa,3.0,2.0,False,280.0,10.0,Northern,False,Landlord,Whole Building for Sale,32.806927,13.382565
+1100000.0,Tripoli,Abu Meshmasha,3.0,2.0,False,240.0,20.0,Western,False,Landlord,Whole Building for Sale,32.822304,13.058512
+160000.0,Benghazi,Shabna,3.0,2.0,False,300.0,0.0,Eastern,False,Agent,Whole Building for Sale,32.830547,13.306554
+200000.0,Tripoli,Al-Serraj,3.0,2.0,False,700.0,1.0,Northeast,False,Agent,Whole Building for Sale,32.807394,13.066068
+1200000.0,Tripoli,Al-Jabs,3.0,2.0,False,600.0,1.0,Northern,False,Agent,Whole Building for Sale,32.821571,13.078575
+1050000.0,Tripoli,Arada,3.0,2.0,False,500.0,10.0,Western,False,Agent,Whole Building for Sale,32.826504,13.081495

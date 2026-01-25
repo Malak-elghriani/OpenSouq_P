@@ -86,7 +86,7 @@ def transform_cleaned_data(input_csv, output_csv):
 
     # Filter data based on realistic values
     df = df[(df['price'] >= 150000) & (df['price'] <= 65000000)]
-    df = df[(df['surface_area'] >= 50) & (df['surface_area'] <= 10000)]
+    df = df[(df['surface_area'] >= 50) & (df['surface_area'] <= 1000)]
     # Remove apartments for sale with surface area > 250 and bedrooms < 4
     df = df[~((df['subcategory'] == 'Apartment for Sale') & (df['surface_area'] > 250) & (df['bedrooms'] < 4))]
 
@@ -118,12 +118,6 @@ def eda(input_csv):
     print(df.isnull().sum())
     print("\nNumber of Duplicates")
     print(df.duplicated().sum())
-    print("\nCount of each value in 'facade' column")
-    print(df['facade'].value_counts())
-    print("\nCount of each value in 'lister_type' column")
-    print(df['lister_type'].value_counts())
-    print("\nCount of each value in 'subcategory' column")
-    print(df['subcategory'].value_counts())
 
 def basic_plotting(input_csv):
     df = pd.read_csv(input_csv)
@@ -135,7 +129,7 @@ def basic_plotting(input_csv):
         plt.title(f"Distribution of {column}")
         plt.xlabel(column)
         plt.ylabel("Frequency")
-        plt.savefig(f"distribution_{column}.png")
+        plt.savefig(f"graphs/distribution_{column}.png")
         plt.close()
 
     # Plot correlations between numeric columns
@@ -144,7 +138,7 @@ def basic_plotting(input_csv):
         correlation_matrix = df[numeric_columns].corr()
         sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f")
         plt.title("Correlation Matrix")
-        plt.savefig("correlation_matrix.png")
+        plt.savefig("graphs/correlation_matrix.png")
         plt.close()
 
     # Scatter plot for Latitude and Longitude if present
@@ -154,32 +148,38 @@ def basic_plotting(input_csv):
         plt.title("Geographical Distribution")
         plt.xlabel("Longitude")
         plt.ylabel("Latitude")
-        plt.savefig("geographical_distribution.png")
+        plt.savefig("graphs/geographical_distribution.png")
         plt.close()
 
-def outlier_detection(input_csv, column):
-    """Graphs a box and whiskers plot for price grouped by subcategory."""
+def outlier_detection(input_csv, category_column, value_column, save_extention):
+    """Graphs a box and whiskers plot for value_column grouped by category_column."""
     df = pd.read_csv(input_csv)
     plt.figure(figsize=(12, 8))
-    sns.boxplot(x=column, y='price', data=df)
-    plt.title('Price Distribution by: ' + column)
-    plt.xlabel(column)
-    plt.ylabel('Price')
+    sns.boxplot(x=category_column, y=value_column, data=df)
+    plt.title('Price Distribution by: ' + category_column)
+    plt.xlabel(category_column)
+    plt.ylabel(value_column)
     plt.xticks(rotation=45)
-    plt.savefig("price_distribution_by_" + column + "_clean_2.png")
+    plt.savefig(f"graphs/box_plot_{value_column}_by_{category_column + save_extention}.png")
     plt.close()
 
+def remove_outliers_by_category(input_csv, output_csv, category_column, value_column):
+    """Removes outliers in the value_column within each category of the category_column."""
+    df = pd.read_csv(input_csv)
+
+    def remove_outliers(group):
+        q1 = group[value_column].quantile(0.25)
+        q3 = group[value_column].quantile(0.75)
+        iqr = q3 - q1
+        lower_bound = q1 - 1.5 * iqr
+        upper_bound = q3 + 1.5 * iqr
+        return group[(group[value_column] >= lower_bound) & (group[value_column] <= upper_bound)]
+
+    filtered_df = df.groupby(category_column, group_keys=False).apply(remove_outliers)
+    filtered_df.to_csv(output_csv, index=False)
+    print(f"Outliers removed and data saved to {output_csv}")
+
 def extract_lat_long_from_location(df, location_column):
-    """
-    Extracts latitude and longitude from Google Maps links in the specified column.
-
-    Args:
-        df (pd.DataFrame): The DataFrame containing the location column.
-        location_column (str): The name of the column with Google Maps links.
-
-    Returns:
-        pd.DataFrame: DataFrame with added 'latitude' and 'longitude' columns.
-    """
     latitudes = []
     longitudes = []
 
@@ -209,21 +209,56 @@ def extract_lat_long_from_location(df, location_column):
     df['longitude'] = longitudes
     return df
 
+def plot_null_values_bar_chart(csv_file):
+    """
+    Creates a bar chart showing the number of null values in each column of a CSV file.
+
+    Args:
+        csv_file (str): Path to the CSV file.
+    """
+    # Load the CSV file into a DataFrame
+    df = pd.read_csv(csv_file)
+
+    # Calculate the number of null values per column
+    null_counts = df.isnull().sum()
+
+    # Plot the bar chart
+    plt.figure(figsize=(10, 6))
+    null_counts.plot(kind='bar', color='skyblue')
+    plt.title('Number of Null Values per Column')
+    plt.xlabel('Columns')
+    plt.ylabel('Number of Null Values')
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.savefig('graphs/null_values_bar_chart.png')
+    plt.close()
+
+def show_regression_plot(input_csv, x_column, y_column):
+    """
+    Displays a regression plot showing the relationship between two columns in the dataset.
+
+    Parameters:
+        data (pd.DataFrame): The dataset containing the columns.
+        x_column (str): The name of the column to be used as the x-axis.
+        y_column (str): The name of the column to be used as the y-axis.
+    """
+    data = pd.read_csv(input_csv)
+    plt.figure(figsize=(10, 6))
+    sns.regplot(x=x_column, y=y_column, data=data, line_kws={"color": "red"})
+    plt.title(f'Regression Plot: {x_column} vs {y_column}')
+    plt.xlabel(x_column)
+    plt.ylabel(y_column)
+    plt.grid(True)
+    plt.show()
+    plt.savefig(f"graphs/Regression_Plot:_{x_column}_vs_{y_column}.png")
+    plt.close()
+
 if __name__ == "__main__":
-    # print("eda before cleaning")
-    # eda("processed_data.csv")
-
-    clean_data("processed_data.csv", "cleaned_data.csv")
-    # print("eda after clean_data() was preformed")
-    # eda("cleaned_data.csv")
-
-    transform_cleaned_data("cleaned_data.csv", "cleaned_data.csv")
-    print("eda after transform_cleaned_data() was preformed")
-    eda("cleaned_data.csv")
-
-    # # Load your dataset
-    # df = pd.read_csv('cleaned_data.csv')
-    # df.to_csv('cleaned_data.csv', index=False)  # Replace 'cleaned_file.csv' with your desired output file name
-
-    # basic_plotting("cleaned_data.csv")
-    # outlier_detection("cleaned_data.csv")
+    df = pd.read_csv('cleaned_data_no_outliers.csv')
+    plt.figure(figsize=(8, 6))
+    sns.scatterplot(x='longitude', y='latitude', data=df)
+    plt.title("Geographical Distribution")
+    plt.xlabel("Longitude")
+    plt.ylabel("Latitude")
+    plt.savefig("graphs/geographical_distribution.png")
+    plt.close()
