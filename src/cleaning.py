@@ -64,6 +64,10 @@ def clean_data(input_csv, output_csv):
     df['price'] = df['price'].astype(str).str.extract('(\\d+)').astype(float)
     df['price'] = pd.to_numeric(df['price'], errors='coerce')
 
+
+    # Create price per meter square column
+    df['price_per_meter_square'] = df['price'] / df['surface_area']
+
     # Remove rows with non-numeric or missing prices
     df.dropna(subset=['price'], inplace=True)
 
@@ -387,22 +391,19 @@ def show_regression_plot(input_csv, x_column, y_column):
 
 if __name__ == "__main__":
     # clean_data('data/combined_data.csv','data/cleaned_data.csv')
-    # outlier_detection('data/cleaned_data.csv', 'facade', 'price', '_pre_cleaning')
 
     # transform_cleaned_data('data/cleaned_data.csv','data/cleaned_data_transformed.csv')
-    # remove_outliers_by_category('data/cleaned_data_transformed.csv', 'data/cleaned_data_transformed.csv', 'facade', 'price')
-    
-    # outlier_detection('data/cleaned_data_transformed.csv', 'facade', 'price', '_post_cleaning')
+    # remove_outliers_by_category('data/cleaned_data_transformed.csv', 'data/cleaned_data_transformed.csv', 'city', 'price_per_meter_square')
+    # remove_outliers_by_category('data/cleaned_data_transformed.csv', 'data/cleaned_data_transformed.csv', 'facade', 'price_per_meter_square')
+    # remove_outliers_by_category('data/cleaned_data_transformed.csv', 'data/cleaned_data_transformed.csv', 'subcategory', 'price_per_meter_square')
+
+    # outlier_detection('data/cleaned_data_transformed.csv', 'city', 'price_per_meter_square', '_post_cleaning')
+    # outlier_detection('data/cleaned_data_transformed.csv', 'facade', 'price_per_meter_square', '_post_cleaning')
+    # outlier_detection('data/cleaned_data_transformed.csv', 'subcategory', 'price_per_meter_square', '_post_cleaning')
+
+    eda('data/cleaned_data_transformed.csv')
 
     # basic_plotting('data/cleaned_data_transformed.csv')
-    show_regression_plot('data/cleaned_data_transformed.csv', 'surface_area', 'price')
-    show_regression_plot('data/cleaned_data_transformed.csv', 'longitude', 'price')
-    show_regression_plot('data/cleaned_data_transformed.csv', 'latitude', 'price')
-    show_regression_plot('data/cleaned_data_transformed.csv', 'bedrooms', 'price')
-    show_regression_plot('data/cleaned_data_transformed.csv', 'bathrooms', 'price')
-    # eda('data/cleaned_data_transformed.csv')
-
-    #REMEMBER TO MAKE THE COLUMN PRICE PER METER SQUARE LATER
 
     # first_list = ['20 Ramadan Road', '9th of July', 'AL Khalij Al Arabi St', 'AL-Mansoura', 'ALJAZERAH', 'ALMOQAWBAH', 'ALRWESAT', 'ALSKERAT', 'ALZAROQ', 'Abbad', 'Abu Meshmasha', "Abu Naw'was", 'Abu Rouiah', 'Abu Saleem', 'Abu Sittah', 'Ain Zara', 'Ain Zara Road', 'Ainzara St', 'Airport Highway', 'Airport Road', 'Al Bifi', 'Al Dahra', 'Al Entisar District', 'Al Fateh neighbourhood', 'Al Ghiran', "Al Hada'iq", 'Al Halis District', 'Al Hawary', 'Al Hilal Street', "Al Jala'a", 'Al Nahr Road', 'Al Nasr St', 'Al Nofleen', 'Al Rawda neighbourhood', 'Al Sabaa', 'Al Sarim', 'Al Serraj', 'Al Zawya Street', 'Al-Ahd Street', 'Al-Azeeb', "Al-Ba'ish", 'Al-Baesh', 'Al-Baiesh', 'Al-Berka', 'Al-Bivio', 'Al-Dhahra', 'Al-Fallah Road', "Al-Faqa'at", 'Al-Fatih', 'Al-Fornaj', 'Al-Fuwaihat', 'Al-Fuwayhat', 'Al-Ghasi', "Al-Hadaba'tool Rd", 'Al-Hadba Al-Khadra', 'Al-Hae Al-Senaea', 'Al-Hai Al-Jamei', 'Al-Halis', 'Al-Hammoudat', 'Al-Hamoudat', 'Al-Hani', 'Al-Haraba Road', 'Al-Harsha', 'Al-Hashan', 'Al-Hijaz st.', 'Al-Humaida', 'Al-Humaidah', 'Al-Jabs', "Al-Jadada'a", 'Al-Jamahirriyah St', 'Al-Jarabah St', 'Al-Jumhuriya Street', 'Al-Karuba', 'Al-Kesh', 'Al-Kremiah', 'Al-Kuwaifiyya', 'Al-Lithi', 'Al-Mahishi', 'Al-Majoure', 'Al-Majouri', 'Al-Manshia', 'Al-Mansoura', 'Al-Maqrif', 'Al-Masakin', 'Al-Mashtal Rd', 'Al-Mashtal Road', 'Al-Masira Al-Kubra St', 'Al-Matar St.', 'Al-Najila', 'Al-Nasr Street', 'Al-Nawaqiya', 'Al-Nofliyen', 'Al-Qaio', 'Al-Rahba', 'Al-Raidaat Road', 'Al-Rayaidat Island', 'Al-Ruwaisat', 'Al-Sabaa', 'Al-Sabaa Road', 'Al-Salam', 'Al-Salmani', 'Al-Sareem', 'Al-Sarraj neighbourhood', 'Al-Sarti', "Al-Sayeda A'esha", 'Al-Sedra', 'Al-Serraj', 'Al-Seyaheyya', 'Al-Shat Road', 'Al-Shawahda', 'Al-Shawarn Road', 'Al-Shok Rd', 'Al-Sidra', 'Al-Sindibad District', 'Al-Siyahiya', 'Al-Talhia', 'Al-Wakalat Street', 'Al-Zaiton District', 'Al-Zawiya', 'Al-Zawiyah St', 'Al-Zohour Al-Daribi District', 'AlHabbara', 'AlKhadra', 'AlMaqasbah', 'AlQadariya', 'AlSakt', 'AlZawraq', 'Alfornaj', 'Alhadba Alkhadra', 'Alhadba St', 'Almasaken', 'Alnejela', 'Alswani', 'Altagel', 'An Nawwaqiyah', 'An-Najila', 'Arada', 'Ard Zwawa Albahriya', 'Ard lamloom', 'As-Sulmani', 'As-Sulmani Al-Sharqi', "Asbi'a", 'Assabri', 'Aziziya', 'Bab Al-Azizia', 'Bab Bin Ghashier', 'Baloun', 'Baninah', 'Bashier Sadawi', 'Bayda', 'Beloun', 'Benghazi', 'Bin Ashour', 'Bin Ashur', 'Bin Yunus', 'Bir Al-Alam Road', 'Bir al-Isti Milad', 'Bo sneib', 'Boatni', 'Bodzirah', 'Bohdema', 'Bossneb', 'Boudressa', 'Bu Hadi', 'Buhadi', 'Cyrene', 'Dagadosta', 'Dakkadosta', 'Diplomacy District', 'Diplomatic Quarter', 'Dollar', 'Dollar neighbourhood', 'Downtown', 'Dubai Road', 'Dubai Street', 'Eastern Hadba Rd', 'Edraibi', 'Espiaa', 'Fashloum', 'Fourth Circular Road', 'Ganfouda', 'Gardens', 'Garyounis', 'Gasr Garabulli', 'Ghanima', 'Gharghour', 'Gharyan Road', 'Ghut Shaal', 'Gorje', 'Hadaba project', 'Hai Al-Batata', 'Hai Alandalus', 'Hai Alsslam', 'Hai Qatar', 'Haiti St', 'Hawary', 'Hay Al-Islami', 'Hay Al-Siraj', 'Hay Al-andalous', 'Hay Demsheq', 'Hay Es Salem', 'Hay Qatar', 'Hay almachriki', 'Independence St', 'Islamic preaching', "Jama'a Saqa'a", 'Janzour', 'Jazeerat Al-Fahm', 'Jikharra', 'Kaam Area', 'Kaam village', 'Karzaz', 'Kashlaf', 'Keesh', 'Kerzaz', 'Khalatat St', 'Khalla Al-Rashah', 'Khallet Al Furjan', 'Khallet Alforjan', 'Khorasan', 'Kraut', 'Kreemia', 'Kuwayfiyah', 'Lebanon District', 'MISRATA', 'Masr St', 'Military Hospital', 'Mizran St', 'Moqawaba', 'New Benghazi', 'Old City', 'Old Soar Road', 'Omar Al-Mukhtar Rd', 'Omar Al-Mukhtar Street', 'Other', 'Palestine St', 'Pepsi Street', 'Pepsi street', 'QASER AHMED', 'Qaminis', 'Qanfooda', 'Qar Yunis', 'Qasr Ahmed Road', 'Qasr Bin Ghashir', 'Qasr bin Ghasher', 'Qawarsheh', 'Qerqarish', 'Ras Abaydah', 'Ras Hassan', 'River Road', 'Ruweisat', 'Saidi St', 'Salah Al-Din', 'Salah Al-dien', 'Salah Aldeen', 'Shabna', 'Shawqy St', 'Sidi Al-Masri', "Sidi Al-Sae'a", 'Sidi Bons', 'Sidi Faraj', 'Sidi Husain', 'Sidi Hussein', 'Sidi Khalifa', 'Sidi Younis', 'Soap Factory Road', 'Soq Al-Jomua road', "Souq Al Jum'aa", "Souq Al-Juma'a", 'Souq Al-Khamis', 'Souq Elkhamis', 'Street Alswani', 'Syria Street', 'TAREQ ALTHMANYAH', 'TIMENAH', 'Tabalino', 'Tajoura', 'Tajura', 'Talil', 'Tamina', 'Tareeq Al-Mashtal', 'Tariq Zanatah', 'That Al-Emad', 'The highway near', 'The second ring', 'Tikah', 'Tripoli', 'Tripoli St', 'Twenty Street', 'Um Mabrokah', 'Um Shweisha', 'University district', 'University of Tripoli', 'Vehicles', 'Venecia', 'Venice', 'Venice 2', 'Wadi Al-Rabi', 'West Zawiya', 'Western Zawiya', 'Wild Life Rd', 'Wildlife Road', 'Yeder', 'Zamzam neighbourhood', 'Zanata', 'Zanatah', 'Zanzour al shat', 'Zawiyat Al Dahmani', 'Zawiyat Al-Dahmani', 'Zawiyat Al-Mahjoub', 'al fakat', 'al hadbai', 'al magzaha', 'al rahaba', 'al talheya', 'albaeishei', 'alkhili', 'kareimia', 'om mabroka', 'saida aisha', 'tajoura', 'wakalet', 'جوددائم', 'عين زارة', 'nan']
 
