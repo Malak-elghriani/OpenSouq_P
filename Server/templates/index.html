@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Estimator</title>
+    <link rel="stylesheet" href="static/styles.css">
+    <script src="static/script.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="page-container">
+        <main>
+            <div class="heading-section">
+                <h1>How much does YOUR house cost?</h1>
+                <p>Get an instant estimate of your house price in Libya based on its features and location.</p>
+            </div>
+        </main>
+
+        <div class="form-card">
+            <h2>Enter properties</h2>
+            <form id="priceForm">
+                <div class="input-area">
+                    <label>Bedrooms</label>
+                    <input type="number" id="bedrooms" required>
+                </div>
+
+                <div class="input-area">
+                    <label>Bathrooms</label>
+                    <input type="number" id="bathrooms" required>
+                </div>
+
+                <div class="input-area">
+                    <label>Surface Area (m²)</label>
+                    <input type="number" step="0.01" id="surface_area" required>
+                </div>
+
+                <div class="input-area">
+                    <label>Location</label>
+                    <button type="button" id="openMap">Select Location</button>
+                </div>
+
+                <button type="submit" class="estimate-button">
+                    <p id="result">Estimate Price</p>
+                </button>
+            </form>
+
+        </div>
+
+        <div id="mapModal" class="modal">
+            <div class="modal-content">
+                <span id="closeModal">&times;</span>
+                <div id="map"></div>
+            </div>
+        </div>
+
+        <img src="static/images/bottom-illustration.png" class="bottom-art">
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    </div>
+</body>
+</html>
