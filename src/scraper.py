@@ -80,7 +80,7 @@ def main():
     # 2. APPLY THE LIMIT/RANGE
     links_subset = all_links[START_INDEX:END_INDEX]
     
-    # 3. Filter out guys who are broken and links already in your JSON
+    # 3. Filter out links that are broken and links already in your JSON
     scraped_urls = get_already_scraped()
     links_to_process = [i for i in links_subset if i not in scraped_urls]
     
@@ -97,7 +97,7 @@ def main():
             except:
                 results = []
 
-    # 5. Loopie loopppppppp through the limited list
+    # 5. Loopie loopppppppp through the list
     for i, url in enumerate(links_to_process):
         print(f"Processing {i+1}/{len(links_to_process)}: {url}")
         

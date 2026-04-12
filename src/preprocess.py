@@ -1,6 +1,4 @@
 import pandas as pd
-import requests
-import re
 import json
 
 def clean_and_process_data(json_file, unclean_csv, output_csv):
